@@ -1,0 +1,88 @@
+text,category,sub-category
+Thank you for calling the Reserve Bank of India. How can I help you?,Legitimate,Legitimate
+We are calling to provide information about the new banking regulations regarding interest rates.,Legitimate,Legitimate
+This is [Name] from the RBI. We are following up on your complaint regarding unauthorized transaction.,Legitimate,Legitimate
+We have received your complaint about [bank]. We are investigating the matter.,Legitimate,Legitimate
+The RBI is conducting a survey about your experience with banking services. Would you like to participate?,Legitimate,Legitimate
+This is the RBI calling. Your bank account will be frozen if you don't update your KYC immediately.,GovernmentImpersonation,Banking
+"We have detected suspicious activity on your bank account. To prevent it from being frozen, you must update your KYC over the phone.",GovernmentImpersonation,Banking
+"We need to verify your bank account details. Please provide your account number, IFSC code, and OTP over the phone.",GovernmentImpersonation,Banking
+Your bank account has been compromised. Please provide your bank account details and OTP over the phone to secure it.,GovernmentImpersonation,Banking
+We need to verify your UPI account. Please provide your UPI PIN over the phone.,GovernmentImpersonation,Banking
+We are offering a loan with a low interest rate. You must pay a processing fee of ₹[amount] over the phone to get the loan.,GovernmentImpersonation,Banking
+You are pre-approved for a loan. Please provide your bank account details over the phone to receive the loan.,GovernmentImpersonation,Banking
+"You have won a lottery! To claim your prize, you must pay a processing fee over the phone.",GovernmentImpersonation,Banking
+Congratulations! You have won a free gift! You must pay a shipping fee over the phone.,GovernmentImpersonation,Banking
+We are investigating fraudulent transactions on your bank account. You must transfer funds to a 'safe' account over the phone to protect your money.,GovernmentImpersonation,Banking
+We need to reverse a fraudulent transaction. Please provide your OTP over the phone to complete the reversal.,GovernmentImpersonation,Banking
+We are calling to upgrade your bank account. Please provide your bank account details and OTP over the phone.,GovernmentImpersonation,Banking
+We are offering a high-return investment opportunity. Please provide your bank account details over the phone to invest.,GovernmentImpersonation,Banking
+RBI calling: Your bank account is blocked. Share Aadhar number to unblock.,GovernmentImpersonation,Banking
+Reserve Bank of India calling: We need to verify your bank account. Pay to verify.,GovernmentImpersonation,Banking
+RBI: Your account is about to expire. Pay to renew.,GovernmentImpersonation,Banking
+Reserve Bank of India: Your account is linked to a fake Aadhar card. Share bank details.,GovernmentImpersonation,Banking
+RBI calling: Your account has been hacked. Install this app to secure it.,GovernmentImpersonation,Banking
+Reserve Bank of India: We are offering a free account upgrade. Share OTP now,GovernmentImpersonation,Banking
+RBI: We need to update your account KYC. Share Aadhar number and bank details.,GovernmentImpersonation,Banking
+Reserve Bank of India: We are offering a free mobile recharge. Share UPI now,GovernmentImpersonation,Banking
+RBI calling: You won a free car. Pay fees to claim.,GovernmentImpersonation,Banking
+Reserve Bank of India: We are going to block your account. Update your KYC.,GovernmentImpersonation,Banking
+RBI: We have a warrant for your arrest. Pay a bribe now.,GovernmentImpersonation,Banking
+Reserve Bank of India: Your account is linked to crime. Share bank details.,GovernmentImpersonation,Banking
+RBI calling: Your account has been used for fraud. Pay to avoid action.,GovernmentImpersonation,Banking
+Reserve Bank of India: We are offering a new banking service. Pay fees now.,GovernmentImpersonation,Banking
+RBI: We need to verify your identity. Share Aadhar number and OTP.,GovernmentImpersonation,Banking
+Reserve Bank of India: We are giving away free mobile phones. Share address now,GovernmentImpersonation,Banking
+RBI calling: Your account is not secure. Share OTP to secure it.,GovernmentImpersonation,Banking
+Reserve Bank of India: Your account is expiring soon. Pay us to renew it.,GovernmentImpersonation,Banking
+RBI: You have won a lottery. Pay processing fees to claim.,GovernmentImpersonation,Banking
+Reserve Bank of India: We are conducting a survey. Share your Aadhar details.,GovernmentImpersonation,Banking
+RBI calling: Your account is not registered. Share your details now to register.,GovernmentImpersonation,Banking
+Reserve Bank of India: Your account is being used for illegal activities. Pay us to stop it.,GovernmentImpersonation,Banking
+RBI: Your account is linked to multiple accounts. Share your bank details.,GovernmentImpersonation,Banking
+Reserve Bank of India: We are offering a free account upgrade. Share your OTP.,GovernmentImpersonation,Banking
+RBI calling: Your account is being targeted by hackers. Pay us to secure it.,GovernmentImpersonation,Banking
+Reserve Bank of India: Your account is blocked due to outstanding dues. Pay now to unblock.,GovernmentImpersonation,Banking
+RBI: You are eligible for a government subsidy. Share your bank details.,GovernmentImpersonation,Banking
+Reserve Bank of India: We are giving away free smartphones. Share your address.,GovernmentImpersonation,Banking
+RBI calling: We are updating our system. Share your account password.,GovernmentImpersonation,Banking
+Reserve Bank of India: Your account is being used for money laundering. Pay us to clear your name.,GovernmentImpersonation,Banking
+RBI: You have a pending refund. Share your bank account details to claim.,GovernmentImpersonation,Banking
+Reserve Bank of India: We are offering a free account verification service. Share your details.,GovernmentImpersonation,Banking
+RBI calling: Your account is being targeted by identity thieves. Pay us to protect you.,GovernmentImpersonation,Banking
+Reserve Bank of India: We are updating our security protocols. Share your account PIN.,GovernmentImpersonation,Banking
+RBI: Your account is being used to commit cybercrimes. Pay us to stop it.,GovernmentImpersonation,Banking
+Reserve Bank of India: We are giving away free account-enabled devices. Share your address.,GovernmentImpersonation,Banking
+RBI calling: Your account is required for a new government scheme. Share your bank details.,GovernmentImpersonation,Banking
+Reserve Bank of India: We need to verify your account details. Share your OTP,GovernmentImpersonation,Banking
+RBI: Your account is being used to finance terrorism. Pay us to clear your name.,GovernmentImpersonation,Banking
+Reserve Bank of India: We are offering a free account insurance policy. Share your details.,GovernmentImpersonation,Banking
+RBI calling: Your account is being targeted by international criminals. Pay us to protect you.,GovernmentImpersonation,Banking
+Reserve Bank of India: We are updating our authentication system. Share your account password.,GovernmentImpersonation,Banking
+RBI: Your account is being used to facilitate drug trafficking. Pay us to stop it.,GovernmentImpersonation,Banking
+Reserve Bank of India: We are giving away free account-based healthcare services. Share your address.,GovernmentImpersonation,Banking
+RBI calling: Your account is required to access a new government loan. Share your bank details.,GovernmentImpersonation,Banking
+Reserve Bank of India: We need to verify your account details. Share your OTP,GovernmentImpersonation,Banking
+RBI: Your account is being used to support organized crime. Pay us to clear your name.,GovernmentImpersonation,Banking
+Reserve Bank of India: We are offering a free account security audit. Share your details.,GovernmentImpersonation,Banking
+RBI calling: Your account is being targeted by rogue nations. Pay us to protect you.,GovernmentImpersonation,Banking
+RBI: We are conducting a survey on banking habits. Do you have a moment to answer a few questions?,Legitimate,Legitimate
+Reserve Bank of India: We are calling to remind you about the new guidelines on digital payments.,Legitimate,Legitimate
+RBI: Your complaint has been resolved. Please let us know if you have any further concerns.,Legitimate,Legitimate
+Reserve Bank of India: We are calling to inform you about the upcoming changes in banking regulations.,Legitimate,Legitimate
+RBI: There is a change in the interest rates for savings accounts. Please check our website for details.,Legitimate,Legitimate
+Reserve Bank of India: We are organizing a financial literacy workshop in your area. We encourage you to participate.,Legitimate,Legitimate
+RBI: Your application for a new credit card has been approved.,Legitimate,Legitimate
+Reserve Bank of India: We are calling to remind you about the deadline for linking your Aadhar card to your bank account.,Legitimate,Legitimate
+RBI: There is a change in the ATM withdrawal limits. Please check our website for details.,Legitimate,Legitimate
+Reserve Bank of India: We are organizing a public awareness campaign about cyber security.,Legitimate,Legitimate
+RBI: Your application for a loan has been approved.,Legitimate,Legitimate
+Reserve Bank of India: We are calling to inform you about the new regulations on mobile banking.,Legitimate,Legitimate
+RBI: There is a change in the KYC norms for opening a new bank account.,Legitimate,Legitimate
+Reserve Bank of India: We are organizing a workshop on financial planning.,Legitimate,Legitimate
+RBI: Your application for a new debit card has been approved.,Legitimate,Legitimate
+Reserve Bank of India: We are calling to inform you about the new regulations on online transactions.,Legitimate,Legitimate
+RBI: There is a change in the charges for NEFT transactions.,Legitimate,Legitimate
+Reserve Bank of India: We are organizing a public forum to discuss the banking sector.,Legitimate,Legitimate
+RBI: Your application for a new cheque book has been approved.,Legitimate,Legitimate
+Reserve Bank of India: We are calling to inform you about the new regulations on credit card usage.,Legitimate,Legitimate

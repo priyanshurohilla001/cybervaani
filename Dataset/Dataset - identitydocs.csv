@@ -1,0 +1,54 @@
+text,category,sub-category
+"Thank you for calling [Department - e.g., Passport Seva Kendra]. How can I help you?",Legitimate,Legitimate
+"This is to inform you that your [document - e.g., passport] application has been [status - e.g., approved, rejected].",Legitimate,Legitimate
+"Your [document - e.g., PAN card] has been dispatched. You can track it using [tracking number].",Legitimate,Legitimate
+"This is a reminder about your appointment for [document - e.g., passport verification] at [location] on [date] at [time].",Legitimate,Legitimate
+"This is calling from the Income Tax Department. Your PAN card has been blocked. To unblock it, please provide your PAN number, Aadhaar number, and bank account details over the phone.",GovernmentImpersonation,IdentityDocs
+"We need to update your PAN card details. Please provide your PAN number, date of birth, and other personal information over the phone.",GovernmentImpersonation,IdentityDocs
+Your PAN card is linked to a fraudulent account. You must pay ₹[amount] over the phone to resolve the issue.,GovernmentImpersonation,IdentityDocs
+Your Voter ID is not linked to your Aadhaar. You must provide your Aadhaar number and OTP over the phone to link them.,GovernmentImpersonation,IdentityDocs
+Your Voter ID has been flagged for suspicious activity. You must pay a fine over the phone to avoid being removed from the voter list.,GovernmentImpersonation,IdentityDocs
+We are updating the voter list. Please provide your Voter ID number and other personal information over the phone.,GovernmentImpersonation,IdentityDocs
+Your driving license has been suspended. You must pay a fine over the phone to reinstate it.,GovernmentImpersonation,IdentityDocs
+We need to verify your driving license details. Please provide your license number and other personal information over the phone.,GovernmentImpersonation,IdentityDocs
+Your driving license is expiring. You must pay a fee over the phone to renew it.,GovernmentImpersonation,IdentityDocs
+Your passport application has been rejected. You must pay a fee over the phone to expedite the process.,GovernmentImpersonation,IdentityDocs
+We need to verify your passport details. Please provide your passport number and other personal information over the phone.,GovernmentImpersonation,IdentityDocs
+Your passport is ready for delivery. You must pay a shipping fee over the phone.,GovernmentImpersonation,IdentityDocs
+This is from Ration Card Department. Your Ration card is blocked share OTP to unblock.,GovernmentImpersonation,IdentityDocs
+Passport office calling. Your passport is on hold. Share Aadhar card to release.,GovernmentImpersonation,IdentityDocs
+Voter ID calling. We need to verify you. Share bank details to KYC,GovernmentImpersonation,IdentityDocs
+Driving License calling. Your license is not linked with Aadhar. Share details.,GovernmentImpersonation,IdentityDocs
+PAN card office calling. Your PAN card is blocked. Pay fee to unlock.,GovernmentImpersonation,IdentityDocs
+Ration card office calling. There is a problem with your ration card. Share OTP now,GovernmentImpersonation,IdentityDocs
+Passport office: We need to verify your passport details. Share your passport number and expiry date.,GovernmentImpersonation,IdentityDocs
+Voter ID: There is a problem with your voter ID. Pay a fee to fix it.,GovernmentImpersonation,IdentityDocs
+Driving License: Your driving license is about to expire. Pay a fee to renew it.,GovernmentImpersonation,IdentityDocs
+PAN card: Your PAN card has been misused. Pay a fine to avoid legal action.,GovernmentImpersonation,IdentityDocs
+Ration card: Your ration card is blocked. Share OTP to unblock.,GovernmentImpersonation,IdentityDocs
+Passport office calling. Your passport is seized by customs. Pay fee to release.,GovernmentImpersonation,IdentityDocs
+Voter ID calling. We need to update your photo on voter ID. Share Aadhar number.,GovernmentImpersonation,IdentityDocs
+Driving License calling. Your license has been impounded. Pay to get it back.,GovernmentImpersonation,IdentityDocs
+PAN card office calling. There is a tax problem with your PAN card. Pay fee to clear.,GovernmentImpersonation,IdentityDocs
+Ration card office calling. Your ration card is linked to black marketing. Pay to avoid action.,GovernmentImpersonation,IdentityDocs
+Passport office: Your passport has fake details. Pay to correct.,GovernmentImpersonation,IdentityDocs
+Voter ID: Someone has complained against you. Pay a fine to avoid legal action.,GovernmentImpersonation,IdentityDocs
+Driving License: Someone is misusing your license. Pay to avoid trouble.,GovernmentImpersonation,IdentityDocs
+PAN card: Your PAN card has been used for money laundering. Pay to clear your name.,GovernmentImpersonation,IdentityDocs
+Ration card: Your ration card is linked to illegal transactions. Pay to avoid action.,GovernmentImpersonation,IdentityDocs
+Passport office calling. Your passport has been used for illegal travel. Pay to clear.,GovernmentImpersonation,IdentityDocs
+Voter ID calling. There is a criminal case against your voter ID. Pay to avoid arrest.,GovernmentImpersonation,IdentityDocs
+Driving License calling. There is a police case against your license. Pay to avoid action.,GovernmentImpersonation,IdentityDocs
+PAN card office calling. We are investigating your tax evasion with your PAN card. Pay to avoid legal action.,GovernmentImpersonation,IdentityDocs
+Ration card office calling. We are investigating your illegal ration purchases. Pay to avoid action.,GovernmentImpersonation,IdentityDocs
+Passport office: Your passport has been used for human trafficking. Pay to clear.,GovernmentImpersonation,IdentityDocs
+Voter ID: Your voter ID has been used for fraudulent voting. Pay to avoid legal action.,GovernmentImpersonation,IdentityDocs
+Driving License: Your driving license has been used for reckless driving. Pay to avoid suspension.,GovernmentImpersonation,IdentityDocs
+PAN card: We are going to freeze your bank accounts because of your PAN. Pay to avoid it.,GovernmentImpersonation,IdentityDocs
+Ration card: We will remove your name from ration card. Pay to avoid it.,GovernmentImpersonation,IdentityDocs
+Passport office: We will blacklist you and cancel your passport. Pay to avoid it.,GovernmentImpersonation,IdentityDocs
+Voter ID: We will remove your name from voter list. Pay to avoid it.,GovernmentImpersonation,IdentityDocs
+Driving License: We will cancel your driving license. Pay to avoid it.,GovernmentImpersonation,IdentityDocs
+PAN card: We will arrest you for tax evasion. Pay to avoid it.,GovernmentImpersonation,IdentityDocs
+Ration card: We will file a police case against you. Pay to avoid it.,GovernmentImpersonation,IdentityDocs
+"To verify your identity, please provide your [document number - e.g., PAN number, Passport number].",GovernmentImpersonation,IdentityDocs

@@ -1,0 +1,527 @@
+text,category,sub-category
+"Hello, this is David from Microsoft Support. Your computer has a serious virus that is affecting your Aadhaar-linked bank account. We need to fix it immediately.",RemoteAccessRequest,RemoteAccess
+This is [Name] from SBI Bank. There are suspicious transactions on your account. Please install TeamViewer so we can secure your UPI access.,RemoteAccessRequest,RemoteAccess
+This is Inspector Sharma from the Cyber Crime Cell. Your device has been used to commit a cybercrime. Please install QuickSupport so we can investigate and help you.,RemoteAccessRequest,RemoteAccess
+This is [Name] from Amazon customer service. Your refund transaction failed. Please install AnyDesk so we can process it again.,RemoteAccessRequest,RemoteAccess
+We are offering a work-from-home data entry job with high income. Please install TeamViewer so we can set up your computer and start your training.,RemoteAccessRequest,RemoteAccess
+"This is UPPCL calling. Your electricity bill is overdue, and your power will be disconnected today. Please install AnyDesk so we can help you pay it and avoid disconnection.",RemoteAccessRequest,RemoteAccess
+"Microsoft: Beta, your computer has a virus! Install AnyDesk immediately!",RemoteAccessRequest,RemoteAccess
+"SBI: Sir, your account is at high risk! Download TeamViewer now!",RemoteAccessRequest,RemoteAccess
+"Cyber Crime Cell: Madam, your device is compromised. Install QuickSupport for investigation.",RemoteAccessRequest,RemoteAccess
+"Amazon Refund: Baccha, download AnyDesk to receive your refund!",RemoteAccessRequest,RemoteAccess
+"Data Entry Company: Install TeamViewer, beta, to set up your job!",RemoteAccessRequest,RemoteAccess
+"UPPCL: Sir, install AnyDesk to avoid power cut!",RemoteAccessRequest,RemoteAccess
+"Microsoft: Your computer is running very slow, install AnyDesk to optimize it!",RemoteAccessRequest,RemoteAccess
+"HDFC: Your account needs KYC, Madam, install TeamViewer to update!",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: We need to check your device, install QuickSupport for help, beta!",RemoteAccessRequest,RemoteAccess
+"Flipkart: Your refund is stuck, install AnyDesk to release it, Sir!",RemoteAccessRequest,RemoteAccess
+"Online Marketing: Work from home, install TeamViewer, Madam, for training!",RemoteAccessRequest,RemoteAccess
+"BESCOM: Your meter is faulty, install AnyDesk or power cut!",RemoteAccessRequest,RemoteAccess
+"Microsoft: Your computer is sending out suspicious signals. Download AnyDesk for immediate resolution, Sir.",RemoteAccessRequest,RemoteAccess
+"SBI: Your account has been flagged for unauthorized access. Download TeamViewer for a security review, Madam.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: We have detected suspicious activity on your device and need to investigate immediately. Download QuickSupport for assistance, beta.",RemoteAccessRequest,RemoteAccess
+"Amazon Refund: You're due a refund. Install AnyDesk for quick processing and assistance, Sir.",RemoteAccessRequest,RemoteAccess
+"Work From Home: We need you to install TeamViewer so we can set up your remote workstation efficiently and securely, Madam.",RemoteAccessRequest,RemoteAccess
+"UPPCL: Sir, your electricity bill is overdue. Download AnyDesk now to avoid disconnection.",RemoteAccessRequest,RemoteAccess
+"Microsoft: Madam, your computer has been infected with malware. Download AnyDesk now for immediate removal.",RemoteAccessRequest,RemoteAccess
+"RBI: Sir, your bank account has been compromised. Download TeamViewer now for a security check.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Beta, your device is being used for illegal activities. Download QuickSupport now for investigation.",RemoteAccessRequest,RemoteAccess
+"Flipkart: Madam, you have an unclaimed refund. Download AnyDesk now to claim it.",RemoteAccessRequest,RemoteAccess
+"Data Entry: Sir, download TeamViewer now to set up your work-from-home job.",RemoteAccessRequest,RemoteAccess
+"BESCOM: Madam, your meter needs to be updated. Download AnyDesk now to avoid disconnection.",RemoteAccessRequest,RemoteAccess
+"Microsoft: Sir, your computer's firewall is not working. Download AnyDesk now to fix it.",RemoteAccessRequest,RemoteAccess
+"HDFC: Madam, your UPI account is at risk. Download TeamViewer now to secure it.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Beta, your device has been used for online fraud. Download QuickSupport now for assistance.",RemoteAccessRequest,RemoteAccess
+"Amazon: Sir, you have a cashback offer. Download AnyDesk now to claim it.",RemoteAccessRequest,RemoteAccess
+"Online Marketing: Madam, download TeamViewer now for remote training and setup.",RemoteAccessRequest,RemoteAccess
+"UPPCL: Sir, your electricity meter needs to be checked. Download AnyDesk now to avoid a fine.",RemoteAccessRequest,RemoteAccess
+"Microsoft: Beta, your Windows is not genuine. Download AnyDesk now to activate it.",RemoteAccessRequest,RemoteAccess
+"SBI: Sir, your internet banking is blocked. Download TeamViewer now to unblock it.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Madam, your social media accounts have been hacked. Download QuickSupport now for help.",RemoteAccessRequest,RemoteAccess
+"Flipkart: Beta, you have won a lottery. Download AnyDesk now to claim your prize.",RemoteAccessRequest,RemoteAccess
+"Data Entry: Sir, download TeamViewer now for a quick job setup and training.",RemoteAccessRequest,RemoteAccess
+"BESCOM: Madam, your electricity connection is under review. Download AnyDesk now to avoid a penalty.",RemoteAccessRequest,RemoteAccess
+"Microsoft: Sir, your computer has been hacked. Download AnyDesk now to get immediate assistance.",RemoteAccessRequest,RemoteAccess
+"Bank Security Alert: Madam, your account is at high risk. Download TeamViewer now for immediate security.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime Investigation Unit: Beta, your device has been compromised and requires immediate action. Download QuickSupport for assistance.",RemoteAccessRequest,RemoteAccess
+"Express Refund Assistance: Sir, download AnyDesk now for express refund processing and quick assistance.",RemoteAccessRequest,RemoteAccess
+"Online Work Portal: Madam, install TeamViewer to access your work files and resources securely and efficiently, starting today.",RemoteAccessRequest,RemoteAccess
+"UPPCL: Beta, your electricity bill is overdue. Download AnyDesk now to avoid immediate disconnection.",RemoteAccessRequest,RemoteAccess
+"Microsoft Tech Support: Sir, your computer is showing signs of a critical error and needs immediate attention. Download AnyDesk now to get started.",RemoteAccessRequest,RemoteAccess
+"HDFC Bank Fraud Alert: Madam, your account has been flagged for fraudulent activity and requires immediate action. Download TeamViewer now so we can secure your funds.",RemoteAccessRequest,RemoteAccess
+"Cyber Security Agency: Beta, your device is vulnerable to cyberattacks and requires immediate protection. Download QuickSupport now so we can protect your data.",RemoteAccessRequest,RemoteAccess
+"Online Refund Center: Sir, you have an unclaimed refund and require immediate action. Download AnyDesk now to claim it immediately.",RemoteAccessRequest,RemoteAccess
+"Remote Work Setup: Madam, we need to access your computer remotely to set up your virtual office and start your work. Download TeamViewer today.",RemoteAccessRequest,RemoteAccess
+"Microsoft: Beta, we detected unusual activity on your PC. Install AnyDesk now to fix it!",RemoteAccessRequest,RemoteAccess
+"SBI: Sir, unauthorized access detected. Download TeamViewer for a security check immediately!",RemoteAccessRequest,RemoteAccess
+"Cybersecurity Taskforce: Madam, your data is at risk, act now! Install QuickSupport to secure it!",RemoteAccessRequest,RemoteAccess
+"Refund Service: Sir, claim your refund quickly by installing AnyDesk right now!",RemoteAccessRequest,RemoteAccess
+"Online Job: Beta, download TeamViewer for initial training, it is urgent!",RemoteAccessRequest,RemoteAccess
+"Microsoft Support: Sir, your computer has been flagged. Install AnyDesk now for immediate protection!",RemoteAccessRequest,RemoteAccess
+"Bank Security: Madam, your account is under threat, act now! Download TeamViewer immediately!",RemoteAccessRequest,RemoteAccess
+"Cyber Crime Investigation: Beta, we need remote access urgently. Install QuickSupport now!",RemoteAccessRequest,RemoteAccess
+"Refund Assistance: Sir, download AnyDesk for express refund, don't delay!",RemoteAccessRequest,RemoteAccess
+"Virtual Job: Madam, install TeamViewer to get started immediately!",RemoteAccessRequest,RemoteAccess
+"Microsoft Alert: Beta, your computer is sending error messages, fix it now! Download AnyDesk!",RemoteAccessRequest,RemoteAccess
+"Bank Warning: Sir, your account has been compromised, act fast! Download TeamViewer!",RemoteAccessRequest,RemoteAccess
+"Cybercrime Unit: Madam, we need to investigate your device now! Download QuickSupport!",RemoteAccessRequest,RemoteAccess
+"Refund Help: Beta, download AnyDesk to receive your money urgently!",RemoteAccessRequest,RemoteAccess
+"Online Work: Sir, install TeamViewer to access your files immediately!",RemoteAccessRequest,RemoteAccess
+"Microsoft Tech: Madam, your system is vulnerable, act now! Install AnyDesk immediately!",RemoteAccessRequest,RemoteAccess
+"Bank Security: Beta, your account has been hacked, don't wait! Download TeamViewer for assistance!",RemoteAccessRequest,RemoteAccess
+"Cyber Crime Division: Sir, your device is under attack, prevent it now! Install QuickSupport!",RemoteAccessRequest,RemoteAccess
+"Refund Services: Madam, install AnyDesk to claim your refund urgently!",RemoteAccessRequest,RemoteAccess
+"Remote Career: Beta, download TeamViewer to begin your new career setup now!",RemoteAccessRequest,RemoteAccess
+"Microsoft Experts: Sir, your computer requires urgent attention, fix it now! Install AnyDesk!",RemoteAccessRequest,RemoteAccess
+"Bank Fraud Prevention: Madam, your account is at high risk, secure it now! Install TeamViewer!",RemoteAccessRequest,RemoteAccess
+"Cyber Security Force: Beta, your device requires immediate attention, protect it now! Install QuickSupport!",RemoteAccessRequest,RemoteAccess
+"Instant Refund Center: Sir, download AnyDesk to initiate your refund process urgently!",RemoteAccessRequest,RemoteAccess
+"Quick Remote Job: Madam, install TeamViewer for a quick and easy setup now!",RemoteAccessRequest,RemoteAccess
+"Microsoft Help: Beta, your computer has been flagged with errors, fix it now! Download AnyDesk!",RemoteAccessRequest,RemoteAccess
+"Bank Alert: Sir, unauthorized access detected on your account, secure it now! Download TeamViewer!",RemoteAccessRequest,RemoteAccess
+"Cybersecurity Team: Madam, your data is at risk and immediate action is needed, secure it now! Install QuickSupport!",RemoteAccessRequest,RemoteAccess
+"Fast Refund Service: Beta, claim your refund quickly by installing AnyDesk, don't wait!",RemoteAccessRequest,RemoteAccess
+"Get Started Online Job: Sir, download TeamViewer for initial training and setup urgently!",RemoteAccessRequest,RemoteAccess
+"Microsoft Support Team: Beta, your computer has been flagged for potential threats. Install AnyDesk now so we can resolve them quickly and efficiently.",RemoteAccessRequest,RemoteAccess
+"Bank Customer Care: Sir, your account is under threat and requires immediate action. Download TeamViewer now so we can secure it and prevent fraud.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime Investigation Unit: Madam, we need remote access to your device to investigate a potential breach. Install QuickSupport now for assistance and resolution.",RemoteAccessRequest,RemoteAccess
+"Express Refund Assistance: Beta, download AnyDesk now for express refund processing and fast assistance. It's urgent!",RemoteAccessRequest,RemoteAccess
+"Online Work Portal: Sir, install TeamViewer to access your work files and resources securely and remotely, starting today for a quick career.",RemoteAccessRequest,RemoteAccess
+"Microsoft beta ji, your computer has a virus! Install AnyDesk immediately!",RemoteAccessRequest,RemoteAccess
+"SBI sir ji, your account is at high risk! Download TeamViewer now!",RemoteAccessRequest,RemoteAccess
+"Cyber Crime Cell madam ji, your device is compromised. Install QuickSupport for investigation.",RemoteAccessRequest,RemoteAccess
+"Amazon Refund beta ji, download AnyDesk to receive your refund!",RemoteAccessRequest,RemoteAccess
+"Data Entry Company sir ji, install TeamViewer to set up your job!",RemoteAccessRequest,RemoteAccess
+"UPPCL madam ji, install AnyDesk to avoid power cut!",RemoteAccessRequest,RemoteAccess
+"Microsoft beta ji, your computer is running very slow, install AnyDesk to optimize it!",RemoteAccessRequest,RemoteAccess
+"HDFC sir ji, your account needs KYC, install TeamViewer to update!",RemoteAccessRequest,RemoteAccess
+"Cyber Crime beta ji, we need to check your device, install QuickSupport for help!",RemoteAccessRequest,RemoteAccess
+"Flipkart madam ji, your refund is stuck, install AnyDesk to release it!",RemoteAccessRequest,RemoteAccess
+"Online Marketing sir ji, work from home, install TeamViewer for training!",RemoteAccessRequest,RemoteAccess
+"BESCOM beta ji, your meter is faulty, install AnyDesk or power cut!",RemoteAccessRequest,RemoteAccess
+"Microsoft sir ji, your computer's firewall is not working. Download AnyDesk now to fix it.",RemoteAccessRequest,RemoteAccess
+"HDFC madam ji, your UPI account is at risk. Download TeamViewer now to secure it.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime beta ji, your device has been used for online fraud. Download QuickSupport now for assistance.",RemoteAccessRequest,RemoteAccess
+"Amazon sir ji, you have a cashback offer. Download AnyDesk now to claim it.",RemoteAccessRequest,RemoteAccess
+"Online Marketing madam ji, download TeamViewer now for remote training and setup.",RemoteAccessRequest,RemoteAccess
+"UPPCL beta ji, your electricity meter needs to be checked. Download AnyDesk now to avoid a fine.",RemoteAccessRequest,RemoteAccess
+"Microsoft sir ji, your Windows is not genuine. Download AnyDesk now to activate it.",RemoteAccessRequest,RemoteAccess
+"SBI madam ji, your internet banking is blocked. Download TeamViewer now to unblock it.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime beta ji, your social media accounts have been hacked. Download QuickSupport now for help.",RemoteAccessRequest,RemoteAccess
+"Flipkart sir ji, you have won a lottery. Download AnyDesk now to claim your prize.",RemoteAccessRequest,RemoteAccess
+"Data Entry madam ji, download TeamViewer now for a quick job setup and training.",RemoteAccessRequest,RemoteAccess
+"BESCOM beta ji, your electricity connection is under review. Download AnyDesk now to avoid a penalty.",RemoteAccessRequest,RemoteAccess
+"Microsoft: Sir/Madam, your computer is showing critical errors. Download AnyDesk immediately for assistance.",RemoteAccessRequest,RemoteAccess
+"Bank: Sir/Madam, we have detected suspicious activity on your account. Download TeamViewer for immediate security measures.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Sir/Madam, your device is at high risk. Install QuickSupport for prevention.",RemoteAccessRequest,RemoteAccess
+"Refund: Sir/Madam, you have an unclaimed refund. Download AnyDesk now to claim it.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Sir/Madam, download TeamViewer to set up your work-from-home job.",RemoteAccessRequest,RemoteAccess
+"Microsoft: Sir/Madam, your computer has a virus. Download AnyDesk immediately, we will fix it for you.",RemoteAccessRequest,RemoteAccess
+"Bank: Sir/Madam, your account has been compromised. Install TeamViewer now, we will secure it for you.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Sir/Madam, your device is being used for illegal activities. Install QuickSupport now, we will investigate it for you.",RemoteAccessRequest,RemoteAccess
+"Refund: Sir/Madam, you have an unclaimed refund. Install AnyDesk now, we will help you claim it.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Sir/Madam, download TeamViewer to set up your work-from-home job, we will help you.",RemoteAccessRequest,RemoteAccess
+"Microsoft: Sir/Madam, your computer is sending error messages. Download AnyDesk immediately, we will resolve it for you.",RemoteAccessRequest,RemoteAccess
+"Bank: Sir/Madam, we have detected suspicious activity on your account. Download TeamViewer now, we will help you secure it.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Sir/Madam, your device is at high risk. Install QuickSupport now, we will help you protect it.",RemoteAccessRequest,RemoteAccess
+"Refund: Sir/Madam, you have an unclaimed refund. Download AnyDesk now, we will assist you to claim it.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Sir/Madam, download TeamViewer to set up your work-from-home job, we will assist you.",RemoteAccessRequest,RemoteAccess
+"Microsoft: Sir/Madam, download AnyDesk to fix your computer problems.",RemoteAccessRequest,RemoteAccess
+"Bank: Sir/Madam, download TeamViewer to secure your account.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Sir/Madam, download QuickSupport to protect your device.",RemoteAccessRequest,RemoteAccess
+"Refund: Sir/Madam, download AnyDesk to claim your refund.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Sir/Madam, download TeamViewer to set up your work-from-home job.",RemoteAccessRequest,RemoteAccess
+"Microsoft: Sir/Madam, your computer has been infected with a virus that is stealing your data. Download AnyDesk immediately to protect it.",RemoteAccessRequest,RemoteAccess
+"Bank: Sir/Madam, your account is at high risk of being hacked. Download TeamViewer immediately to secure it.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Sir/Madam, your device has been used for illegal activities and needs immediate attention. Download QuickSupport now for investigation.",RemoteAccessRequest,RemoteAccess
+"Refund: Sir/Madam, you have an unclaimed refund that requires immediate action. Download AnyDesk to process it quickly and efficiently.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Sir/Madam, download TeamViewer so we can set up your remote workstation and start your training immediately.",RemoteAccessRequest,RemoteAccess
+"Microsoft: Sir/Madam, your computer is sending out suspicious signals and needs immediate attention. Download AnyDesk for quick resolution.",RemoteAccessRequest,RemoteAccess
+"Bank Security Alert: Sir/Madam, your account has been compromised and requires immediate action. Download TeamViewer for a thorough security check.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime Investigation Unit: Sir/Madam, your device is under investigation for potential cybercrimes and requires immediate attention. Download QuickSupport for a thorough scan.",RemoteAccessRequest,RemoteAccess
+"Express Refund Services: Sir/Madam, download AnyDesk for express refund processing and quick assistance.",RemoteAccessRequest,RemoteAccess
+"Online Job Portal: Sir/Madam, download TeamViewer to access your work files and resources securely and efficiently.",RemoteAccessRequest,RemoteAccess
+"Airtel calling! Sir, your internet is not working properly. Download AnyDesk for a quick fix.",RemoteAccessRequest,RemoteAccess
+"Jio: Madam, we are offering free data, but you need to update your KYC. Install TeamViewer now.",RemoteAccessRequest,RemoteAccess
+"Cyber police: Beta, your phone has been used for illegal activities. Install QuickSupport for investigation, it's a matter of national security!",RemoteAccessRequest,RemoteAccess
+"Amazon: Sir, you are eligible for a special Diwali bonus. Download AnyDesk to claim it.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Madam, earn ₹50,000 per month! Install TeamViewer for a demo session.",RemoteAccessRequest,RemoteAccess
+"Electricity Board: Sir, your meter reading is incorrect. Download AnyDesk to update it and avoid a fine.",RemoteAccessRequest,RemoteAccess
+"Microsoft: Madam, your computer is about to explode! Download AnyDesk immediately to defuse the bomb!",RemoteAccessRequest,RemoteAccess
+"SBI: Sir, your ATM card is blocked. Install TeamViewer to reactivate it now.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Beta, your Aadhaar card has been misused. Install QuickSupport now to secure it.",RemoteAccessRequest,RemoteAccess
+"Flipkart: Sir, you have won a Mahindra Thar! Download AnyDesk to pay the processing fee.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Madam, become a data entry expert! Install TeamViewer now for training.",RemoteAccessRequest,RemoteAccess
+"Electricity Department: Sir, your power will be cut off in 5 minutes! Download AnyDesk to pay your bill instantly.",RemoteAccessRequest,RemoteAccess
+"Microsoft: Your laptop is sending out critical errors. Download AnyDesk immediately to prevent data loss, beta.",RemoteAccessRequest,RemoteAccess
+"HDFC Bank: Your UPI pin is compromised, act now! Install TeamViewer for immediate security, sir.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime Branch: Your device is being used for online fraud; we need remote access for investigation. Download QuickSupport now, madam.",RemoteAccessRequest,RemoteAccess
+"Amazon Online Shopping: Sir, claim your Diwali bonus now! Download AnyDesk for express processing.",RemoteAccessRequest,RemoteAccess
+"Remote Work from Home: Madam, download TeamViewer for setup; we have limited openings for data entry.",RemoteAccessRequest,RemoteAccess
+"BESCOM Electricity: Your electricity connection is under review, pay now! Install AnyDesk immediately to avoid the penalty, beta.",RemoteAccessRequest,RemoteAccess
+"Microsoft Support beta ji, your computer is at high risk! Download AnyDesk for immediate assistance.",RemoteAccessRequest,RemoteAccess
+"SBI Bank sir ji, your online banking is blocked! Download TeamViewer now for a security check.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime Unit madam ji, your device is being used for illegal activities! Install QuickSupport for further investigation.",RemoteAccessRequest,RemoteAccess
+"Flipkart Online Shopping beta ji, you have won a car! Download AnyDesk now to pay the processing fee.",RemoteAccessRequest,RemoteAccess
+"Work From Home job sir ji, earn ₹50,000 per month! Install TeamViewer now for a demo session.",RemoteAccessRequest,RemoteAccess
+"UPPCL Electricity Bill madam ji, your electricity connection is about to be disconnected! Download AnyDesk immediately to pay your bill.",RemoteAccessRequest,RemoteAccess
+"Airtel: Sir, your SIM card will be blocked in 2 hours! Install AnyDesk to re-verify your KYC.",RemoteAccessRequest,RemoteAccess
+"Jio: Madam, we are offering a free 5G upgrade! Install TeamViewer now to activate it.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Beta, your bank account is linked to a fake Aadhaar card. Install QuickSupport now to secure your money.",RemoteAccessRequest,RemoteAccess
+"Amazon: Sir, your order has been delayed due to a technical issue. Download AnyDesk to track it.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Madam, become a customer service executive! Install TeamViewer for a training program.",RemoteAccessRequest,RemoteAccess
+"Electricity Board: Sir, your smart meter needs to be calibrated. Download AnyDesk to schedule it.",RemoteAccessRequest,RemoteAccess
+"Microsoft: Madam, your computer's security certificate has expired. Download AnyDesk immediately to renew it.",RemoteAccessRequest,RemoteAccess
+"SBI: Sir, someone is trying to transfer money from your account. Install TeamViewer now to stop them.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Beta, your PAN card has been misused for fraudulent transactions. Install QuickSupport now to investigate.",RemoteAccessRequest,RemoteAccess
+"Flipkart: Sir, you have won a trip to Goa! Download AnyDesk to book your tickets.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Madam, earn ₹200 per hour typing from home! Install TeamViewer for a quick setup.",RemoteAccessRequest,RemoteAccess
+"Electricity Department: Sir, there is a pending due on your account. Download AnyDesk to clear it and avoid a penalty.",RemoteAccessRequest,RemoteAccess
+"Airtel: Beta, your data plan is about to expire! Install AnyDesk now to renew it and get extra benefits.",RemoteAccessRequest,RemoteAccess
+"Jio: Sir, we are offering a free recharge to all our customers! Install TeamViewer now to claim it.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Madam, your device is being used for spreading fake news! Install QuickSupport now to clear your name.",RemoteAccessRequest,RemoteAccess
+"Amazon: Beta, your account has been hacked! Install AnyDesk now to secure it and prevent further damage.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Sir, become a social media manager! Install TeamViewer now for a training session.",RemoteAccessRequest,RemoteAccess
+"Electricity Board: Madam, your electricity meter is faulty! Download AnyDesk now to schedule a repair appointment.",RemoteAccessRequest,RemoteAccess
+"Microsoft: Sir, your computer is running very slow and is at high risk! Download AnyDesk now to fix it, it's urgent!",RemoteAccessRequest,RemoteAccess
+"HDFC Bank: Madam, your UPI account has been compromised! Download TeamViewer now to secure it, please act immediately!",RemoteAccessRequest,RemoteAccess
+"Cyber Crime Cell: Beta, your Aadhaar card is being misused for illegal activities! Download QuickSupport now for investigation, it's serious!",RemoteAccessRequest,RemoteAccess
+"Flipkart Online Shopping: Sir, you have won a brand new car! Download AnyDesk now to pay the processing fee and claim your prize!",RemoteAccessRequest,RemoteAccess
+"Remote Work Opportunity: Madam, earn ₹50,000 per month working from home! Download TeamViewer now for a demo session, limited slots available!",RemoteAccessRequest,RemoteAccess
+"UPPCL Electricity Department: Beta, your electricity bill is overdue and your connection is about to be disconnected! Download AnyDesk now to make an instant payment and avoid power cut!",RemoteAccessRequest,RemoteAccess
+"Airtel: Sir, your SIM is about to be blocked! Install AnyDesk now for KYC verification.",RemoteAccessRequest,RemoteAccess
+"Jio: Madam, free 5G upgrade! Install TeamViewer for activation.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Beta, your bank account linked to a fake Aadhaar! Install QuickSupport to secure it now.",RemoteAccessRequest,RemoteAccess
+"Amazon: Sir, your order has been delayed! Install AnyDesk to track it immediately.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Madam, become a customer service executive! Install TeamViewer for training now.",RemoteAccessRequest,RemoteAccess
+"Electricity Board: Sir, your smart meter needs calibration! Install AnyDesk to schedule it quickly.",RemoteAccessRequest,RemoteAccess
+"Microsoft: Madam, your security certificate has expired! Install AnyDesk immediately to renew it.",RemoteAccessRequest,RemoteAccess
+"SBI: Sir, unauthorized transaction attempt! Install TeamViewer now to stop them immediately.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Beta, your PAN card misused for fraud! Install QuickSupport now for investigation.",RemoteAccessRequest,RemoteAccess
+"Flipkart: Sir, free trip to Goa! Install AnyDesk to book tickets now.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Madam, earn ₹200 per hour! Install TeamViewer for quick setup.",RemoteAccessRequest,RemoteAccess
+"Electricity Department: Sir, pending due! Install AnyDesk to clear it and avoid penalty now.",RemoteAccessRequest,RemoteAccess
+"Airtel: Beta, your data plan expiring! Install AnyDesk now to renew with extra benefits.",RemoteAccessRequest,RemoteAccess
+"Jio: Sir, free recharge for all customers! Install TeamViewer to claim it now.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Madam, your device spreading fake news! Install QuickSupport now to clear your name.",RemoteAccessRequest,RemoteAccess
+"Amazon: Beta, your account hacked! Install AnyDesk now to secure it and prevent damage.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Sir, become a social media manager! Install TeamViewer now for training.",RemoteAccessRequest,RemoteAccess
+"Electricity Board: Madam, your meter is faulty! Install AnyDesk now to schedule repair quickly.",RemoteAccessRequest,RemoteAccess
+"BSNL: Sir, your broadband connection will be terminated today if you don't update your details. Download AnyDesk to avoid disconnection.",RemoteAccessRequest,RemoteAccess
+"Paytm: Madam, you have received a cashback reward of ₹5000! Download TeamViewer now to claim it.",RemoteAccessRequest,RemoteAccess
+"Cyber Cell: Beta, your Aadhaar card has been misused for illegal activities. Download QuickSupport now to prevent further fraud.",RemoteAccessRequest,RemoteAccess
+"Flipkart: Sir, you have won a free iPhone 15 Pro Max! Download AnyDesk now to pay the shipping charges.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Madam, earn up to ₹1 lakh per month working from home! Download TeamViewer now for a demo session.",RemoteAccessRequest,RemoteAccess
+"Tata Power: Sir, your electricity bill is overdue, and your power will be disconnected in 30 minutes. Download AnyDesk now to make an instant payment.",RemoteAccessRequest,RemoteAccess
+Airtel: Your SIM is about to be deactivated! Download AnyDesk urgently to re-verify your details.,RemoteAccessRequest,RemoteAccess
+Jio: Get a free 6-month subscription! Install TeamViewer now for activation.,RemoteAccessRequest,RemoteAccess
+Cyber Crime Cell: We have detected suspicious activity on your device. Install QuickSupport now to secure your data.,RemoteAccessRequest,RemoteAccess
+Amazon: Claim your exclusive Diwali offer now! Download AnyDesk for express processing.,RemoteAccessRequest,RemoteAccess
+Remote Work from Home: Limited slots available! Download TeamViewer for immediate setup.,RemoteAccessRequest,RemoteAccess
+Electricity Board: Pay your overdue bill and avoid disconnection! Install AnyDesk immediately.,RemoteAccessRequest,RemoteAccess
+Microsoft Support: Your computer is at risk! Download AnyDesk now for immediate assistance and resolution.,RemoteAccessRequest,RemoteAccess
+HDFC Bank: Your account has been compromised! Download TeamViewer for a thorough security check now.,RemoteAccessRequest,RemoteAccess
+Cyber Crime Unit: Your device is being used for illegal activities! Install QuickSupport for further investigation now.,RemoteAccessRequest,RemoteAccess
+Flipkart Online Shopping: You have won a free car! Download AnyDesk now to pay the processing fee and claim your prize.,RemoteAccessRequest,RemoteAccess
+Work From Home job: Earn a high salary working from home! Download TeamViewer now for a demo session.,RemoteAccessRequest,RemoteAccess
+Power Corporation: Your electricity connection is about to be disconnected! Download AnyDesk immediately to pay your bill.,RemoteAccessRequest,RemoteAccess
+"Airtel: Sir, your Airtel Thanks benefits are expiring soon. Download AnyDesk now to renew them.",RemoteAccessRequest,RemoteAccess
+"Jio: Madam, we are offering a free JioFiber connection. Download TeamViewer now to schedule the installation.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Beta, your Aadhaar card has been linked to a fake bank account. Download QuickSupport now to report it.",RemoteAccessRequest,RemoteAccess
+"Amazon: Sir, your order is stuck in transit. Download AnyDesk now to track it and get it delivered faster.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Madam, become a content writer and earn money from home. Download TeamViewer now for training.",RemoteAccessRequest,RemoteAccess
+"Electricity Board: Sir, your electricity meter is showing a high reading. Download AnyDesk now to get it checked by our technician.",RemoteAccessRequest,RemoteAccess
+"Microsoft: Madam, your Windows license has expired. Download AnyDesk now to activate it and avoid data loss.",RemoteAccessRequest,RemoteAccess
+"SBI: Sir, your ATM card has been used for a fraudulent transaction. Download TeamViewer now to block it and file a complaint.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Beta, your social media account has been hacked and is being used to spread fake news. Download QuickSupport now to recover it.",RemoteAccessRequest,RemoteAccess
+"Flipkart: Sir, you have won a free holiday package to Dubai. Download AnyDesk now to book your tickets and pay the taxes.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Madam, earn money by completing simple online surveys. Download TeamViewer now for a quick setup and training.",RemoteAccessRequest,RemoteAccess
+"Electricity Department: Sir, your power supply is about to be disconnected due to non-payment of your bill. Download AnyDesk now to make an instant payment and avoid disconnection.",RemoteAccessRequest,RemoteAccess
+"Airtel: Beta, your Airtel SIM card is about to be deactivated. Download AnyDesk now for KYC verification and avoid service interruption.",RemoteAccessRequest,RemoteAccess
+"Jio: Sir, we are offering a free upgrade to JioFiber Platinum plan. Download TeamViewer now to activate it and enjoy faster speeds.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Madam, your Aadhaar card has been compromised and is being used for fraudulent activities. Download QuickSupport now to report it to the authorities.",RemoteAccessRequest,RemoteAccess
+"Amazon: Beta, your order has been flagged for suspicious activity and is being held at customs. Download AnyDesk now to verify your identity and release it.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Sir, become a virtual assistant and earn money by providing remote support. Download TeamViewer now for a quick setup and training.",RemoteAccessRequest,RemoteAccess
+"Electricity Board: Madam, your electricity meter is faulty and needs to be replaced urgently. Download AnyDesk now to schedule a visit from our technician.",RemoteAccessRequest,RemoteAccess
+"Microsoft: Sir, your computer is running very slow and is vulnerable to malware attacks. Download AnyDesk now to fix it and protect your data.",RemoteAccessRequest,RemoteAccess
+"SBI: Madam, there has been an unauthorized attempt to access your net banking account. Download TeamViewer now to secure it and prevent further transactions.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Beta, your social media profile has been cloned and is being used to spread fake news and defame your reputation. Download QuickSupport now to report it and take action.",RemoteAccessRequest,RemoteAccess
+"Flipkart: Sir, you have won a free luxury car and are eligible for a special discount. Download AnyDesk now to claim your prize and pay the taxes.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Madam, earn money by performing online data entry tasks and get paid per hour for your efforts. Download TeamViewer now for a quick setup and training.",RemoteAccessRequest,RemoteAccess
+"Electricity Department: Sir, your electricity bill is overdue, and your connection is about to be disconnected. Download AnyDesk now to make an instant payment and avoid penalties.",RemoteAccessRequest,RemoteAccess
+"Microsoft: Sir/Madam, your computer is showing critical errors and needs immediate attention. Download AnyDesk now to get started.",RemoteAccessRequest,RemoteAccess
+"HDFC Bank: Sir/Madam, we have detected suspicious activity on your account. Download TeamViewer now so we can secure it and protect your funds from fraud.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime Cell: Beta, your device is being used for illegal activities. Download QuickSupport so we can investigate it and resolve the issue.",RemoteAccessRequest,RemoteAccess
+"Flipkart Online Shopping: Sir, congratulations, you have a cashback offer waiting. Download AnyDesk now to claim it and enjoy the benefits.",RemoteAccessRequest,RemoteAccess
+"Remote Work: Madam, download TeamViewer now to start your work from home job and begin earning a stable income.",RemoteAccessRequest,RemoteAccess
+"Power Supply Corporation: Sir, your electricity bill is due and needs to be paid immediately. Download AnyDesk to pay it now and avoid disconnection.",RemoteAccessRequest,RemoteAccess
+"Airtel: Beta, download AnyDesk now for KYC verification and avoid service termination. This is an urgent request.",RemoteAccessRequest,RemoteAccess
+"Jio: Sir, download TeamViewer now for a free 5G upgrade and experience faster internet speeds.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Madam, download QuickSupport now to secure your bank account and prevent fraudulent transactions.",RemoteAccessRequest,RemoteAccess
+"Amazon: Beta, download AnyDesk to track your order that is currently delayed and get it delivered as soon as possible.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Sir, download TeamViewer for the training required for the customer service role and start earning today.",RemoteAccessRequest,RemoteAccess
+"Electricity Board: Madam, download AnyDesk now to schedule your smart meter calibration and ensure accurate electricity readings.",RemoteAccessRequest,RemoteAccess
+"Microsoft beta ji, your computer is at high risk! Download AnyDesk for immediate assistance, don't delay.",RemoteAccessRequest,RemoteAccess
+"SBI Bank sir ji, your online banking is blocked! Download TeamViewer now for a security check and resolve this issue urgently.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime Unit madam ji, your device is being used for illegal activities! Install QuickSupport for further investigation immediately.",RemoteAccessRequest,RemoteAccess
+"Flipkart Online Shopping beta ji, you have won a car! Download AnyDesk now to pay the processing fee and claim your prize right away.",RemoteAccessRequest,RemoteAccess
+"Airtel: Sir, your Airtel DTH service is expiring! Download AnyDesk now to renew it and get a free movie channel.",RemoteAccessRequest,RemoteAccess
+"Jio: Madam, we are offering a free JioMart voucher! Install TeamViewer now to claim it and start shopping.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Beta, your Aadhaar card has been used to open a fake loan account. Install QuickSupport now to report it and prevent further damage.",RemoteAccessRequest,RemoteAccess
+"Amazon: Sir, your Amazon Pay balance is about to expire! Download AnyDesk now to use it and get extra cashback.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Madam, become a freelance translator and earn money from home. Download TeamViewer now for a quick setup and training session.",RemoteAccessRequest,RemoteAccess
+"Electricity Board: Sir, your electricity bill payment has bounced! Download AnyDesk now to make a re-payment and avoid disconnection.",RemoteAccessRequest,RemoteAccess
+"Microsoft: Madam, your computer is infected with ransomware! Download AnyDesk now to remove it and recover your files.",RemoteAccessRequest,RemoteAccess
+"SBI: Sir, your credit card has been blocked due to suspicious activity. Download TeamViewer now to unblock it and verify your transactions.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Beta, your social media account has been hacked and is being used to spread hate speech. Install QuickSupport now to report it and protect your reputation.",RemoteAccessRequest,RemoteAccess
+"Flipkart: Sir, you have won a free gold coin! Download AnyDesk now to pay the processing fee and claim your prize.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Madam, earn money by writing online product reviews. Download TeamViewer now for a quick setup and training session.",RemoteAccessRequest,RemoteAccess
+"Electricity Department: Sir, your electricity meter is showing a low reading and you are eligible for a subsidy. Download AnyDesk now to claim it.",RemoteAccessRequest,RemoteAccess
+"Airtel: Beta, your Airtel data is almost finished! Download AnyDesk now to extend your data and get extra benefits immediately.",RemoteAccessRequest,RemoteAccess
+"Jio: Sir, we are offering a free upgrade to JioFiber Max plan! Download TeamViewer now to activate it and enjoy lightning-fast speeds.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Madam, your Aadhaar card has been used to register a fake SIM card. Install QuickSupport now to report it and prevent misuse.",RemoteAccessRequest,RemoteAccess
+"Amazon: Beta, your Amazon Prime membership is about to expire! Download AnyDesk now to renew it and continue enjoying free shipping and other benefits.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Sir, become a virtual tutor and earn money by teaching students online. Download TeamViewer now for a quick setup and training session.",RemoteAccessRequest,RemoteAccess
+"Electricity Board: Madam, your electricity connection is under review due to suspicious activity. Download AnyDesk now to verify your details and avoid disconnection.",RemoteAccessRequest,RemoteAccess
+"Microsoft: Sir, your computer is showing signs of a severe security breach. Download AnyDesk now for immediate assistance and resolution.",RemoteAccessRequest,RemoteAccess
+"HDFC Bank: Madam, your UPI account has been compromised and is being used for unauthorized transactions. Download TeamViewer now to secure it and prevent further fraudulent activity.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime Cell: Beta, your Aadhaar card is being misused for illegal activities and requires immediate action. Download QuickSupport now for investigation and resolution.",RemoteAccessRequest,RemoteAccess
+"Flipkart Online Shopping: Sir, congratulations, you have won a brand new smartphone! Download AnyDesk now to pay the processing fee and claim your prize today.",RemoteAccessRequest,RemoteAccess
+"Remote Work Opportunity: Madam, earn ₹50,000 per month working from home as a data entry specialist! Download TeamViewer now for a demo session and learn how to earn.",RemoteAccessRequest,RemoteAccess
+"UPPCL Electricity Department: Beta, your electricity bill is overdue and your connection is about to be disconnected! Download AnyDesk now to make an instant payment and avoid power cut immediately.",RemoteAccessRequest,RemoteAccess
+"Airtel: Sir, your Airtel SIM card is about to be deactivated due to non-compliance with KYC regulations. Download AnyDesk now for KYC verification and avoid service interruption immediately.",RemoteAccessRequest,RemoteAccess
+"Jio: Madam, we are offering a free upgrade to JioFiber Platinum plan and a complimentary smart TV. Download TeamViewer now to activate it and enjoy premium entertainment.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Beta, your Aadhaar card has been compromised and is being used for fraudulent activities. Download QuickSupport now to report it to the authorities and prevent further misuse.",RemoteAccessRequest,RemoteAccess
+"Amazon: Sir, your order has been flagged for suspicious activity and is being held at customs due to incorrect documentation. Download AnyDesk now to verify your identity and release it.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Madam, become a virtual assistant and earn money by providing remote support to international clients. Download TeamViewer now for a quick setup and training session.",RemoteAccessRequest,RemoteAccess
+"Electricity Board: Sir, your electricity meter is faulty and needs to be replaced urgently to ensure accurate billing. Download AnyDesk now to schedule a visit from our technician at your convenience.",RemoteAccessRequest,RemoteAccess
+"Microsoft: Madam, your computer is running very slow and is vulnerable to malware attacks due to outdated security settings. Download AnyDesk now to fix it and protect your data from cyber threats.",RemoteAccessRequest,RemoteAccess
+"SBI: Sir, there has been an unauthorized attempt to access your net banking account from an unknown location. Download TeamViewer now to secure it and prevent further unauthorized transactions.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Beta, your social media profile has been cloned and is being used to spread fake news and defame your reputation. Download QuickSupport now to report it to the authorities and take immediate action against the fraud.",RemoteAccessRequest,RemoteAccess
+"Flipkart: Sir, you have won a free luxury car and are eligible for a special discount on insurance and registration. Download AnyDesk now to claim your prize and pay the applicable taxes and fees.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Madam, earn money by performing online data entry tasks and get paid per hour for your efforts. Download TeamViewer now for a quick setup and training and start earning today.",RemoteAccessRequest,RemoteAccess
+"Electricity Department: Sir, your electricity bill is overdue, and your connection is about to be disconnected urgently due to non-payment. Download AnyDesk now to make an instant payment and avoid penalties and power outage.",RemoteAccessRequest,RemoteAccess
+"Airtel: Madam, there is an issue with your KYC. You must download AnyDesk and share your screen to resolve it immediately or your SIM will be blocked.",RemoteAccessRequest,RemoteAccess
+"Jio: Sir, you are eligible for a special JioFiber Diwali offer! Download TeamViewer to claim your free gift voucher.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Beta, your Aadhaar details have been compromised. Download QuickSupport immediately to secure your bank accounts.",RemoteAccessRequest,RemoteAccess
+"Amazon: Sir, your order is on hold due to a payment issue. Download AnyDesk to resolve it quickly and get your items delivered.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Madam, become a freelance content writer and earn money from home. Download TeamViewer for a quick setup and training session.",RemoteAccessRequest,RemoteAccess
+"Electricity Board: Sir, your electricity meter is faulty and needs immediate replacement. Download AnyDesk to schedule an urgent appointment.",RemoteAccessRequest,RemoteAccess
+"Microsoft: Beta, your computer has a critical vulnerability that hackers are exploiting. Download AnyDesk now to fix it and protect your data.",RemoteAccessRequest,RemoteAccess
+"SBI: Sir, your online banking access has been suspended due to security concerns. Download TeamViewer now to reactivate it.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Madam, your social media profile is being used for fraudulent activities. Download QuickSupport immediately to report it and take action.",RemoteAccessRequest,RemoteAccess
+"Flipkart: Sir, you have won a trip to Dubai and a brand-new iPhone! Download AnyDesk now to pay the processing fee and claim your prize.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Madam, earn money by providing online tutoring to students. Download TeamViewer for a quick setup and training session.",RemoteAccessRequest,RemoteAccess
+"Electricity Department: Sir, your electricity connection will be disconnected today due to unpaid dues. Download AnyDesk immediately to make the payment.",RemoteAccessRequest,RemoteAccess
+"Airtel: Beta, your Airtel Thanks benefits are expiring soon! Download AnyDesk now to renew them and get extra rewards.",RemoteAccessRequest,RemoteAccess
+"Jio: Sir, you are eligible for a free JioSaavn Pro subscription. Download TeamViewer now to activate it and enjoy ad-free music.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Madam, your Aadhaar card has been used to create a fake bank account and apply for loans. Download QuickSupport now to report it and prevent further misuse.",RemoteAccessRequest,RemoteAccess
+"Amazon: Beta, your Amazon Prime account has been compromised! Download AnyDesk now to secure it and prevent unauthorized purchases.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Sir, earn money by writing articles for online publications. Download TeamViewer now for a quick setup and training session.",RemoteAccessRequest,RemoteAccess
+"Electricity Board: Madam, your electricity meter is showing inaccurate readings. Download AnyDesk now to schedule a meter inspection.",RemoteAccessRequest,RemoteAccess
+"Microsoft: Beta, your computer is running slow and has multiple viruses. Download AnyDesk now to fix it and protect your data from further harm.",RemoteAccessRequest,RemoteAccess
+"SBI: Sir, there has been suspicious activity on your credit card. Download TeamViewer now to block it and prevent further fraudulent transactions.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Madam, your social media profile has been cloned and is being used to spread misinformation. Download QuickSupport now to report it and prevent further damage to your reputation.",RemoteAccessRequest,RemoteAccess
+"Flipkart: Sir, you have won a free holiday package to the Maldives. Download AnyDesk now to book your tickets and pay the taxes.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Madam, earn money by transcribing audio and video files. Download TeamViewer now for a quick setup and training session.",RemoteAccessRequest,RemoteAccess
+"Electricity Department: Sir, your electricity bill is overdue and your connection is about to be disconnected. Download AnyDesk now to make an instant payment and avoid penalties.",RemoteAccessRequest,RemoteAccess
+"Airtel: Sir, your Airtel SIM card is about to be deactivated. Download AnyDesk now for KYC verification and avoid service interruption. This is an important message.",RemoteAccessRequest,RemoteAccess
+"Jio: Madam, we are offering a free upgrade to JioFiber Platinum plan and a complimentary subscription to Netflix. Download TeamViewer now to activate it and enjoy premium entertainment.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Beta, your Aadhaar card has been compromised and is being used for fraudulent activities. Download QuickSupport now to report it to the authorities and prevent further misuse of your identity.",RemoteAccessRequest,RemoteAccess
+"Amazon: Sir, your order has been flagged for suspicious activity and is being held at customs due to incorrect documentation. Download AnyDesk now to verify your identity and release it immediately.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Madam, become a virtual assistant and earn money by providing remote support to international clients. Download TeamViewer now for a quick setup and comprehensive training session.",RemoteAccessRequest,RemoteAccess
+"Electricity Board: Sir, your electricity meter is faulty and needs to be replaced urgently to ensure accurate billing and prevent future discrepancies. Download AnyDesk now to schedule a visit from our technician.",RemoteAccessRequest,RemoteAccess
+"Microsoft: Madam, your computer is running very slow and is vulnerable to malware attacks due to outdated security settings. Download AnyDesk now to fix it and protect your data from cyber threats and potential data loss.",RemoteAccessRequest,RemoteAccess
+"SBI: Sir, there has been an unauthorized attempt to access your net banking account from an unknown location. Download TeamViewer now to secure it and prevent further unauthorized transactions and potential financial losses.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Beta, your social media profile has been cloned and is being used to spread fake news and defame your reputation. Download QuickSupport now to report it to the authorities and take immediate action against the fraud and prevent further damage.",RemoteAccessRequest,RemoteAccess
+"Flipkart: Sir, you have won a free luxury car and are eligible for a special discount on insurance and registration. Download AnyDesk now to claim your prize and pay the applicable taxes and fees to complete the process.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Madam, earn money by performing online data entry tasks and get paid per hour for your efforts. Download TeamViewer now for a quick setup and training and start earning a stable income today.",RemoteAccessRequest,RemoteAccess
+"Electricity Department: Sir, your electricity bill is overdue, and your connection is about to be disconnected urgently due to non-payment. Download AnyDesk now to make an instant payment and avoid penalties and power outage in your area.",RemoteAccessRequest,RemoteAccess
+"Airtel: Sir, your Airtel SIM will be blocked if you don't act now! Download AnyDesk for KYC verification.",RemoteAccessRequest,RemoteAccess
+"Jio: Madam, Get a free 5G upgrade with unlimited data! Download TeamViewer for quick activation.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Beta, Your bank account is at risk! Your Aadhaar card has been compromised. Download QuickSupport to secure it immediately.",RemoteAccessRequest,RemoteAccess
+"Amazon: Sir, Congratulations! You have won a gift card. Download AnyDesk to claim your reward now.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Madam, Work as a data entry operator and earn ₹30,000 per month. Download TeamViewer for training.",RemoteAccessRequest,RemoteAccess
+"Electricity Board: Sir, Your electricity bill is overdue. Download AnyDesk now to avoid power cut.",RemoteAccessRequest,RemoteAccess
+"Microsoft: Madam, Your computer is infected with a virus. Download AnyDesk to remove it and protect your files.",RemoteAccessRequest,RemoteAccess
+"SBI: Sir, There has been an unauthorized transaction on your account. Download TeamViewer to stop it now.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Beta, Your social media account has been hacked. Download QuickSupport to recover it immediately.",RemoteAccessRequest,RemoteAccess
+"Flipkart: Sir, You have won a free vacation to Goa! Download AnyDesk to book your tickets now.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Madam, Become a virtual assistant and earn ₹40,000 per month. Download TeamViewer for setup.",RemoteAccessRequest,RemoteAccess
+"Electricity Department: Sir, Your electricity meter needs to be replaced. Download AnyDesk to schedule an appointment.",RemoteAccessRequest,RemoteAccess
+"Airtel: Beta, Your Airtel Thanks benefits will expire soon. Download AnyDesk to renew them now.",RemoteAccessRequest,RemoteAccess
+"Jio: Sir, You are eligible for a free JioFiber connection. Download TeamViewer now to claim this offer.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Madam, Your Aadhaar card has been linked to a fake bank account. Download QuickSupport to report it now.",RemoteAccessRequest,RemoteAccess
+"Amazon: Beta, Your Amazon Prime Membership will expire soon. Download AnyDesk to renew it now.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Sir, Earn money by writing online product reviews. Download TeamViewer for quick training.",RemoteAccessRequest,RemoteAccess
+"Electricity Board: Madam, Your electricity bill payment has bounced. Download AnyDesk to re-pay it now.",RemoteAccessRequest,RemoteAccess
+"Microsoft: Beta, Your computer is under a ransomware attack. Download AnyDesk to recover your files.",RemoteAccessRequest,RemoteAccess
+"SBI: Sir, Your credit card has been blocked. Download TeamViewer to unblock it and verify your transactions.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Madam, Your social media account is spreading hate speech. Download QuickSupport to recover it.",RemoteAccessRequest,RemoteAccess
+"Flipkart: Beta, You have won a gold coin! Download AnyDesk to pay the processing fee and claim your prize.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Sir, Earn money by translating documents online. Download TeamViewer for setup.",RemoteAccessRequest,RemoteAccess
+"Electricity Department: Madam, You are eligible for a subsidy on electricity. Download AnyDesk to claim it now.",RemoteAccessRequest,RemoteAccess
+"Airtel: Beta, your SIM is about to expire! Download AnyDesk to re-verify your KYC now.",RemoteAccessRequest,RemoteAccess
+"Jio: Sir, you are eligible for JioFiber Max plan. Download TeamViewer to activate it now.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Madam, your Aadhaar card has been used to register a fake SIM. Download QuickSupport now to report it.",RemoteAccessRequest,RemoteAccess
+"Amazon: Beta, your Amazon Prime membership is expiring soon. Download AnyDesk now to renew it.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Sir, become a virtual tutor and earn money from home. Download TeamViewer for setup now.",RemoteAccessRequest,RemoteAccess
+"Electricity Board: Madam, your connection is under review. Download AnyDesk to verify your details now.",RemoteAccessRequest,RemoteAccess
+"Microsoft: Beta, your computer is showing signs of a security breach. Download AnyDesk for immediate assistance.",RemoteAccessRequest,RemoteAccess
+"HDFC Bank: Sir, your UPI account has been compromised. Download TeamViewer for immediate security measures.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Madam, your Aadhaar card is being misused. Download QuickSupport for investigation now.",RemoteAccessRequest,RemoteAccess
+"Flipkart: Beta, you have won a car! Download AnyDesk to pay the processing fee.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Sir, earn ₹50,000 per month working from home. Download TeamViewer for training now.",RemoteAccessRequest,RemoteAccess
+"Electricity Department: Madam, your electricity bill is overdue. Download AnyDesk to make an instant payment now.",RemoteAccessRequest,RemoteAccess
+"Airtel: Beta, your data is finished! Download AnyDesk to extend your data now.",RemoteAccessRequest,RemoteAccess
+"Jio: Sir, download TeamViewer for a free JioFiber upgrade now.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Madam, download QuickSupport now to report Aadhaar fraud.",RemoteAccessRequest,RemoteAccess
+"Amazon: Beta, download AnyDesk now to claim Prime cashback.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Sir, download TeamViewer now to start writing reviews.",RemoteAccessRequest,RemoteAccess
+"Electricity Board: Madam, download AnyDesk to claim subsidy now.",RemoteAccessRequest,RemoteAccess
+"Airtel: Sir, download AnyDesk to avoid SIM block now.",RemoteAccessRequest,RemoteAccess
+"Jio: Beta, download TeamViewer to activate 5G now.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Madam, download QuickSupport now to report fake SIM.",RemoteAccessRequest,RemoteAccess
+"Amazon: Sir, download AnyDesk to renew Prime now.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Beta, download TeamViewer to start tutoring now.",RemoteAccessRequest,RemoteAccess
+"Electricity Board: Madam, download AnyDesk now for connection review.",RemoteAccessRequest,RemoteAccess
+"Microsoft: Sir, download AnyDesk to fix breach.",RemoteAccessRequest,RemoteAccess
+"HDFC: Beta, download TeamViewer for UPI security.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Madam, download QuickSupport for Aadhaar misuse.",RemoteAccessRequest,RemoteAccess
+"Flipkart: Sir, download AnyDesk for car claim.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Beta, download TeamViewer for quick job.",RemoteAccessRequest,RemoteAccess
+"Electricity Department: Madam, download AnyDesk to pay now.",RemoteAccessRequest,RemoteAccess
+"Airtel: Sir, download AnyDesk for data extension now.",RemoteAccessRequest,RemoteAccess
+"Jio: Beta, download TeamViewer for JioFiber now.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Madam, Download QuickSupport to report cybercrime",RemoteAccessRequest,RemoteAccess
+"Amazon: Sir, Download AnyDesk to avail cashback",RemoteAccessRequest,RemoteAccess
+"Work From Home: Beta, Download TeamViewer for online tutoring",RemoteAccessRequest,RemoteAccess
+"Electricity Department: Madam, Download AnyDesk for meter reading",RemoteAccessRequest,RemoteAccess
+"Airtel: Sir, Download TeamViewer for free data",RemoteAccessRequest,RemoteAccess
+"Jio: Beta, Download AnyDesk for faster speed",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Madam, Download QuickSupport to solve online fraud",RemoteAccessRequest,RemoteAccess
+"Amazon: Sir, Download TeamViewer to verify account",RemoteAccessRequest,RemoteAccess
+"Work From Home: Beta, Download AnyDesk for demo",RemoteAccessRequest,RemoteAccess
+"Electricity Department: Madam, Download QuickSupport to update details",RemoteAccessRequest,RemoteAccess
+"Airtel: Sir, Download AnyDesk for KYC verification",RemoteAccessRequest,RemoteAccess
+"Jio: Beta, Download TeamViewer for 5G upgrade",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Madam, Download QuickSupport for cyber security",RemoteAccessRequest,RemoteAccess
+"Amazon: Sir, Download AnyDesk to claim bonus",RemoteAccessRequest,RemoteAccess
+"Work From Home: Beta, Download TeamViewer for virtual assistant job",RemoteAccessRequest,RemoteAccess
+"Electricity Department: Madam, Download QuickSupport to avoid disconnection",RemoteAccessRequest,RemoteAccess
+"Airtel: Sir, Download AnyDesk to secure SIM card",RemoteAccessRequest,RemoteAccess
+"Jio: Beta, Download TeamViewer for better connection",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Madam, Download QuickSupport to catch fraud",RemoteAccessRequest,RemoteAccess
+"Amazon: Sir, Download AnyDesk to enjoy free offer",RemoteAccessRequest,RemoteAccess
+"Work From Home: Beta, Download TeamViewer for online work from home",RemoteAccessRequest,RemoteAccess
+"Electricity Department: Madam, Download QuickSupport to get free electricity",RemoteAccessRequest,RemoteAccess
+"Airtel: Sir, Download AnyDesk for better network",RemoteAccessRequest,RemoteAccess
+"Jio: Beta, Download TeamViewer to upgrade JioFiber",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Madam, Download QuickSupport to avoid getting hacked",RemoteAccessRequest,RemoteAccess
+"Amazon: Sir, Download AnyDesk to save account",RemoteAccessRequest,RemoteAccess
+"Work From Home: Beta, Download TeamViewer for easy earning",RemoteAccessRequest,RemoteAccess
+"Electricity Department: Madam, Download QuickSupport to get money back",RemoteAccessRequest,RemoteAccess
+"Airtel: Sir, your Airtel SIM card will be blocked if you don't download AnyDesk now.",RemoteAccessRequest,RemoteAccess
+"Jio: Madam, you're eligible for a free JioFiber upgrade, but first, download TeamViewer.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Beta, your Aadhaar card has been compromised, download QuickSupport so we can help you secure your bank account.",RemoteAccessRequest,RemoteAccess
+"Amazon: Sir, you have a cashback offer waiting for you, download AnyDesk now to claim it.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Madam, we have an opening for a data entry position, download TeamViewer and we'll get you started.",RemoteAccessRequest,RemoteAccess
+"Electricity Board: Sir, your electricity bill is overdue, download AnyDesk now to avoid disconnection.",RemoteAccessRequest,RemoteAccess
+"Microsoft: Beta, your computer is infected with a virus, download AnyDesk and we'll help you remove it.",RemoteAccessRequest,RemoteAccess
+"SBI: Sir, someone has tried to access your account, download TeamViewer and we'll help you secure it.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Madam, your social media account has been hacked, download QuickSupport so we can help you recover it.",RemoteAccessRequest,RemoteAccess
+"Flipkart: Sir, you have won a free vacation, download AnyDesk now to book your tickets.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Madam, earn money providing online tutoring, download TeamViewer and we'll help you get set up.",RemoteAccessRequest,RemoteAccess
+"Electricity Department: Sir, your meter is faulty, download AnyDesk now and we'll schedule a replacement.",RemoteAccessRequest,RemoteAccess
+"Airtel: Beta, your data plan is almost finished, download AnyDesk and we'll extend it for free.",RemoteAccessRequest,RemoteAccess
+"Jio: Sir, you're eligible for a free JioFiber Max plan, download TeamViewer now and we'll activate it.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Madam, your Aadhaar card has been used to register a fake SIM, download QuickSupport so we can help you report it.",RemoteAccessRequest,RemoteAccess
+"Amazon: Beta, your Prime membership is expiring, download AnyDesk now and we'll renew it for you.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Sir, earn money writing product reviews, download TeamViewer and we'll give you some training.",RemoteAccessRequest,RemoteAccess
+"Electricity Board: Madam, your electricity bill payment has bounced, download AnyDesk now and we'll help you repay it.",RemoteAccessRequest,RemoteAccess
+"Microsoft: Beta, your computer is under a ransomware attack, download AnyDesk and we'll help you recover your files.",RemoteAccessRequest,RemoteAccess
+"SBI: Sir, your credit card has been blocked, download TeamViewer and we'll help you unblock it.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Madam, your social media account is spreading hate speech, download QuickSupport so we can help you recover it.",RemoteAccessRequest,RemoteAccess
+"Flipkart: Sir, you have won a gold coin, download AnyDesk now to pay the processing fee.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Madam, earn money translating documents, download TeamViewer and we'll get you set up.",RemoteAccessRequest,RemoteAccess
+"Electricity Department: Sir, you're eligible for an electricity subsidy, download AnyDesk and we'll help you claim it.",RemoteAccessRequest,RemoteAccess
+"Airtel: Beta, your SIM will be blocked soon! Download AnyDesk urgently for KYC.",RemoteAccessRequest,RemoteAccess
+"Jio: Sir, get free 5G! Download TeamViewer for quick activation now.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Madam, your bank is at risk! Download QuickSupport to secure your Aadhaar link.",RemoteAccessRequest,RemoteAccess
+"Amazon: Beta, you have a gift card! Download AnyDesk for quick reward claim.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Sir, earn ₹30,000 as operator! Download TeamViewer for training now.",RemoteAccessRequest,RemoteAccess
+"Electricity Board: Madam, your power will cut! Download AnyDesk to avoid it now.",RemoteAccessRequest,RemoteAccess
+"Microsoft: Beta, your computer has a virus! Download AnyDesk to remove it soon.",RemoteAccessRequest,RemoteAccess
+"SBI: Sir, stop unauthorized access now! Download TeamViewer to protect your account.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Madam, recover hacked account fast! Download QuickSupport for it.",RemoteAccessRequest,RemoteAccess
+"Flipkart: Beta, win a free vacation! Download AnyDesk to book soon.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Sir, earn ₹40,000 as assistant! Download TeamViewer for quick setup.",RemoteAccessRequest,RemoteAccess
+"Electricity Department: Madam, replace meter urgently! Download AnyDesk for appointment soon.",RemoteAccessRequest,RemoteAccess
+"Airtel: Beta, your benefits expire soon! Download AnyDesk now to renew quickly.",RemoteAccessRequest,RemoteAccess
+"Jio: Sir, get free JioFiber now! Download TeamViewer to claim it fast.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Madam, report fake Aadhaar link now! Download QuickSupport to do it.",RemoteAccessRequest,RemoteAccess
+"Amazon: Beta, renew Prime now! Download AnyDesk to do it urgently.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Sir, train now and earn! Download TeamViewer for it quickly.",RemoteAccessRequest,RemoteAccess
+"Electricity Board: Madam, repay now or cut off! Download AnyDesk for it soon.",RemoteAccessRequest,RemoteAccess
+"Microsoft: Beta, fix the ransomware attack now! Download AnyDesk urgently.",RemoteAccessRequest,RemoteAccess
+"SBI: Sir, verify your transactions now! Download TeamViewer to protect your funds.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Madam, recover your account fast! Download QuickSupport to do it soon.",RemoteAccessRequest,RemoteAccess
+"Flipkart: Beta, pay the fee now and claim your prize! Download AnyDesk to do it urgently.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Sir, set up your job easily now! Download TeamViewer to do it quickly.",RemoteAccessRequest,RemoteAccess
+"Electricity Department: Madam, claim subsidy now! Download AnyDesk for it soon.",RemoteAccessRequest,RemoteAccess
+"Airtel: Sir, download AnyDesk to verify your KYC and avoid SIM block.",RemoteAccessRequest,RemoteAccess
+"Jio: Madam, download TeamViewer to claim your free 5G upgrade.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Beta, download QuickSupport now to secure your bank account from Aadhaar fraud.",RemoteAccessRequest,RemoteAccess
+"Amazon: Sir, download AnyDesk now to claim your cashback and enjoy extra benefits.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Madam, download TeamViewer now for training and become a freelance content writer.",RemoteAccessRequest,RemoteAccess
+"Electricity Board: Sir, download AnyDesk now to schedule an urgent electricity meter replacement.",RemoteAccessRequest,RemoteAccess
+"Microsoft: Beta, download AnyDesk now to fix the critical vulnerability on your computer.",RemoteAccessRequest,RemoteAccess
+"SBI: Sir, download TeamViewer now to reactivate your suspended online banking access.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Madam, download QuickSupport now to report the fraudulent activities on your social media profile.",RemoteAccessRequest,RemoteAccess
+"Flipkart: Sir, download AnyDesk now to pay the processing fee and claim your trip to Dubai and a new iPhone.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Madam, download TeamViewer now for a quick setup and start providing online tutoring to students.",RemoteAccessRequest,RemoteAccess
+"Electricity Department: Sir, download AnyDesk now to make an instant electricity bill payment and avoid disconnection.",RemoteAccessRequest,RemoteAccess
+"Airtel: Beta, your Airtel SIM card will be deactivated soon. Download AnyDesk now for KYC verification.",RemoteAccessRequest,RemoteAccess
+"Jio: Sir, You are eligible for a free upgrade to JioFiber Platinum Plan. Download TeamViewer to avail this offer.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Madam, Your Aadhaar card has been misused to create a fake bank account. Download QuickSupport now to report it.",RemoteAccessRequest,RemoteAccess
+"Amazon: Beta, Your Amazon Prime membership is expiring soon. Download AnyDesk to renew it and continue enjoying unlimited benefits.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Sir, Download TeamViewer now and start earning money by writing online articles.",RemoteAccessRequest,RemoteAccess
+"Electricity Board: Madam, your electricity meter is showing inaccurate readings. Download AnyDesk now to schedule a meter inspection.",RemoteAccessRequest,RemoteAccess
+"Microsoft: Beta, download AnyDesk immediately! Your computer is under attack and needs immediate assistance.",RemoteAccessRequest,RemoteAccess
+"HDFC Bank: Sir, download TeamViewer urgently! Your UPI account has been compromised and requires immediate security measures.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime Cell: Madam, download QuickSupport now! Your Aadhaar card is being misused for illegal activities and requires immediate action.",RemoteAccessRequest,RemoteAccess
+"Flipkart Online Shopping: Beta, download AnyDesk now! You have won a brand new car and need to pay the processing fee to claim it.",RemoteAccessRequest,RemoteAccess
+"Remote Work Opportunity: Sir, download TeamViewer now! Earn ₹50,000 monthly working from home as a data entry specialist.",RemoteAccessRequest,RemoteAccess
+"UPPCL Electricity Department: Madam, download AnyDesk urgently! Your electricity bill is overdue, and your connection is about to be disconnected.",RemoteAccessRequest,RemoteAccess
+"Airtel: Beta, your SIM will be blocked if you don't act now! Download AnyDesk for KYC verification immediately.",RemoteAccessRequest,RemoteAccess
+"Jio: Sir, get free 5G now and unlimited data! Download TeamViewer for quick activation, don't miss this.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Madam, your bank account's security is at risk! Download QuickSupport to secure your Aadhaar link urgently.",RemoteAccessRequest,RemoteAccess
+"Amazon: Beta, claim your gift card now before it expires! Download AnyDesk to claim your reward immediately.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Sir, work as a data entry operator and earn ₹30,000 monthly quickly! Download TeamViewer for training.",RemoteAccessRequest,RemoteAccess
+"Electricity Board: Madam, avoid power cut now! Download AnyDesk to pay your bill immediately.",RemoteAccessRequest,RemoteAccess
+"Microsoft: Beta, your computer is severely infected with a virus! Download AnyDesk now to remove it and protect your files.",RemoteAccessRequest,RemoteAccess
+"SBI: Sir, stop the unauthorized transaction right now! Download TeamViewer to secure your account immediately.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime: Madam, recover your hacked social media account urgently! Download QuickSupport now to recover it immediately.",RemoteAccessRequest,RemoteAccess
+"Flipkart: Beta, win a free vacation to Goa right now! Download AnyDesk to book your tickets soon.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Sir, set up your job easily now! Download TeamViewer to do it quickly.",RemoteAccessRequest,RemoteAccess
+"Airtel: Beta ji, your Airtel SIM will be blocked! Download AnyDesk immediately for KYC verification.",RemoteAccessRequest,RemoteAccess
+"Jio: Madam ji, get free 5G upgrade now! Download TeamViewer for quick activation, don't delay.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime Cell: Beta ji, your bank account's security is at risk! Download QuickSupport to secure your Aadhaar link urgently.",RemoteAccessRequest,RemoteAccess
+"Amazon Online Shopping: Sir ji, claim your Diwali gift card before it expires! Download AnyDesk to claim your reward immediately.",RemoteAccessRequest,RemoteAccess
+"Remote Work Opportunity: Madam ji, work as a data entry operator and earn ₹30,000 monthly quickly! Download TeamViewer for training.",RemoteAccessRequest,RemoteAccess
+"UPPCL Electricity Department: Beta ji, avoid power cut now! Download AnyDesk to pay your bill immediately.",RemoteAccessRequest,RemoteAccess
+"Microsoft Tech Support: Sir ji, your computer is severely infected with a virus! Download AnyDesk now to remove it and protect your files.",RemoteAccessRequest,RemoteAccess
+"HDFC Bank Fraud Alert: Madam ji, stop the unauthorized transaction right now! Download TeamViewer to secure your account immediately.",RemoteAccessRequest,RemoteAccess
+"Cyber Security Agency: Beta ji, recover your hacked social media account urgently! Download QuickSupport now to recover it immediately.",RemoteAccessRequest,RemoteAccess
+"Flipkart Online Shopping: Sir ji, win a free vacation to Goa right now! Download AnyDesk to book your tickets soon.",RemoteAccessRequest,RemoteAccess
+"Work From Home: Madam ji, set up your job easily now and start earning! Download TeamViewer to do it quickly.",RemoteAccessRequest,RemoteAccess
+"Electricity Department: Beta ji, claim the subsidy now before it is too late! Download AnyDesk for it soon.",RemoteAccessRequest,RemoteAccess
+"Airtel: Sir, your Airtel SIM will be blocked if you don't act now! Download AnyDesk to verify your KYC urgently.",RemoteAccessRequest,RemoteAccess
+"Jio: Madam, get free 5G upgrade now and enjoy unlimited data! Download TeamViewer for quick activation, don't miss this.",RemoteAccessRequest,RemoteAccess
+"Cyber Crime Cell: Beta, your Aadhaar card has been compromised and your bank account is at risk! Download QuickSupport to secure it immediately.",RemoteAccessRequest,RemoteAccess
+"Amazon Online Shopping: Sir, claim your Diwali gift card before it expires and get special discounts! Download AnyDesk to claim your reward immediately.",RemoteAccessRequest,RemoteAccess
+"Remote Work Opportunity: Madam, earn ₹30,000 monthly working from home as a data entry specialist with flexible hours! Download TeamViewer for training.",RemoteAccessRequest,RemoteAccess
+"UPPCL Electricity Department: Beta, your electricity bill is overdue, and power will be cut off soon! Download AnyDesk now to make an instant payment and avoid disconnection.",RemoteAccessRequest,RemoteAccess
+"Airtel: Sir, your Airtel SIM is about to be deactivated. Download AnyDesk now for KYC verification to avoid service interruption.",RemoteAccessRequest,RemoteAccess
+"Jio: Madam, we are offering a free upgrade to JioFiber Platinum plan with unlimited data and a free smart TV. Download TeamViewer now to avail the offer",RemoteAccessRequest,RemoteAccess
+"We are always trying to get better and we want you to be safe so please download QuickSupport, it will help you to be safe and have a good time with our service.",RemoteAccessRequest,RemoteAccess

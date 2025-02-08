@@ -1,0 +1,696 @@
+text,category,sub-category
+Amazon: Order #1001 cancelled due to technical glitch. Provide bank details.,Ecommerce Scam,Order Cancellation Scam
+Flipkart: Order #1002 cancelled due to product unavailability. Provide credit card details.,Ecommerce Scam,Order Cancellation Scam
+Myntra: Order #1003 cancelled due to address issue. Provide bank details.,Ecommerce Scam,Order Cancellation Scam
+Ajio: Order #1004 cancelled due to KYC incomplete. Provide Aadhaar and OTP.,Ecommerce Scam,Order Cancellation Scam
+Nykaa: Order #1005 cancelled due to pricing error. Provide bank details.,Ecommerce Scam,Order Cancellation Scam
+Tata CLiQ: Order #1006 cancelled due to technical glitch. Provide credit card details.,Ecommerce Scam,Order Cancellation Scam
+Snapdeal: Order #1007 cancelled due to product unavailability. Provide bank details.,Ecommerce Scam,Order Cancellation Scam
+Meesho: Order #1008 cancelled due to address issue. Provide Aadhaar and OTP.,Ecommerce Scam,Order Cancellation Scam
+Amazon: Order #1009 cancelled due to technical glitch. Provide bank details.,Ecommerce Scam,Order Cancellation Scam
+Flipkart: Order #1010 cancelled due to KYC incomplete. Provide credit card details.,Ecommerce Scam,Order Cancellation Scam
+Myntra: Order #1011 cancelled due to pricing error. Provide bank details.,Ecommerce Scam,Order Cancellation Scam
+Ajio: Order #1012 cancelled due to product unavailability. Provide Aadhaar and OTP.,Ecommerce Scam,Order Cancellation Scam
+Nykaa: Order #1013 cancelled due to address issue. Provide bank details.,Ecommerce Scam,Order Cancellation Scam
+Tata CLiQ: Order #1014 cancelled due to technical glitch. Provide credit card details.,Ecommerce Scam,Order Cancellation Scam
+Snapdeal: Order #1015 cancelled due to KYC incomplete. Provide bank details.,Ecommerce Scam,Order Cancellation Scam
+Meesho: Order #1016 cancelled due to pricing error. Provide Aadhaar and OTP.,Ecommerce Scam,Order Cancellation Scam
+Amazon: Order #1017 cancelled due to product unavailability. Provide bank details.,Ecommerce Scam,Order Cancellation Scam
+Flipkart: Order #1018 cancelled due to address issue. Provide credit card details.,Ecommerce Scam,Order Cancellation Scam
+Myntra: Order #1019 cancelled due to technical glitch. Provide bank details.,Ecommerce Scam,Order Cancellation Scam
+Ajio: Order #1020 cancelled due to pricing error. Provide Aadhaar and OTP.,Ecommerce Scam,Order Cancellation Scam
+Nykaa: Order #1021 cancelled due to KYC incomplete. Provide bank details.,Ecommerce Scam,Order Cancellation Scam
+Tata CLiQ: Order #1022 cancelled due to product unavailability. Provide credit card details.,Ecommerce Scam,Order Cancellation Scam
+Snapdeal: Order #1023 cancelled due to address issue. Provide bank details.,Ecommerce Scam,Order Cancellation Scam
+Meesho: Order #1024 cancelled due to technical glitch. Provide Aadhaar and OTP.,Ecommerce Scam,Order Cancellation Scam
+Amazon: Order #1025 cancelled due to pricing error. Provide bank details.,Ecommerce Scam,Order Cancellation Scam
+Flipkart: Order #1026 cancelled due to KYC incomplete. Provide credit card details.,Ecommerce Scam,Order Cancellation Scam
+Myntra: Order #1027 cancelled due to product unavailability. Provide bank details.,Ecommerce Scam,Order Cancellation Scam
+Ajio: Order #1028 cancelled due to address issue. Provide Aadhaar and OTP.,Ecommerce Scam,Order Cancellation Scam
+Delhivery on behalf of Amazon: Package #D2001 not delivered due to incorrect address. Pay redelivery fee ₹300.,Ecommerce Scam,Delivery Issues Scam
+Blue Dart for Flipkart: Package #D2002 undelivered due to customs charges. Pay fee ₹500.,Ecommerce Scam,Delivery Issues Scam
+DTDC for Myntra: Package #D2003 not delivered due to unpaid shipping fee. Pay redelivery fee ₹250.,Ecommerce Scam,Delivery Issues Scam
+Ecom Express for Ajio: Package #D2004 undelivered due to address mismatch. Pay redelivery fee ₹350.,Ecommerce Scam,Delivery Issues Scam
+Delhivery for Nykaa: Package #D2005 not delivered due to documentation error. Pay fee ₹400.,Ecommerce Scam,Delivery Issues Scam
+Blue Dart for Tata CLiQ: Package #D2006 undelivered due to customs delay. Pay fee ₹450.,Ecommerce Scam,Delivery Issues Scam
+DTDC for Snapdeal: Package #D2007 not delivered due to incorrect address. Pay redelivery fee ₹300.,Ecommerce Scam,Delivery Issues Scam
+Ecom Express for Meesho: Package #D2008 undelivered due to shipping error. Pay fee ₹350.,Ecommerce Scam,Delivery Issues Scam
+Delhivery on behalf of Amazon: Package #D2009 not delivered due to incorrect address. Pay redelivery fee ₹300.,Ecommerce Scam,Delivery Issues Scam
+Blue Dart for Flipkart: Package #D2010 undelivered due to customs charges. Pay fee ₹500.,Ecommerce Scam,Delivery Issues Scam
+DTDC for Myntra: Package #D2011 not delivered due to unpaid shipping fee. Pay redelivery fee ₹250.,Ecommerce Scam,Delivery Issues Scam
+Ecom Express for Ajio: Package #D2012 undelivered due to address mismatch. Pay redelivery fee ₹350.,Ecommerce Scam,Delivery Issues Scam
+Delhivery for Nykaa: Package #D2013 not delivered due to documentation error. Pay fee ₹400.,Ecommerce Scam,Delivery Issues Scam
+Blue Dart for Tata CLiQ: Package #D2014 undelivered due to customs delay. Pay fee ₹450.,Ecommerce Scam,Delivery Issues Scam
+DTDC for Snapdeal: Package #D2015 not delivered due to incorrect address. Pay redelivery fee ₹300.,Ecommerce Scam,Delivery Issues Scam
+Ecom Express for Meesho: Package #D2016 undelivered due to shipping error. Pay fee ₹350.,Ecommerce Scam,Delivery Issues Scam
+Delhivery on behalf of Amazon: Package #D2017 not delivered due to incorrect address. Pay redelivery fee ₹300.,Ecommerce Scam,Delivery Issues Scam
+Blue Dart for Flipkart: Package #D2018 undelivered due to customs charges. Pay fee ₹500.,Ecommerce Scam,Delivery Issues Scam
+DTDC for Myntra: Package #D2019 not delivered due to unpaid shipping fee. Pay redelivery fee ₹250.,Ecommerce Scam,Delivery Issues Scam
+Ecom Express for Ajio: Package #D2020 undelivered due to address mismatch. Pay redelivery fee ₹350.,Ecommerce Scam,Delivery Issues Scam
+Delhivery for Nykaa: Package #D2021 not delivered due to documentation error. Pay fee ₹400.,Ecommerce Scam,Delivery Issues Scam
+Blue Dart for Tata CLiQ: Package #D2022 undelivered due to customs delay. Pay fee ₹450.,Ecommerce Scam,Delivery Issues Scam
+DTDC for Snapdeal: Package #D2023 not delivered due to incorrect address. Pay redelivery fee ₹300.,Ecommerce Scam,Delivery Issues Scam
+Ecom Express for Meesho: Package #D2024 undelivered due to shipping error. Pay fee ₹350.,Ecommerce Scam,Delivery Issues Scam
+Amazon: Refund of ₹1500 for order #3001 pending. Provide bank details to process refund.,Ecommerce Scam,Refund Scam
+Flipkart: Refund of ₹1200 for order #3002 pending. Provide credit card details to process refund.,Ecommerce Scam,Refund Scam
+Myntra: Refund of ₹800 for order #3003 pending. Provide bank details to process refund.,Ecommerce Scam,Refund Scam
+Ajio: Refund of ₹950 for order #3004 pending. Provide Aadhaar and OTP to process refund.,Ecommerce Scam,Refund Scam
+Nykaa: Refund of ₹1100 for order #3005 pending. Provide bank details to process refund.,Ecommerce Scam,Refund Scam
+Tata CLiQ: Refund of ₹1300 for order #3006 pending. Provide credit card details to process refund.,Ecommerce Scam,Refund Scam
+Snapdeal: Refund of ₹700 for order #3007 pending. Provide bank details to process refund.,Ecommerce Scam,Refund Scam
+Meesho: Refund of ₹900 for order #3008 pending. Provide Aadhaar and OTP to process refund.,Ecommerce Scam,Refund Scam
+Amazon: Refund of ₹1500 for order #3009 pending. Provide bank details to process refund.,Ecommerce Scam,Refund Scam
+Flipkart: Refund of ₹1200 for order #3010 pending. Provide credit card details to process refund.,Ecommerce Scam,Refund Scam
+Myntra: Refund of ₹800 for order #3011 pending. Provide bank details to process refund.,Ecommerce Scam,Refund Scam
+Ajio: Refund of ₹950 for order #3012 pending. Provide Aadhaar and OTP to process refund.,Ecommerce Scam,Refund Scam
+Nykaa: Refund of ₹1100 for order #3013 pending. Provide bank details to process refund.,Ecommerce Scam,Refund Scam
+Tata CLiQ: Refund of ₹1300 for order #3014 pending. Provide credit card details to process refund.,Ecommerce Scam,Refund Scam
+Snapdeal: Refund of ₹700 for order #3015 pending. Provide bank details to process refund.,Ecommerce Scam,Refund Scam
+Meesho: Refund of ₹900 for order #3016 pending. Provide Aadhaar and OTP to process refund.,Ecommerce Scam,Refund Scam
+Amazon: Refund of ₹1500 for order #3017 pending. Provide bank details to process refund.,Ecommerce Scam,Refund Scam
+Flipkart: Refund of ₹1200 for order #3018 pending. Provide credit card details to process refund.,Ecommerce Scam,Refund Scam
+Myntra: Refund of ₹800 for order #3019 pending. Provide bank details to process refund.,Ecommerce Scam,Refund Scam
+Ajio: Refund of ₹950 for order #3020 pending. Provide Aadhaar and OTP to process refund.,Ecommerce Scam,Refund Scam
+Nykaa: Refund of ₹1100 for order #3021 pending. Provide bank details to process refund.,Ecommerce Scam,Refund Scam
+Tata CLiQ: Refund of ₹1300 for order #3022 pending. Provide credit card details to process refund.,Ecommerce Scam,Refund Scam
+Snapdeal: Refund of ₹700 for order #3023 pending. Provide bank details to process refund.,Ecommerce Scam,Refund Scam
+Meesho: Refund of ₹900 for order #3024 pending. Provide Aadhaar and OTP to process refund.,Ecommerce Scam,Refund Scam
+Meesho: Confirm interest in 'Smartphone X' with booking fee ₹100 for order #4001.,Ecommerce Scam,Fake Product Listing Scam
+Ajio: Confirm interest in 'Designer Shoes' with booking fee ₹150 for order #4002.,Ecommerce Scam,Fake Product Listing Scam
+Myntra: Confirm interest in 'Casual Shirt' with booking fee ₹80 for order #4003.,Ecommerce Scam,Fake Product Listing Scam
+Nykaa: Confirm interest in 'Beauty Kit' with booking fee ₹50 for order #4004.,Ecommerce Scam,Fake Product Listing Scam
+Amazon: Confirm interest in 'Laptop Pro' with booking fee ₹200 for order #4005.,Ecommerce Scam,Fake Product Listing Scam
+Flipkart: Confirm interest in 'Bluetooth Headset' with booking fee ₹70 for order #4006.,Ecommerce Scam,Fake Product Listing Scam
+Snapdeal: Confirm interest in 'Fitness Band' with booking fee ₹90 for order #4007.,Ecommerce Scam,Fake Product Listing Scam
+Meesho: Confirm interest in 'Sunglasses' with booking fee ₹60 for order #4008.,Ecommerce Scam,Fake Product Listing Scam
+Ajio: Confirm interest in 'Handbag' with booking fee ₹120 for order #4009.,Ecommerce Scam,Fake Product Listing Scam
+Myntra: Confirm interest in 'Wrist Watch' with booking fee ₹110 for order #4010.,Ecommerce Scam,Fake Product Listing Scam
+Nykaa: Confirm interest in 'Perfume Set' with booking fee ₹75 for order #4011.,Ecommerce Scam,Fake Product Listing Scam
+Amazon: Confirm interest in 'Tablet Z' with booking fee ₹180 for order #4012.,Ecommerce Scam,Fake Product Listing Scam
+Flipkart: Confirm interest in 'Gaming Console' with booking fee ₹250 for order #4013.,Ecommerce Scam,Fake Product Listing Scam
+Snapdeal: Confirm interest in 'Wireless Earbuds' with booking fee ₹85 for order #4014.,Ecommerce Scam,Fake Product Listing Scam
+Meesho: Confirm interest in 'Smartwatch' with booking fee ₹95 for order #4015.,Ecommerce Scam,Fake Product Listing Scam
+Ajio: Confirm interest in 'Casual Shoes' with booking fee ₹130 for order #4016.,Ecommerce Scam,Fake Product Listing Scam
+Myntra: Confirm interest in 'Jeans' with booking fee ₹70 for order #4017.,Ecommerce Scam,Fake Product Listing Scam
+Nykaa: Confirm interest in 'Makeup Kit' with booking fee ₹55 for order #4018.,Ecommerce Scam,Fake Product Listing Scam
+Amazon: Confirm interest in '4K TV' with booking fee ₹220 for order #4019.,Ecommerce Scam,Fake Product Listing Scam
+Flipkart: Confirm interest in 'Refrigerator' with booking fee ₹300 for order #4020.,Ecommerce Scam,Fake Product Listing Scam
+Snapdeal: Confirm interest in 'Washing Machine' with booking fee ₹250 for order #4021.,Ecommerce Scam,Fake Product Listing Scam
+Meesho: Confirm interest in 'Microwave Oven' with booking fee ₹150 for order #4022.,Ecommerce Scam,Fake Product Listing Scam
+Ajio: Confirm interest in 'Air Conditioner' with booking fee ₹350 for order #4023.,Ecommerce Scam,Fake Product Listing Scam
+Myntra: Confirm interest in 'LED Lamp' with booking fee ₹40 for order #4024.,Ecommerce Scam,Fake Product Listing Scam
+Nykaa: Confirm interest in 'Skincare Set' with booking fee ₹60 for order #4025.,Ecommerce Scam,Fake Product Listing Scam
+Amazon: Confirm interest in 'Smart Speaker' with booking fee ₹90 for order #4026.,Ecommerce Scam,Fake Product Listing Scam
+Flipkart: Confirm interest in 'Digital Camera' with booking fee ₹160 for order #4027.,Ecommerce Scam,Fake Product Listing Scam
+Snapdeal: Confirm interest in 'Printer' with booking fee ₹140 for order #4028.,Ecommerce Scam,Fake Product Listing Scam
+Amazon: Verify your account by providing Aadhaar and OTP.,Ecommerce Scam,Account Verification Scam
+"Flipkart: For security, verify your account with Aadhaar and OTP.",Ecommerce Scam,Account Verification Scam
+Myntra: Account verification required. Provide Aadhaar and OTP now.,Ecommerce Scam,Account Verification Scam
+Ajio: Verify your account immediately with Aadhaar and OTP.,Ecommerce Scam,Account Verification Scam
+Nykaa: Security alert! Verify your account using Aadhaar and OTP.,Ecommerce Scam,Account Verification Scam
+Tata CLiQ: Please verify your account with Aadhaar and OTP for security.,Ecommerce Scam,Account Verification Scam
+Snapdeal: Urgent! Verify your account by providing Aadhaar and OTP.,Ecommerce Scam,Account Verification Scam
+Meesho: Confirm your account by submitting Aadhaar and OTP.,Ecommerce Scam,Account Verification Scam
+Amazon: Urgent account verification required. Provide Aadhaar and OTP.,Ecommerce Scam,Account Verification Scam
+Flipkart: Verify your account now with Aadhaar and OTP.,Ecommerce Scam,Account Verification Scam
+"Myntra: For security, confirm your account using Aadhaar and OTP.",Ecommerce Scam,Account Verification Scam
+Ajio: Immediate account verification needed. Provide Aadhaar and OTP.,Ecommerce Scam,Account Verification Scam
+Nykaa: Your account requires verification. Submit Aadhaar and OTP.,Ecommerce Scam,Account Verification Scam
+Tata CLiQ: Verify your account promptly with Aadhaar and OTP.,Ecommerce Scam,Account Verification Scam
+Snapdeal: Account flagged. Verify using Aadhaar and OTP immediately.,Ecommerce Scam,Account Verification Scam
+Meesho: Confirm your account by providing Aadhaar and OTP now.,Ecommerce Scam,Account Verification Scam
+Amazon: Security update needed. Verify your account with Aadhaar and OTP.,Ecommerce Scam,Account Verification Scam
+Flipkart: Urgent! Verify your account by submitting Aadhaar and OTP.,Ecommerce Scam,Account Verification Scam
+Myntra: Account verification required. Provide Aadhaar and OTP immediately.,Ecommerce Scam,Account Verification Scam
+Ajio: Please verify your account now with Aadhaar and OTP.,Ecommerce Scam,Account Verification Scam
+Nykaa: Confirm your account security by providing Aadhaar and OTP.,Ecommerce Scam,Account Verification Scam
+Tata CLiQ: Immediate account verification needed. Submit Aadhaar and OTP.,Ecommerce Scam,Account Verification Scam
+Snapdeal: Verify your account promptly using Aadhaar and OTP.,Ecommerce Scam,Account Verification Scam
+"Meesho: For security reasons, verify your account with Aadhaar and OTP.",Ecommerce Scam,Account Verification Scam
+Amazon: Urgent account check. Provide Aadhaar and OTP for verification.,Ecommerce Scam,Account Verification Scam
+Flipkart: Your account requires immediate verification. Submit Aadhaar and OTP.,Ecommerce Scam,Account Verification Scam
+Myntra: Verify your account now by providing Aadhaar and OTP.,Ecommerce Scam,Account Verification Scam
+Ajio: Account verification needed. Provide Aadhaar and OTP immediately.,Ecommerce Scam,Account Verification Scam
+"Flipkart: Quality check for order #5001. If unsatisfied, provide bank details for refund.",Ecommerce Scam,Quality Check Scam
+"Amazon: Quality check call for order #5002. If not satisfied, provide bank details for refund.",Ecommerce Scam,Quality Check Scam
+Myntra: Verify product quality for order #5003. Provide bank details for refund if needed.,Ecommerce Scam,Quality Check Scam
+Ajio: Quality check required for order #5004. Provide bank details for refund if unsatisfied.,Ecommerce Scam,Quality Check Scam
+"Nykaa: Quality check for order #5005. If issues, provide bank details for refund.",Ecommerce Scam,Quality Check Scam
+Tata CLiQ: Call for quality check on order #5006. Provide bank details for refund if necessary.,Ecommerce Scam,Quality Check Scam
+Snapdeal: Quality check inquiry for order #5007. Provide bank details for refund if not satisfied.,Ecommerce Scam,Quality Check Scam
+Meesho: Quality check call for order #5008. Provide bank details for refund if needed.,Ecommerce Scam,Quality Check Scam
+"Flipkart: Quality check for order #5009. If unsatisfied, provide bank details for refund.",Ecommerce Scam,Quality Check Scam
+"Amazon: Quality check call for order #5010. If issues, provide bank details for refund.",Ecommerce Scam,Quality Check Scam
+Myntra: Quality check inquiry for order #5011. Provide bank details for refund if necessary.,Ecommerce Scam,Quality Check Scam
+Ajio: Quality check for order #5012. Provide bank details for refund if not satisfied.,Ecommerce Scam,Quality Check Scam
+"Nykaa: Quality check call for order #5013. If issues, provide bank details for refund.",Ecommerce Scam,Quality Check Scam
+Tata CLiQ: Quality check for order #5014. Provide bank details for refund if needed.,Ecommerce Scam,Quality Check Scam
+Snapdeal: Quality check inquiry for order #5015. Provide bank details for refund if unsatisfied.,Ecommerce Scam,Quality Check Scam
+Meesho: Quality check call for order #5016. Provide bank details for refund if necessary.,Ecommerce Scam,Quality Check Scam
+"Flipkart: Quality check for order #5017. If unsatisfied, provide bank details for refund.",Ecommerce Scam,Quality Check Scam
+"Amazon: Quality check call for order #5018. If issues, provide bank details for refund.",Ecommerce Scam,Quality Check Scam
+Myntra: Quality check inquiry for order #5019. Provide bank details for refund if needed.,Ecommerce Scam,Quality Check Scam
+Ajio: Quality check for order #5020. Provide bank details for refund if not satisfied.,Ecommerce Scam,Quality Check Scam
+"Nykaa: Quality check call for order #5021. If issues, provide bank details for refund.",Ecommerce Scam,Quality Check Scam
+Tata CLiQ: Quality check for order #5022. Provide bank details for refund if necessary.,Ecommerce Scam,Quality Check Scam
+Snapdeal: Quality check inquiry for order #5023. Provide bank details for refund if unsatisfied.,Ecommerce Scam,Quality Check Scam
+Meesho: Quality check call for order #5024. Provide bank details for refund if needed.,Ecommerce Scam,Quality Check Scam
+"Flipkart: Quality check for order #5025. If unsatisfied, provide bank details for refund.",Ecommerce Scam,Quality Check Scam
+"Amazon: Quality check call for order #5026. If issues, provide bank details for refund.",Ecommerce Scam,Quality Check Scam
+Myntra: Quality check inquiry for order #5027. Provide bank details for refund if necessary.,Ecommerce Scam,Quality Check Scam
+Ajio: Quality check for order #5028. Provide bank details for refund if not satisfied.,Ecommerce Scam,Quality Check Scam
+Urgent: Tata CLiQ: Issue with order #6001. Provide payment details immediately.,Ecommerce Scam,Miscellaneous Scam
+Urgent: Nykaa: Problem with order #6002. Provide bank details immediately.,Ecommerce Scam,Miscellaneous Scam
+Alert: Amazon: Issue with order #6003. Provide credit card details immediately.,Ecommerce Scam,Miscellaneous Scam
+Alert: Flipkart: Problem with order #6004. Provide UPI ID immediately.,Ecommerce Scam,Miscellaneous Scam
+Urgent: Myntra: Issue with order #6005. Provide payment details immediately.,Ecommerce Scam,Miscellaneous Scam
+Alert: Ajio: Problem with order #6006. Provide bank details immediately.,Ecommerce Scam,Miscellaneous Scam
+Urgent: Tata CLiQ: Issue with order #6007. Provide credit card details immediately.,Ecommerce Scam,Miscellaneous Scam
+Alert: Snapdeal: Problem with order #6008. Provide UPI ID immediately.,Ecommerce Scam,Miscellaneous Scam
+Urgent: Meesho: Issue with order #6009. Provide payment details immediately.,Ecommerce Scam,Miscellaneous Scam
+Alert: Amazon: Problem with order #6010. Provide bank details immediately.,Ecommerce Scam,Miscellaneous Scam
+Urgent: Flipkart: Issue with order #6011. Provide credit card details immediately.,Ecommerce Scam,Miscellaneous Scam
+Alert: Myntra: Problem with order #6012. Provide UPI ID immediately.,Ecommerce Scam,Miscellaneous Scam
+Urgent: Ajio: Issue with order #6013. Provide payment details immediately.,Ecommerce Scam,Miscellaneous Scam
+Alert: Nykaa: Problem with order #6014. Provide bank details immediately.,Ecommerce Scam,Miscellaneous Scam
+Urgent: Tata CLiQ: Issue with order #6015. Provide credit card details immediately.,Ecommerce Scam,Miscellaneous Scam
+Alert: Snapdeal: Problem with order #6016. Provide UPI ID immediately.,Ecommerce Scam,Miscellaneous Scam
+Urgent: Meesho: Issue with order #6017. Provide payment details immediately.,Ecommerce Scam,Miscellaneous Scam
+Alert: Amazon: Problem with order #6018. Provide bank details immediately.,Ecommerce Scam,Miscellaneous Scam
+Urgent: Flipkart: Issue with order #6019. Provide credit card details immediately.,Ecommerce Scam,Miscellaneous Scam
+Alert: Myntra: Problem with order #6020. Provide UPI ID immediately.,Ecommerce Scam,Miscellaneous Scam
+Urgent: Ajio: Issue with order #6021. Provide payment details immediately.,Ecommerce Scam,Miscellaneous Scam
+Alert: Nykaa: Problem with order #6022. Provide bank details immediately.,Ecommerce Scam,Miscellaneous Scam
+Urgent: Tata CLiQ: Issue with order #6023. Provide credit card details immediately.,Ecommerce Scam,Miscellaneous Scam
+Alert: Snapdeal: Problem with order #6024. Provide UPI ID immediately.,Ecommerce Scam,Miscellaneous Scam
+Urgent: Meesho: Issue with order #6025. Provide payment details immediately.,Ecommerce Scam,Miscellaneous Scam
+Alert: Amazon: Problem with order #6026. Provide bank details immediately.,Ecommerce Scam,Miscellaneous Scam
+Urgent: Flipkart: Issue with order #6027. Provide credit card details immediately.,Ecommerce Scam,Miscellaneous Scam
+Alert: Myntra: Problem with order #6028. Provide UPI ID immediately.,Ecommerce Scam,Miscellaneous Scam
+Urgent: Ajio: Issue with order #6029. Provide payment details immediately.,Ecommerce Scam,Miscellaneous Scam
+Alert: Nykaa: Problem with order #6030. Provide bank details immediately.,Ecommerce Scam,Miscellaneous Scam
+Urgent: Tata CLiQ: Issue with order #6031. Provide credit card details immediately.,Ecommerce Scam,Miscellaneous Scam
+Alert: Snapdeal: Problem with order #6032. Provide UPI ID immediately.,Ecommerce Scam,Miscellaneous Scam
+Amazon: Order #7001 confirmed for 'Wireless Mouse'. Estimated delivery: 2025-02-10.,legitimate,legitimate
+Flipkart: Order #7002 confirmed for 'LED TV'. Estimated delivery: 2025-02-11.,legitimate,legitimate
+Myntra: Order #7003 confirmed for 'Casual Shirt'. Estimated delivery: 2025-02-12.,legitimate,legitimate
+Ajio: Order #7004 confirmed for 'Designer Jeans'. Estimated delivery: 2025-02-13.,legitimate,legitimate
+Nykaa: Order #7005 confirmed for 'Beauty Kit'. Estimated delivery: 2025-02-14.,legitimate,legitimate
+Tata CLiQ: Order #7006 confirmed for 'Smartphone'. Estimated delivery: 2025-02-15.,legitimate,legitimate
+Snapdeal: Order #7007 confirmed for 'Fitness Band'. Estimated delivery: 2025-02-16.,legitimate,legitimate
+Meesho: Order #7008 confirmed for 'Handbag'. Estimated delivery: 2025-02-17.,legitimate,legitimate
+Amazon: Order #7009 confirmed for 'Bluetooth Speaker'. Estimated delivery: 2025-02-18.,legitimate,legitimate
+Flipkart: Order #7010 confirmed for 'Gaming Console'. Estimated delivery: 2025-02-19.,legitimate,legitimate
+Myntra: Order #7011 confirmed for 'Sneakers'. Estimated delivery: 2025-02-20.,legitimate,legitimate
+Ajio: Order #7012 confirmed for 'Wrist Watch'. Estimated delivery: 2025-02-21.,legitimate,legitimate
+Nykaa: Order #7013 confirmed for 'Perfume'. Estimated delivery: 2025-02-22.,legitimate,legitimate
+Tata CLiQ: Order #7014 confirmed for 'Tablet'. Estimated delivery: 2025-02-23.,legitimate,legitimate
+Snapdeal: Order #7015 confirmed for 'Laptop'. Estimated delivery: 2025-02-24.,legitimate,legitimate
+Meesho: Order #7016 confirmed for 'Dress'. Estimated delivery: 2025-02-25.,legitimate,legitimate
+Amazon: Order #7017 confirmed for 'Smartwatch'. Estimated delivery: 2025-02-26.,legitimate,legitimate
+Flipkart: Order #7018 confirmed for 'Refrigerator'. Estimated delivery: 2025-02-27.,legitimate,legitimate
+Myntra: Order #7019 confirmed for 'Jacket'. Estimated delivery: 2025-02-28.,legitimate,legitimate
+Ajio: Order #7020 confirmed for 'Shoes'. Estimated delivery: 2025-03-01.,legitimate,legitimate
+Nykaa: Order #7021 confirmed for 'Skincare Set'. Estimated delivery: 2025-03-02.,legitimate,legitimate
+Tata CLiQ: Order #7022 confirmed for 'Camera'. Estimated delivery: 2025-03-03.,legitimate,legitimate
+Snapdeal: Order #7023 confirmed for 'Printer'. Estimated delivery: 2025-03-04.,legitimate,legitimate
+Meesho: Order #7024 confirmed for 'Sunglasses'. Estimated delivery: 2025-03-05.,legitimate,legitimate
+Amazon: Order #7025 confirmed for 'Earphones'. Estimated delivery: 2025-03-06.,legitimate,legitimate
+Flipkart: Order #7026 confirmed for 'Monitor'. Estimated delivery: 2025-03-07.,legitimate,legitimate
+Myntra: Order #7027 confirmed for 'T-shirt'. Estimated delivery: 2025-03-08.,legitimate,legitimate
+Ajio: Order #7028 confirmed for 'Formal Shirt'. Estimated delivery: 2025-03-09.,legitimate,legitimate
+Nykaa: Order #7029 confirmed for 'Lipstick'. Estimated delivery: 2025-03-10.,legitimate,legitimate
+Tata CLiQ: Order #7030 confirmed for 'Air Conditioner'. Estimated delivery: 2025-03-11.,legitimate,legitimate
+Snapdeal: Order #7031 confirmed for 'Microwave'. Estimated delivery: 2025-03-12.,legitimate,legitimate
+Meesho: Order #7032 confirmed for 'Bag'. Estimated delivery: 2025-03-13.,legitimate,legitimate
+Amazon: Order #7033 confirmed for 'Keyboard'. Estimated delivery: 2025-03-14.,legitimate,legitimate
+Flipkart: Order #7034 confirmed for 'Mouse'. Estimated delivery: 2025-03-15.,legitimate,legitimate
+Myntra: Order #7035 confirmed for 'Cap'. Estimated delivery: 2025-03-16.,legitimate,legitimate
+Ajio: Order #7036 confirmed for 'Scarf'. Estimated delivery: 2025-03-17.,legitimate,legitimate
+Nykaa: Order #7037 confirmed for 'Nail Polish'. Estimated delivery: 2025-03-18.,legitimate,legitimate
+Tata CLiQ: Order #7038 confirmed for 'Smart TV'. Estimated delivery: 2025-03-19.,legitimate,legitimate
+Snapdeal: Order #7039 confirmed for 'Router'. Estimated delivery: 2025-03-20.,legitimate,legitimate
+Meesho: Order #7040 confirmed for 'Printer Ink'. Estimated delivery: 2025-03-21.,legitimate,legitimate
+Flipkart: Package #T8001 shipped. Expected delivery: 2025-03-22.,legitimate,legitimate
+Amazon: Package #T8002 shipped. Expected delivery: 2025-03-23.,legitimate,legitimate
+Myntra: Package #T8003 shipped. Expected delivery: 2025-03-24.,legitimate,legitimate
+Ajio: Package #T8004 shipped. Expected delivery: 2025-03-25.,legitimate,legitimate
+Nykaa: Package #T8005 shipped. Expected delivery: 2025-03-26.,legitimate,legitimate
+Tata CLiQ: Package #T8006 shipped. Expected delivery: 2025-03-27.,legitimate,legitimate
+Snapdeal: Package #T8007 shipped. Expected delivery: 2025-03-28.,legitimate,legitimate
+Meesho: Package #T8008 shipped. Expected delivery: 2025-03-29.,legitimate,legitimate
+Flipkart: Package #T8009 shipped. Expected delivery: 2025-03-30.,legitimate,legitimate
+Amazon: Package #T8010 shipped. Expected delivery: 2025-03-31.,legitimate,legitimate
+Myntra: Package #T8011 shipped. Expected delivery: 2025-04-01.,legitimate,legitimate
+Ajio: Package #T8012 shipped. Expected delivery: 2025-04-02.,legitimate,legitimate
+Nykaa: Package #T8013 shipped. Expected delivery: 2025-04-03.,legitimate,legitimate
+Tata CLiQ: Package #T8014 shipped. Expected delivery: 2025-04-04.,legitimate,legitimate
+Snapdeal: Package #T8015 shipped. Expected delivery: 2025-04-05.,legitimate,legitimate
+Meesho: Package #T8016 shipped. Expected delivery: 2025-04-06.,legitimate,legitimate
+Flipkart: Package #T8017 shipped. Expected delivery: 2025-04-07.,legitimate,legitimate
+Amazon: Package #T8018 shipped. Expected delivery: 2025-04-08.,legitimate,legitimate
+Myntra: Package #T8019 shipped. Expected delivery: 2025-04-09.,legitimate,legitimate
+Ajio: Package #T8020 shipped. Expected delivery: 2025-04-10.,legitimate,legitimate
+Nykaa: Package #T8021 shipped. Expected delivery: 2025-04-11.,legitimate,legitimate
+Tata CLiQ: Package #T8022 shipped. Expected delivery: 2025-04-12.,legitimate,legitimate
+Snapdeal: Package #T8023 shipped. Expected delivery: 2025-04-13.,legitimate,legitimate
+Meesho: Package #T8024 shipped. Expected delivery: 2025-04-14.,legitimate,legitimate
+Flipkart: Package #T8025 shipped. Expected delivery: 2025-04-15.,legitimate,legitimate
+Amazon: Package #T8026 shipped. Expected delivery: 2025-04-16.,legitimate,legitimate
+Myntra: Package #T8027 shipped. Expected delivery: 2025-04-17.,legitimate,legitimate
+Ajio: Package #T8028 shipped. Expected delivery: 2025-04-18.,legitimate,legitimate
+Nykaa: Package #T8029 shipped. Expected delivery: 2025-04-19.,legitimate,legitimate
+Tata CLiQ: Package #T8030 shipped. Expected delivery: 2025-04-20.,legitimate,legitimate
+Snapdeal: Package #T8031 shipped. Expected delivery: 2025-04-21.,legitimate,legitimate
+Meesho: Package #T8032 shipped. Expected delivery: 2025-04-22.,legitimate,legitimate
+Flipkart: Package #T8033 shipped. Expected delivery: 2025-04-23.,legitimate,legitimate
+Amazon: Package #T8034 shipped. Expected delivery: 2025-04-24.,legitimate,legitimate
+Myntra: Package #T8035 shipped. Expected delivery: 2025-04-25.,legitimate,legitimate
+Ajio: Package #T8036 shipped. Expected delivery: 2025-04-26.,legitimate,legitimate
+Nykaa: Package #T8037 shipped. Expected delivery: 2025-04-27.,legitimate,legitimate
+Tata CLiQ: Package #T8038 shipped. Expected delivery: 2025-04-28.,legitimate,legitimate
+Snapdeal: Package #T8039 shipped. Expected delivery: 2025-04-29.,legitimate,legitimate
+Meesho: Package #T8040 shipped. Expected delivery: 2025-04-30.,legitimate,legitimate
+Thank you for calling Amazon customer service. How can we help you today?,legitimate,legitimate
+Thank you for contacting Flipkart support. How may we assist you?,legitimate,legitimate
+Myntra customer service: How can we help you with your order?,legitimate,legitimate
+Ajio support: Thank you for calling. Please let us know your query.,legitimate,legitimate
+Nykaa customer service: How may we assist you today?,legitimate,legitimate
+Tata CLiQ support: Thank you for contacting us. What can we help you with?,legitimate,legitimate
+Snapdeal customer service: How can we assist you regarding your order?,legitimate,legitimate
+Meesho support: Thank you for calling. Please state your inquiry.,legitimate,legitimate
+Amazon support: How can we help you with your recent purchase?,legitimate,legitimate
+Flipkart customer service: Please let us know your query.,legitimate,legitimate
+Myntra support: Thank you for contacting us. How may we assist?,legitimate,legitimate
+Ajio customer service: Please describe your issue.,legitimate,legitimate
+Nykaa support: How can we help you today?,legitimate,legitimate
+Tata CLiQ support: Thank you for calling. What is your query?,legitimate,legitimate
+Snapdeal customer service: How may we assist you with your order?,legitimate,legitimate
+Meesho support: Thank you for contacting us. What is your query?,legitimate,legitimate
+Amazon support: How can we help you with your purchase?,legitimate,legitimate
+Flipkart customer service: Please let us know your issue.,legitimate,legitimate
+Myntra support: How may we assist you today?,legitimate,legitimate
+Ajio customer service: Thank you for calling. What can we do for you?,legitimate,legitimate
+Nykaa support: Thank you for calling. How may we help you?,legitimate,legitimate
+Tata CLiQ support: Please state your inquiry.,legitimate,legitimate
+Snapdeal customer service: How can we help you with your order?,legitimate,legitimate
+Meesho support: Thank you for contacting us. What is your query?,legitimate,legitimate
+Amazon support: How can we help you today?,legitimate,legitimate
+Flipkart customer service: Thank you for contacting us. What can we do for you?,legitimate,legitimate
+Myntra support: Please describe your issue.,legitimate,legitimate
+Ajio customer service: How can we assist you today?,legitimate,legitimate
+Nykaa support: Thank you for calling. How may we help you?,legitimate,legitimate
+Tata CLiQ support: Please state your inquiry.,legitimate,legitimate
+Snapdeal customer service: How may we assist you?,legitimate,legitimate
+Meesho support: Thank you for contacting us. What is your query?,legitimate,legitimate
+Amazon customer service: How can we assist you today?,legitimate,legitimate
+Flipkart support: Please describe your issue.,legitimate,legitimate
+Myntra customer service: How may we help you?,legitimate,legitimate
+Ajio support: Thank you for calling. How can we assist?,legitimate,legitimate
+Nykaa customer service: What can we help you with today?,legitimate,legitimate
+Tata CLiQ support: Please let us know your inquiry.,legitimate,legitimate
+Snapdeal customer service: How may we assist you with your order?,legitimate,legitimate
+Meesho support: Thank you for calling. What is your query?,legitimate,legitimate
+Amazon customer service: How can we assist you today?,legitimate,legitimate
+Flipkart support: Please describe your issue.,legitimate,legitimate
+Myntra customer service: How may we help you?,legitimate,legitimate
+Ajio support: Thank you for calling. How can we assist?,legitimate,legitimate
+Nykaa customer service: What can we help you with today?,legitimate,legitimate
+Tata CLiQ support: Please let us know your inquiry.,legitimate,legitimate
+Snapdeal customer service: How may we assist you with your order?,legitimate,legitimate
+Meesho support: Thank you for calling. What is your query?,legitimate,legitimate
+Snapdeal: Your refund of ₹800 for order #9001 has been processed. It will reflect in 3-5 business days.,legitimate,legitimate
+Amazon: Your refund of ₹1500 for order #9002 has been processed. It will reflect shortly.,legitimate,legitimate
+Flipkart: Your refund of ₹1200 for order #9003 has been processed. Expect credit in 3-5 days.,legitimate,legitimate
+Myntra: Your refund of ₹900 for order #9004 has been processed. It will be credited soon.,legitimate,legitimate
+Ajio: Your refund of ₹1100 for order #9005 has been processed. Please check your account.,legitimate,legitimate
+Nykaa: Your refund of ₹700 for order #9006 has been processed. It should reflect within days.,legitimate,legitimate
+Tata CLiQ: Your refund of ₹1300 for order #9007 has been processed. Expect update in 3-5 days.,legitimate,legitimate
+Meesho: Your refund of ₹950 for order #9008 has been processed. It will reflect soon.,legitimate,legitimate
+Snapdeal: Your refund of ₹800 for order #9009 has been processed. Check your account in a few days.,legitimate,legitimate
+Amazon: Your refund of ₹1500 for order #9010 has been processed. It will reflect shortly.,legitimate,legitimate
+Flipkart: Your refund of ₹1200 for order #9011 has been processed. Expect credit in 3-5 days.,legitimate,legitimate
+Myntra: Your refund of ₹900 for order #9012 has been processed. It will be credited soon.,legitimate,legitimate
+Ajio: Your refund of ₹1100 for order #9013 has been processed. Please check your account.,legitimate,legitimate
+Nykaa: Your refund of ₹700 for order #9014 has been processed. It should reflect within days.,legitimate,legitimate
+Tata CLiQ: Your refund of ₹1300 for order #9015 has been processed. Expect update in 3-5 days.,legitimate,legitimate
+Meesho: Your refund of ₹950 for order #9016 has been processed. It will reflect soon.,legitimate,legitimate
+Snapdeal: Your refund of ₹800 for order #9017 has been processed. Check your account in a few days.,legitimate,legitimate
+Amazon: Your refund of ₹1500 for order #9018 has been processed. It will reflect shortly.,legitimate,legitimate
+Flipkart: Your refund of ₹1200 for order #9019 has been processed. Expect credit in 3-5 days.,legitimate,legitimate
+Myntra: Your refund of ₹900 for order #9020 has been processed. It will be credited soon.,legitimate,legitimate
+Ajio: Your refund of ₹1100 for order #9021 has been processed. Please check your account.,legitimate,legitimate
+Nykaa: Your refund of ₹700 for order #9022 has been processed. It should reflect within days.,legitimate,legitimate
+Tata CLiQ: Your refund of ₹1300 for order #9023 has been processed. Expect update in 3-5 days.,legitimate,legitimate
+Meesho: Your refund of ₹950 for order #9024 has been processed. It will reflect soon.,legitimate,legitimate
+Snapdeal: Your refund of ₹800 for order #9025 has been processed. Check your account in a few days.,legitimate,legitimate
+Amazon: Your refund of ₹1500 for order #9026 has been processed. It will reflect shortly.,legitimate,legitimate
+Flipkart: Your refund of ₹1200 for order #9027 has been processed. Expect credit in 3-5 days.,legitimate,legitimate
+Myntra: Your refund of ₹900 for order #9028 has been processed. It will be credited soon.,legitimate,legitimate
+Ajio: Your refund of ₹1100 for order #9029 has been processed. Please check your account.,legitimate,legitimate
+Nykaa: Your refund of ₹700 for order #9030 has been processed. It should reflect within days.,legitimate,legitimate
+Tata CLiQ: Your refund of ₹1300 for order #9031 has been processed. Expect update in 3-5 days.,legitimate,legitimate
+Meesho: Your refund of ₹950 for order #9032 has been processed. It will reflect soon.,legitimate,legitimate
+Snapdeal: Your refund of ₹800 for order #9033 has been processed. Check your account in a few days.,legitimate,legitimate
+Amazon: Your refund of ₹1500 for order #9034 has been processed. It will reflect shortly.,legitimate,legitimate
+Flipkart: Your refund of ₹1200 for order #9035 has been processed. Expect credit in 3-5 days.,legitimate,legitimate
+Myntra: Your refund of ₹900 for order #9036 has been processed. It will be credited soon.,legitimate,legitimate
+Ajio: Your refund of ₹1100 for order #9037 has been processed. Please check your account.,legitimate,legitimate
+Nykaa: Your refund of ₹700 for order #9038 has been processed. It should reflect within days.,legitimate,legitimate
+Tata CLiQ: Your refund of ₹1300 for order #9039 has been processed. Expect update in 3-5 days.,legitimate,legitimate
+Meesho: Your refund of ₹950 for order #9040 has been processed. It will reflect soon.,legitimate,legitimate
+Amazon: We are calling to request feedback on your recent purchase. Please share your experience.,legitimate,legitimate
+Flipkart: Please provide feedback on your recent order. We value your opinion.,legitimate,legitimate
+Myntra: We would love to hear your feedback on your recent purchase. Please share your experience.,legitimate,legitimate
+Ajio: Kindly provide feedback on your order. Your experience is important to us.,legitimate,legitimate
+Nykaa: We request your feedback on your recent purchase. Please rate your experience.,legitimate,legitimate
+Tata CLiQ: Your feedback on your recent order is appreciated. Please share your thoughts.,legitimate,legitimate
+Snapdeal: Please provide feedback on your recent purchase. We value your opinion.,legitimate,legitimate
+Meesho: We are calling to request your feedback on your order. Please share your experience.,legitimate,legitimate
+Amazon: Kindly share your feedback on your recent purchase. Your opinion matters.,legitimate,legitimate
+Flipkart: Please rate your recent order experience. Your feedback is valuable to us.,legitimate,legitimate
+Myntra: We would appreciate your feedback on your purchase. Please let us know your experience.,legitimate,legitimate
+Ajio: Kindly provide your feedback on your recent order. Your opinion is important.,legitimate,legitimate
+Nykaa: We value your feedback on your recent purchase. Please share your experience.,legitimate,legitimate
+Tata CLiQ: Please provide feedback on your order. Your thoughts help us improve.,legitimate,legitimate
+Snapdeal: We request your feedback on your recent purchase. Please rate your experience.,legitimate,legitimate
+Meesho: Kindly share your feedback on your recent order. We appreciate your input.,legitimate,legitimate
+Amazon: Please provide your feedback on your recent purchase. Your opinion matters.,legitimate,legitimate
+Flipkart: We would love to hear your experience with your recent order. Please share feedback.,legitimate,legitimate
+Myntra: Kindly rate your recent purchase experience. Your feedback is valuable.,legitimate,legitimate
+Ajio: Please provide feedback on your recent order. We are eager to hear your thoughts.,legitimate,legitimate
+Nykaa: We request your feedback on your purchase. Please share your experience with us.,legitimate,legitimate
+Tata CLiQ: Kindly provide your feedback on your recent order. Your opinion is important.,legitimate,legitimate
+Snapdeal: Please rate your experience with your recent purchase. Your feedback helps us improve.,legitimate,legitimate
+Meesho: We would appreciate your feedback on your order. Please share your thoughts.,legitimate,legitimate
+Amazon: Kindly share your feedback on your recent purchase. Your experience matters to us.,legitimate,legitimate
+Flipkart: Please provide feedback on your order experience. Your opinion is valuable.,legitimate,legitimate
+Myntra: We request your feedback on your recent order. Please share your experience.,legitimate,legitimate
+Ajio: Kindly rate your recent purchase. Your feedback helps us improve our service.,legitimate,legitimate
+Nykaa: Please provide your feedback on your recent order. We value your opinion.,legitimate,legitimate
+Tata CLiQ: We request your feedback on your recent purchase. Kindly share your experience.,legitimate,legitimate
+Snapdeal: Please rate your experience with your order. Your feedback is important.,legitimate,legitimate
+Meesho: Kindly provide feedback on your recent order. We appreciate your input.,legitimate,legitimate
+Amazon: Please share your experience with your recent purchase. Your feedback is valued.,legitimate,legitimate
+Flipkart: We would love to hear your thoughts on your recent order. Please provide feedback.,legitimate,legitimate
+Myntra: Kindly share your feedback on your purchase. Your opinion matters to us.,legitimate,legitimate
+Ajio: Please rate your recent order experience. Your feedback is important.,legitimate,legitimate
+Nykaa: We request your feedback on your recent purchase. Kindly share your thoughts.,legitimate,legitimate
+Tata CLiQ: Please provide your feedback on your order. Your opinion helps us improve.,legitimate,legitimate
+Snapdeal: Kindly share your experience with your recent order. Your feedback is appreciated.,legitimate,legitimate
+Meesho: We request your feedback on your recent purchase. Please share your experience.,legitimate,legitimate
+"This is Amazon calling. Your order #12345 has been cancelled due to a technical issue. To reactivate, provide bank details and OTP.",Ecommerce Scam,Order Cancellation Scam
+"Flipkart: Your KYC is incomplete, order cancelled. Provide Aadhaar and OTP to reactivate.",Ecommerce Scam,Order Cancellation Scam
+"We are calling to confirm your order, but there's a payment problem. Pay again through this link: suspiciouslink.com",Ecommerce Scam,Order Cancellation Scam
+Your ordered product is out of stock. Pay the price difference immediately to get a similar product.,Ecommerce Scam,Order Cancellation Scam
+Blue Dart calling for Amazon order. Redelivery fee of ₹500 due to incorrect address. Pay here: suspiciouslink.com,Ecommerce Scam,Delivery Issues Scam
+Your package is held at customs. Pay customs charges of ₹2000 immediately to release.,Ecommerce Scam,Delivery Issues Scam
+Verify your address before delivery. Provide Aadhaar number and OTP over the phone.,Ecommerce Scam,Delivery Issues Scam
+"Attempted delivery, you were not available. Call this number to reschedule: 9999988888",Ecommerce Scam,Delivery Issues Scam
+Amazon refund of ₹5000 due for cancelled order. Provide bank details and OTP.,Ecommerce Scam,Refund Scam
+Claim your refund by installing this app to verify your identity.,Ecommerce Scam,Refund Scam
+Error in refund transaction. Click here to correct it: suspiciouslink.com,Ecommerce Scam,Refund Scam
+Scan this QR code to process your refund.,Ecommerce Scam,Refund Scam
+Confirm your interest in the product you saw on our website. Pay a booking amount of ₹1000.,Ecommerce Scam,Fake Product Listing Scam
+Price of your ordered product has increased. Pay the difference immediately to confirm.,Ecommerce Scam,Fake Product Listing Scam
+Amazon calling. Verify your account for security reasons. Provide Aadhaar and OTP over the phone.,Ecommerce Scam,Account Verification Scam
+Your account flagged for suspicious activity. Verify here: suspiciouslink.com,Ecommerce Scam,Account Verification Scam
+Update your account details. Provide your bank account details over the phone.,Ecommerce Scam,Account Verification Scam
+Quality check for your recent purchase. Get a full refund if not satisfied. Provide bank details.,Ecommerce Scam,Quality Check Scam
+Amazon order confirmed: #67890 for headphones. Delivery on Feb 10.,legitimate,legitimate
+Verifying your address for order #24680. Is your address still 123 Main Street?,legitimate,legitimate
+Your order shipped! Tracking number: ABCD123. Expected arrival: Feb 9.,legitimate,legitimate
+Delivery driver nearby. Arriving shortly.,legitimate,legitimate
+Delivery delayed due to weather.,legitimate,legitimate
+Thank you for calling Amazon customer service. How can I help you?,legitimate,legitimate
+Verify your account: provide order number or registered phone number.,legitimate,legitimate
+Refund of ₹2000 processed. Credited to your account within 3-5 days.,legitimate,legitimate
+You have received a refund of ₹1500 from Flipkart.,legitimate,legitimate
+Rate your recent purchase! Would you like to provide feedback?,legitimate,legitimate
+"This is Amazon, we are calling to confirm your order #7890 for a new mobile phone.",legitimate,legitimate
+Flipkart: Your order will be delivered tomorrow. Please ensure someone is available to receive it.,legitimate,legitimate
+Meesho: We have a special offer for you on clothing. Would you like to know more?,legitimate,legitimate
+Snapdeal: Your order has been dispatched and is out for delivery.,legitimate,legitimate
+Ajio: There is a delay in delivering your order due to unforeseen circumstances.,legitimate,legitimate
+Nykaa: We are calling to confirm your address for order #5678. Is it still 456 Park Avenue?,legitimate,legitimate
+Tata CLiQ: Thank you for shopping with us. We hope you enjoyed your experience.,legitimate,legitimate
+BigBasket: Your grocery order will be delivered between 10 AM and 12 PM tomorrow.,legitimate,legitimate
+Amazon: We are calling to verify your address before delivery. Is your street number still 789?,legitimate,legitimate
+Flipkart: Your order has been successfully placed and is being processed.,legitimate,legitimate
+Meesho: You have earned reward points for your recent purchase.,legitimate,legitimate
+Snapdeal: We are calling to inform you about a new product launch.,legitimate,legitimate
+Ajio: Your order has been packed and is ready to be shipped.,legitimate,legitimate
+Nykaa: We have a special discount for you on cosmetics.,legitimate,legitimate
+Tata CLiQ: Your order will be delivered within 2-3 business days.,legitimate,legitimate
+BigBasket: We are calling to remind you about your upcoming delivery.,legitimate,legitimate
+Amazon: We are calling to inform you about a limited-time offer on electronics.,legitimate,legitimate
+Flipkart: Your order has been confirmed and is being prepared for shipment.,legitimate,legitimate
+Meesho: You have received a coupon for your next purchase.,legitimate,legitimate
+Snapdeal: We are calling to ask about your experience with your recent purchase.,legitimate,legitimate
+Ajio: Your order has been shipped and is on its way.,legitimate,legitimate
+Nykaa: We have a special promotion for you on skincare products.,legitimate,legitimate
+Tata CLiQ: Your order will be delivered to your doorstep.,legitimate,legitimate
+BigBasket: We are calling to confirm your delivery slot for tomorrow.,legitimate,legitimate
+Amazon: Your order has been successfully processed and is being shipped.,legitimate,legitimate
+Flipkart: You have earned cashback on your recent purchase.,legitimate,legitimate
+Meesho: We are calling to inform you about a flash sale on clothing.,legitimate,legitimate
+Snapdeal: Your order has been successfully delivered.,legitimate,legitimate
+Ajio: We are calling to verify your payment details.,legitimate,legitimate
+Nykaa: We have a special gift for you on your birthday.,legitimate,legitimate
+Tata CLiQ: Your order will be delivered to your preferred address.,legitimate,legitimate
+BigBasket: We are calling to confirm your order for groceries.,legitimate,legitimate
+Federal Bank: OTP is 1234 for transaction of INR 2000. Do not share with anyone.,legitimate,legitimate
+"This is Amazon, your order for the new smartwatch has been delayed due to logistical issues.",legitimate,legitimate
+Flipkart: We are calling to inform you that your order will be delivered in two separate packages.,legitimate,legitimate
+Meesho: Your order has been dispatched but may experience a slight delay due to the ongoing festival season.,legitimate,legitimate
+Snapdeal: We are calling to inform you about a change in the estimated delivery date for your order.,legitimate,legitimate
+Ajio: We are calling to inform you that your order has been successfully delivered to your neighbor.,legitimate,legitimate
+Nykaa: We are calling to inform you about a free gift with your next purchase.,legitimate,legitimate
+Tata CLiQ: We are calling to inform you about a new loyalty program.,legitimate,legitimate
+BigBasket: We are calling to remind you to refill your grocery cart.,legitimate,legitimate
+Amazon: We are calling to inform you about a special discount for Prime members.,legitimate,legitimate
+Flipkart: We are calling to inform you about a pre-Diwali sale.,legitimate,legitimate
+Meesho: We are calling to inform you about a clearance sale on clothing.,legitimate,legitimate
+Snapdeal: We are calling to inform you about a new product launch with special discounts.,legitimate,legitimate
+Ajio: We are calling to inform you about a limited-time offer on footwear.,legitimate,legitimate
+Nykaa: We are calling to inform you about a discount on premium skincare products.,legitimate,legitimate
+Tata CLiQ: We are calling to inform you about a special offer on electronics.,legitimate,legitimate
+BigBasket: We are calling to inform you about a new organic food range.,legitimate,legitimate
+Amazon: We are calling to inform you about a new streaming service.,legitimate,legitimate
+Flipkart: We are calling to inform you about a new payment option.,legitimate,legitimate
+Meesho: We are calling to inform you about a new referral program.,legitimate,legitimate
+Snapdeal: We are calling to inform you about a new customer support feature.,legitimate,legitimate
+Ajio: We are calling to inform you about a new return policy.,legitimate,legitimate
+Nykaa: We are calling to inform you about a new makeup tutorial series.,legitimate,legitimate
+Tata CLiQ: We are calling to inform you about a new fashion trends guide.,legitimate,legitimate
+BigBasket: We are calling to inform you about a new recipe series.,legitimate,legitimate
+Amazon: We are calling to offer you an extended warranty on your recently purchased product.,legitimate,legitimate
+Flipkart: We are calling to offer you a new credit card.,legitimate,legitimate
+Meesho: We are calling to offer you a personal loan.,legitimate,legitimate
+Snapdeal: We are calling to offer you a new insurance policy.,legitimate,legitimate
+Ajio: We are calling to offer you a new subscription service.,legitimate,legitimate
+Nykaa: We are calling to offer you a free beauty consultation.,legitimate,legitimate
+Tata CLiQ: We are calling to offer you a free personal styling session.,legitimate,legitimate
+BigBasket: We are calling to offer you a free grocery delivery for a month.,legitimate,legitimate
+Amazon: We are calling to inform you that there is a problem with your payment method.,legitimate,legitimate
+Flipkart: We are calling to inform you that your order has been put on hold.,legitimate,legitimate
+Meesho: We are calling to inform you that your account has been temporarily suspended.,legitimate,legitimate
+Snapdeal: We are calling to inform you that your order has been returned to the sender.,legitimate,legitimate
+Ajio: We are calling to inform you that your order has been canceled due to unavailability of the product.,legitimate,legitimate
+Nykaa: We are calling to inform you that your account has been locked due to suspicious activity.,legitimate,legitimate
+Tata CLiQ: We are calling to inform you that your order has been lost in transit.,legitimate,legitimate
+BigBasket: We are calling to inform you that your delivery will be delayed due to a strike.,legitimate,legitimate
+Amazon: We are calling to inform you that your order has been delivered but the package is damaged.,legitimate,legitimate
+Flipkart: We are calling to inform you that your order has been delivered but the product is missing.,legitimate,legitimate
+Meesho: We are calling to inform you that your account has been hacked.,legitimate,legitimate
+Snapdeal: We are calling to inform you that your order has been delivered to the wrong address.,legitimate,legitimate
+Ajio: We are calling to inform you that your order has been delivered but the product is defective.,legitimate,legitimate
+Nykaa: We are calling to inform you that your account has been compromised.,legitimate,legitimate
+Tata CLiQ: We are calling to inform you that your order has been delivered but the product is counterfeit.,legitimate,legitimate
+BigBasket: We are calling to inform you that your delivery will be delayed due to a natural disaster.,legitimate,legitimate
+Amazon: We are calling to inform you that your order has been processed but the payment failed.,legitimate,legitimate
+Flipkart: We are calling to inform you that your order has been shipped but the tracking information is not available.,legitimate,legitimate
+Meesho: We are calling to inform you that your account has been flagged for violating our terms of service.,legitimate,legitimate
+Snapdeal: We are calling to inform you that your order has been delivered but the product is not as described.,legitimate,legitimate
+Ajio: We are calling to inform you that your order has been delivered but the size is incorrect.,legitimate,legitimate
+Nykaa: We are calling to inform you that your account has been blocked due to fraudulent activity.,legitimate,legitimate
+Tata CLiQ: We are calling to inform you that your order has been delivered but the color is wrong.,legitimate,legitimate
+BigBasket: We are calling to inform you that your delivery will be delayed due to a traffic jam.,legitimate,legitimate
+Amazon: We are calling to inform you about a new feature on our website.,legitimate,legitimate
+Flipkart: We are calling to inform you about a new app update.,legitimate,legitimate
+Meesho: We are calling to inform you about a new community forum.,legitimate,legitimate
+Snapdeal: We are calling to inform you about a new customer loyalty program.,legitimate,legitimate
+Ajio: We are calling to inform you about a new virtual try-on feature.,legitimate,legitimate
+Nykaa: We are calling to inform you about a new beauty tips blog.,legitimate,legitimate
+Tata CLiQ: We are calling to inform you about a new fashion trends magazine.,legitimate,legitimate
+BigBasket: We are calling to inform you about a new healthy recipes section.,legitimate,legitimate
+Amazon: We are calling to offer you a free trial of our premium service.,legitimate,legitimate
+Flipkart: We are calling to offer you a discount on your next purchase.,legitimate,legitimate
+Meesho: We are calling to offer you a free gift with your next order.,legitimate,legitimate
+Snapdeal: We are calling to offer you a free upgrade on your next delivery.,legitimate,legitimate
+Ajio: We are calling to offer you a free styling session with a personal stylist.,legitimate,legitimate
+Nykaa: We are calling to offer you a free makeup consultation with a beauty expert.,legitimate,legitimate
+Tata CLiQ: We are calling to offer you a free personal shopping experience.,legitimate,legitimate
+BigBasket: We are calling to offer you a free sample of our new organic product.,legitimate,legitimate
+Amazon: We are calling to remind you about your upcoming subscription renewal.,legitimate,legitimate
+Flipkart: We are calling to remind you about your upcoming payment due date.,legitimate,legitimate
+Meesho: We are calling to remind you about your upcoming return deadline.,legitimate,legitimate
+Snapdeal: We are calling to remind you about your upcoming exchange deadline.,legitimate,legitimate
+Ajio: We are calling to remind you about your upcoming free shipping eligibility.,legitimate,legitimate
+Nykaa: We are calling to remind you about your upcoming free gift redemption.,legitimate,legitimate
+Tata CLiQ: We are calling to remind you about your upcoming loyalty points expiration.,legitimate,legitimate
+BigBasket: We are calling to remind you about your upcoming coupon expiration.,legitimate,legitimate
+Amazon: We are calling to inform you that your order has been shipped with express delivery.,legitimate,legitimate
+Flipkart: We are calling to inform you that your order has been packed with extra care.,legitimate,legitimate
+Meesho: We are calling to inform you that your order has been delivered with a personal touch.,legitimate,legitimate
+Snapdeal: We are calling to inform you that your order has been delivered with a special gift.,legitimate,legitimate
+Ajio: We are calling to inform you that your order has been delivered with a surprise discount.,legitimate,legitimate
+Nykaa: We are calling to inform you that your order has been delivered with a free sample.,legitimate,legitimate
+Tata CLiQ: We are calling to inform you that your order has been delivered with a style guide.,legitimate,legitimate
+BigBasket: We are calling to inform you that your order has been delivered with a recipe book.,legitimate,legitimate
+Amazon: We are calling to inform you that your order has been delivered to a secure location.,legitimate,legitimate
+Flipkart: We are calling to inform you that your order has been delivered to your doorstep with contactless delivery.,legitimate,legitimate
+Meesho: We are calling to inform you that your order has been delivered to your neighbor with your permission.,legitimate,legitimate
+Snapdeal: We are calling to inform you that your order has been delivered to your office with your authorization.,legitimate,legitimate
+Ajio: We are calling to inform you that your order has been delivered to your friend with your consent.,legitimate,legitimate
+Nykaa: We are calling to inform you that your order has been delivered to your family member with your knowledge.,legitimate,legitimate
+Tata CLiQ: We are calling to inform you that your order has been delivered to your preferred location with your instructions.,legitimate,legitimate
+BigBasket: We are calling to inform you that your order has been delivered to your designated area with your specifications.,legitimate,legitimate
+Amazon: We are calling to inform you that your order has been delivered and a photo of the package at your doorstep has been sent to your email.,legitimate,legitimate
+Flipkart: We are calling to inform you that your order has been delivered and a signature has been obtained from the recipient.,legitimate,legitimate
+Meesho: We are calling to inform you that your order has been delivered and a confirmation message has been sent to your mobile number.,legitimate,legitimate
+Snapdeal: We are calling to inform you that your order has been delivered and a tracking number has been provided for your convenience.,legitimate,legitimate
+Ajio: We are calling to inform you that your order has been delivered and a customer service representative is available to assist you with any questions.,legitimate,legitimate
+Nykaa: We are calling to inform you that your order has been delivered and a satisfaction survey has been sent to your email address.,legitimate,legitimate
+Tata CLiQ: We are calling to inform you that your order has been delivered and a promotional offer has been included in your package.,legitimate,legitimate
+BigBasket: We are calling to inform you that your order has been delivered and a thank you note has been attached to your receipt.,legitimate,legitimate
+Amazon: We are calling to inform you that your order has been processed and you will receive a confirmation email shortly.,legitimate,legitimate
+Flipkart: We are calling to inform you that your order has been packed and you will receive a tracking number soon.,legitimate,legitimate
+Meesho: We are calling to inform you that your order has been shipped and you will receive updates on its location.,legitimate,legitimate
+Snapdeal: We are calling to inform you that your order has been delivered and you will receive a feedback request shortly.,legitimate,legitimate
+Ajio: We are calling to inform you that your order has been placed and you will receive a confirmation message soon.,legitimate,legitimate
+Nykaa: We are calling to inform you that your order has been processed and you will receive a notification when it ships.,legitimate,legitimate
+Tata CLiQ: We are calling to inform you that your order has been packed and you will receive a message with the delivery details.,legitimate,legitimate
+BigBasket: We are calling to inform you that your order has been delivered and you will receive a call to confirm its arrival.,legitimate,legitimate
+"This is Amazon, we are calling to confirm your order #7890 for a new mobile phone.",legitimate,legitimate
+Flipkart: We are calling to verify your address for order #5678. Is it still 456 Park Avenue?,legitimate,legitimate
+Meesho: We are calling to ask about your experience with your recent purchase.,legitimate,legitimate
+Snapdeal: Your order has been successfully delivered.,legitimate,legitimate
+Ajio: We are calling to verify your payment details.,legitimate,legitimate
+Nykaa: We have a special gift for you on your birthday.,legitimate,legitimate
+Tata CLiQ: Your order will be delivered to your preferred address.,legitimate,legitimate
+BigBasket: We are calling to confirm your order for groceries.,legitimate,legitimate
+Federal Bank: OTP is 1234 for transaction of INR 2000. Do not share with anyone.,legitimate,legitimate
+"This is Amazon, your order for the new smartwatch has been delayed due to logistical issues.",legitimate,legitimate
+Flipkart: We are calling to inform you that your order will be delivered in two separate packages.,legitimate,legitimate
+Meesho: Your order has been dispatched but may experience a slight delay due to the ongoing festival season.,legitimate,legitimate
+Snapdeal: We are calling to inform you about a change in the estimated delivery date for your order.,legitimate,legitimate
+Ajio: We are calling to inform you that your order has been successfully delivered to your neighbor.,legitimate,legitimate
+Nykaa: We are calling to inform you about a free gift with your next purchase.,legitimate,legitimate
+Tata CLiQ: We are calling to inform you about a new loyalty program.,legitimate,legitimate
+BigBasket: We are calling to remind you to refill your grocery cart.,legitimate,legitimate
+Amazon: We are calling to inform you about a special discount for Prime members.,legitimate,legitimate
+Flipkart: We are calling to inform you about a pre-Diwali sale.,legitimate,legitimate
+Meesho: We are calling to inform you about a clearance sale on clothing.,legitimate,legitimate
+Snapdeal: We are calling to inform you about a new product launch with special discounts.,legitimate,legitimate
+Ajio: We are calling to inform you about a limited-time offer on footwear.,legitimate,legitimate
+Nykaa: We are calling to inform you about a discount on premium skincare products.,legitimate,legitimate
+Tata CLiQ: We are calling to inform you about a special offer on electronics.,legitimate,legitimate
+BigBasket: We are calling to inform you about a new organic food range.,legitimate,legitimate
+Amazon: We are calling to inform you about a new streaming service.,legitimate,legitimate
+Flipkart: We are calling to inform you about a new payment option.,legitimate,legitimate
+Meesho: We are calling to inform you about a new referral program.,legitimate,legitimate
+Snapdeal: We are calling to inform you about a new customer support feature.,legitimate,legitimate
+Ajio: We are calling to inform you about a new return policy.,legitimate,legitimate
+Nykaa: We are calling to inform you about a new makeup tutorial series.,legitimate,legitimate
+Tata CLiQ: We are calling to inform you about a new fashion trends guide.,legitimate,legitimate
+BigBasket: We are calling to inform you about a new recipe series.,legitimate,legitimate
+Amazon: We are calling to offer you an extended warranty on your recently purchased product.,legitimate,legitimate
+Flipkart: We are calling to offer you a new credit card.,legitimate,legitimate
+Meesho: We are calling to offer you a personal loan.,legitimate,legitimate
+Snapdeal: We are calling to offer you a new insurance policy.,legitimate,legitimate
+Ajio: We are calling to offer you a new subscription service.,legitimate,legitimate
+Nykaa: We are calling to offer you a free beauty consultation.,legitimate,legitimate
+Tata CLiQ: We are calling to offer you a free personal styling session.,legitimate,legitimate
+BigBasket: We are calling to offer you a free grocery delivery for a month.,legitimate,legitimate
+Amazon: We are calling to inform you that there is a problem with your payment method.,legitimate,legitimate
+Flipkart: We are calling to inform you that your order has been put on hold.,legitimate,legitimate
+Meesho: We are calling to inform you that your account has been temporarily suspended.,legitimate,legitimate
+Snapdeal: We are calling to inform you that your order has been returned to the sender.,legitimate,legitimate
+Ajio: We are calling to inform you that your order has been canceled due to unavailability of the product.,legitimate,legitimate
+Nykaa: We are calling to inform you that your account has been locked due to suspicious activity.,legitimate,legitimate
+Tata CLiQ: We are calling to inform you that your order has been lost in transit.,legitimate,legitimate
+BigBasket: We are calling to inform you that your delivery will be delayed due to a strike.,legitimate,legitimate
+Amazon: We are calling to inform you that your order has been delivered but the package is damaged.,legitimate,legitimate
+Flipkart: We are calling to inform you that your order has been delivered but the product is missing.,legitimate,legitimate
+Meesho: We are calling to inform you that your account has been hacked.,legitimate,legitimate
+Snapdeal: We are calling to inform you that your order has been delivered to the wrong address.,legitimate,legitimate
+Ajio: We are calling to inform you that your order has been delivered but the product is defective.,legitimate,legitimate
+Nykaa: We are calling to inform you that your account has been compromised.,legitimate,legitimate
+Tata CLiQ: We are calling to inform you that your order has been delivered but the product is counterfeit.,legitimate,legitimate
+BigBasket: We are calling to inform you that your delivery will be delayed due to a natural disaster.,legitimate,legitimate
+Amazon: We are calling to inform you that your order has been processed but the payment failed.,legitimate,legitimate
+Flipkart: We are calling to inform you that your order has been shipped but the tracking information is not available.,legitimate,legitimate
+Meesho: We are calling to inform you that your account has been flagged for violating our terms of service.,legitimate,legitimate
+Snapdeal: We are calling to inform you that your order has been delivered but the product is not as described.,legitimate,legitimate
+Ajio: We are calling to inform you that your order has been delivered but the size is incorrect.,legitimate,legitimate
+Nykaa: We are calling to inform you that your account has been blocked due to fraudulent activity.,legitimate,legitimate
+Tata CLiQ: We are calling to inform you that your order has been delivered but the color is wrong.,legitimate,legitimate
+BigBasket: We are calling to inform you that your delivery will be delayed due to a traffic jam.,legitimate,legitimate
+Amazon: We are calling to inform you about a new feature on our website.,legitimate,legitimate
+Flipkart: We are calling to inform you about a new app update.,legitimate,legitimate
+Meesho: We are calling to inform you about a new community forum.,legitimate,legitimate
+Snapdeal: We are calling to inform you about a new customer loyalty program.,legitimate,legitimate
+Ajio: We are calling to inform you about a new virtual try-on feature.,legitimate,legitimate
+Nykaa: We are calling to inform you about a new beauty tips blog.,legitimate,legitimate
+Tata CLiQ: We are calling to inform you about a new fashion trends magazine.,legitimate,legitimate
+BigBasket: We are calling to inform you about a new healthy recipes section.,legitimate,legitimate
+Amazon: We are calling to offer you a free trial of our premium service.,legitimate,legitimate
+Flipkart: We are calling to offer you a discount on your next purchase.,legitimate,legitimate
+Meesho: We are calling to offer you a free gift with your next order.,legitimate,legitimate
+Snapdeal: We are calling to offer you a free upgrade on your next delivery.,legitimate,legitimate
+Ajio: We are calling to offer you a free styling session with a personal stylist.,legitimate,legitimate
+Nykaa: We are calling to offer you a free makeup consultation with a beauty expert.,legitimate,legitimate
+Tata CLiQ: We are calling to offer you a free personal shopping experience.,legitimate,legitimate
+BigBasket: We are calling to offer you a free sample of our new organic product.,legitimate,legitimate
+Amazon: We are calling to remind you about your upcoming subscription renewal.,legitimate,legitimate
+Flipkart: We are calling to remind you about your upcoming payment due date.,legitimate,legitimate
+Meesho: We are calling to remind you about your upcoming return deadline.,legitimate,legitimate
+Snapdeal: We are calling to remind you about your upcoming exchange deadline.,legitimate,legitimate
+Ajio: We are calling to remind you about your upcoming free shipping eligibility.,legitimate,legitimate
+Nykaa: We are calling to remind you about your upcoming free gift redemption.,legitimate,legitimate
+Tata CLiQ: We are calling to remind you about your upcoming loyalty points expiration.,legitimate,legitimate
+BigBasket: We are calling to remind you about your upcoming coupon expiration.,legitimate,legitimate
+Amazon: We are calling to inform you that your order has been shipped with express delivery.,legitimate,legitimate
+Flipkart: We are calling to inform you that your order has been packed with extra care.,legitimate,legitimate
+Meesho: We are calling to inform you that your order has been delivered with a personal touch.,legitimate,legitimate
+Snapdeal: We are calling to inform you that your order has been delivered with a special gift.,legitimate,legitimate
+Ajio: We are calling to inform you that your order has been delivered with a surprise discount.,legitimate,legitimate
+Nykaa: We are calling to inform you that your order has been delivered with a free sample.,legitimate,legitimate
+Tata CLiQ: We are calling to inform you that your order has been delivered with a style guide.,legitimate,legitimate
+BigBasket: We are calling to inform you that your order has been delivered with a recipe book.,legitimate,legitimate
+Amazon: We are calling to inform you that your order has been delivered to a secure location.,legitimate,legitimate
+Flipkart: We are calling to inform you that your order has been delivered to your doorstep with contactless delivery.,legitimate,legitimate
+Meesho: We are calling to inform you that your order has been delivered to your neighbor with your permission.,legitimate,legitimate
+Snapdeal: We are calling to inform you that your order has been delivered to your office with your authorization.,legitimate,legitimate
+Ajio: We are calling to inform you that your order has been delivered to your friend with your consent.,legitimate,legitimate
+Nykaa: We are calling to inform you that your order has been delivered to your family member with your knowledge.,legitimate,legitimate
+Tata CLiQ: We are calling to inform you that your order has been delivered to your preferred location with your instructions.,legitimate,legitimate
+BigBasket: We are calling to inform you that your order has been delivered to your designated area with your specifications.,legitimate,legitimate
+Amazon: We are calling to inform you that your order has been delivered and a photo of the package at your doorstep has been sent to your email.,legitimate,legitimate
+Flipkart: We are calling to inform you that your order has been delivered and a signature has been obtained from the recipient.,legitimate,legitimate
+Meesho: We are calling to inform you that your order has been delivered and a confirmation message has been sent to your mobile number.,legitimate,legitimate
+Snapdeal: We are calling to inform you that your order has been delivered and a tracking number has been provided for your convenience.,legitimate,legitimate
+Ajio: We are calling to inform you that your order has been delivered and a customer service representative is available to assist you with any questions.,legitimate,legitimate
+Nykaa: We are calling to inform you that your order has been delivered and a satisfaction survey has been sent to your email address.,legitimate,legitimate
+Tata CLiQ: We are calling to inform you that your order has been delivered and a promotional offer has been included in your package.,legitimate,legitimate
+BigBasket: We are calling to inform you that your order has been delivered and a thank you note has been attached to your receipt.,legitimate,legitimate
+Amazon: We are calling to inform you that your order has been processed and you will receive a confirmation email shortly.,legitimate,legitimate
+Flipkart: We are calling to inform you that your order has been packed and you will receive a tracking number soon.,legitimate,legitimate
+Meesho: We are calling to inform you that your order has been shipped and you will receive updates on its location.,legitimate,legitimate
+Snapdeal: We are calling to inform you that your order has been delivered and you will receive a feedback request shortly.,legitimate,legitimate
+Ajio: We are calling to inform you that your order has been placed and you will receive a confirmation message soon.,legitimate,legitimate
+Nykaa: We are calling to inform you that your order has been processed and you will receive a notification when it ships.,legitimate,legitimate
+Tata CLiQ: We are calling to inform you that your order has been packed and you will receive a message with the delivery details.,legitimate,legitimate
+BigBasket: We are calling to inform you that your order has been delivered and you will receive a call to confirm its arrival.,legitimate,legitimate
+"This is Amazon, we are calling to confirm your order #7890 for a new mobile phone.",legitimate,legitimate

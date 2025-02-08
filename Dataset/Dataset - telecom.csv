@@ -1,0 +1,67 @@
+text,category,sub-category
+Thank you for calling TRAI. How can I help you?,Legitimate,Legitimate
+We are calling to provide information about the new regulations regarding data usage.,Legitimate,Legitimate
+This is [Name] from TRAI. We are following up on your complaint regarding poor network.,Legitimate,Legitimate
+We have received your complaint about [telecom provider]. We are investigating the matter.,Legitimate,Legitimate
+TRAI is conducting a survey about your experience with [telecom provider]. Would you like to participate?,Legitimate,Legitimate
+This is TRAI calling. Your SIM card will be blocked if you don't update your KYC immediately.,GovernmentImpersonation,Telecom
+"We have detected suspicious activity on your SIM card. To prevent it from being blocked, you must update your KYC over the phone.",GovernmentImpersonation,Telecom
+We need to update your KYC. Please provide your Aadhaar number and OTP over the phone.,GovernmentImpersonation,Telecom
+Your KYC is incomplete. You must provide your personal information over the phone to avoid service interruption.,GovernmentImpersonation,Telecom
+We need to verify your identity. Please provide your bank account details over the phone.,GovernmentImpersonation,Telecom
+We are offering a new SIM card with special benefits. You must pay a fee of ₹[amount] over the phone to get the new SIM card.,GovernmentImpersonation,Telecom
+We can help you get a new SIM card over the phone. Please provide your personal information and pay a fee.,GovernmentImpersonation,Telecom
+"You have won a lottery! To claim your prize, you must pay a processing fee over the phone.",GovernmentImpersonation,Telecom
+Congratulations! You have won a free mobile phone! You must pay a shipping fee over the phone.,GovernmentImpersonation,Telecom
+We are calling from TRAI to help you with your poor network. Please install an app or provide remote access over the phone.,GovernmentImpersonation,Telecom
+We are calling from TRAI to help you with your poor network. Please provide your bank details over the phone to get a refund.,GovernmentImpersonation,Telecom
+We are calling from TRAI to offer you a refund for poor service. Please provide your bank details over the phone to receive the refund.,GovernmentImpersonation,Telecom
+TRAI calling: Your SIM is blocked. Share Aadhar number to unblock.,GovernmentImpersonation,Telecom
+Telecom Regulatory Authority of India calling: We need to verify your mobile number. Pay to verify.,GovernmentImpersonation,Telecom
+TRAI: Your SIM is about to expire. Pay to renew.,GovernmentImpersonation,Telecom
+Telecom Regulatory Authority of India: Your SIM is linked to a fake account. Share bank details.,GovernmentImpersonation,Telecom
+TRAI calling: Your SIM has been hacked. Install this app to secure it.,GovernmentImpersonation,Telecom
+Telecom Regulatory Authority of India: We are offering a free SIM card upgrade. Share OTP now,GovernmentImpersonation,Telecom
+TRAI: We need to update your SIM KYC. Share Aadhar number and bank details.,GovernmentImpersonation,Telecom
+Telecom Regulatory Authority of India: We are offering a free mobile recharge. Share UPI now,GovernmentImpersonation,Telecom
+TRAI calling: You won a free car. Pay fees to claim.,GovernmentImpersonation,Telecom
+Telecom Regulatory Authority of India: We are going to block your SIM. Update your KYC.,GovernmentImpersonation,Telecom
+TRAI: We have a warrant for your arrest. Pay a bribe now.,GovernmentImpersonation,Telecom
+Telecom Regulatory Authority of India: Your SIM is linked to crime. Share bank details.,GovernmentImpersonation,Telecom
+TRAI calling: Your SIM has been used for fraud. Pay to avoid action.,GovernmentImpersonation,Telecom
+Telecom Regulatory Authority of India: We are offering a new SIM service. Pay fees now.,GovernmentImpersonation,Telecom
+TRAI: We need to verify your identity. Share Aadhar number and OTP.,GovernmentImpersonation,Telecom
+Telecom Regulatory Authority of India: We are giving away free mobile phones. Share address now,GovernmentImpersonation,Telecom
+TRAI calling: Your SIM is not secure. Share OTP to secure it.,GovernmentImpersonation,Telecom
+Telecom Regulatory Authority of India: Your SIM is expiring soon. Pay us to renew it.,GovernmentImpersonation,Telecom
+TRAI: You have won a lottery. Pay processing fees to claim.,GovernmentImpersonation,Telecom
+Telecom Regulatory Authority of India: We are conducting a survey. Share your Aadhar details.,GovernmentImpersonation,Telecom
+TRAI calling: Your SIM is not registered. Share your details now to register.,GovernmentImpersonation,Telecom
+Telecom Regulatory Authority of India: Your SIM is being used for illegal activities. Pay us to stop it.,GovernmentImpersonation,Telecom
+TRAI: Your SIM is linked to multiple accounts. Share your bank details.,GovernmentImpersonation,Telecom
+Telecom Regulatory Authority of India: We are offering a free SIM card upgrade. Share your OTP.,GovernmentImpersonation,Telecom
+TRAI calling: Your SIM is being targeted by hackers. Pay us to secure it.,GovernmentImpersonation,Telecom
+Telecom Regulatory Authority of India: Your SIM is blocked due to outstanding dues. Pay now to unblock.,GovernmentImpersonation,Telecom
+TRAI: You are eligible for a government subsidy. Share your bank details.,GovernmentImpersonation,Telecom
+Telecom Regulatory Authority of India: We are giving away free smartphones. Share your address.,GovernmentImpersonation,Telecom
+TRAI calling: We are updating our system. Share your SIM password.,GovernmentImpersonation,Telecom
+Telecom Regulatory Authority of India: Your SIM is being used for money laundering. Pay us to clear your name.,GovernmentImpersonation,Telecom
+TRAI: You have a pending refund. Share your bank account details to claim.,GovernmentImpersonation,Telecom
+Telecom Regulatory Authority of India: We are offering a free SIM card correction service. Share your details.,GovernmentImpersonation,Telecom
+TRAI calling: Your SIM is being targeted by identity thieves. Pay us to protect you.,GovernmentImpersonation,Telecom
+Telecom Regulatory Authority of India: We are updating our security protocols. Share your SIM PIN.,GovernmentImpersonation,Telecom
+TRAI: Your SIM is being used to commit cybercrimes. Pay us to stop it.,GovernmentImpersonation,Telecom
+Telecom Regulatory Authority of India: We are giving away free SIM-enabled devices. Share your address.,GovernmentImpersonation,Telecom
+TRAI calling: Your SIM is required for a new government scheme. Share your bank details.,GovernmentImpersonation,Telecom
+Telecom Regulatory Authority of India: We need to verify your mobile number. Share your OTP,GovernmentImpersonation,Telecom
+TRAI: Your SIM is being used to finance terrorism. Pay us to clear your name.,GovernmentImpersonation,Telecom
+Telecom Regulatory Authority of India: We are offering a free SIM card insurance policy. Share your details.,GovernmentImpersonation,Telecom
+TRAI calling: Your SIM is being targeted by international criminals. Pay us to protect you.,GovernmentImpersonation,Telecom
+Telecom Regulatory Authority of India: We are updating our authentication system. Share your SIM password.,GovernmentImpersonation,Telecom
+TRAI: Your SIM is being used to facilitate drug trafficking. Pay us to stop it.,GovernmentImpersonation,Telecom
+Telecom Regulatory Authority of India: We are giving away free SIM-based healthcare services. Share your address.,GovernmentImpersonation,Telecom
+TRAI calling: Your SIM is required to access a new government loan. Share your bank details.,GovernmentImpersonation,Telecom
+Telecom Regulatory Authority of India: We need to verify your mobile number. Share your OTP,GovernmentImpersonation,Telecom
+TRAI: Your SIM is being used to support organized crime. Pay us to clear your name.,GovernmentImpersonation,Telecom
+Telecom Regulatory Authority of India: We are offering a free SIM card security audit. Share your details.,GovernmentImpersonation,Telecom
+TRAI calling: Your SIM is being targeted by rogue nations. Pay us to protect you.,GovernmentImpersonation,Telecom

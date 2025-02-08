@@ -1,0 +1,89 @@
+text,category,sub-category
+This is [Name] from the [City Name] Municipal Corporation. We are calling regarding your property tax for [property address/ID].,Legitimate,Legitimate
+We are calling to clarify some details about your property tax payment.,Legitimate,Legitimate
+Your property tax payment has been received. Thank you.,Legitimate,Legitimate
+Thank you for calling the [City Name] Municipal Corporation. How can I help you?,Legitimate,Legitimate
+We are calling to inform you about the new regulations regarding waste disposal.,Legitimate,Legitimate
+This is [Name] from the [City Name] Municipal Corporation. We are following up on your complaint regarding water supply.,Legitimate,Legitimate
+This is the [City Name] Municipal Corporation. Your property tax is overdue. You must pay ₹10000 immediately to avoid penalties.,GovernmentImpersonation,PropertyTax
+We have sent you a notice regarding your property tax. You must pay the amount over the phone to avoid further action.,GovernmentImpersonation,PropertyTax
+Your property tax payment is showing as incomplete. You must pay the outstanding amount over the phone.,GovernmentImpersonation,PropertyTax
+Your property will be seized if you don't pay your property tax immediately.,GovernmentImpersonation,PropertyTax
+We will take legal action against you if you don't pay your property tax over the phone.,GovernmentImpersonation,PropertyTax
+We are going to seal your property if you don't pay a fine over the phone for illegal construction.,GovernmentImpersonation,PropertyTax
+"To avoid penalties for building violations, you must pay a bribe of ₹5000 over the phone.",GovernmentImpersonation,PropertyTax
+We can expedite the approval of your building plans if you pay a fee of ₹2000 over the phone.,GovernmentImpersonation,PropertyTax
+We are offering a special discount on your property tax. Pay ₹3000 over the phone to avail the discount.,GovernmentImpersonation,PropertyTax
+"We need to verify your property details. Please provide your property ID, owner's name, and other personal information over the phone.",GovernmentImpersonation,PropertyTax
+We need to update your property records. Please provide your Aadhaar number and other personal information over the phone.,GovernmentImpersonation,PropertyTax
+We have found a violation on your property. You must pay a fine of ₹8000 over the phone to avoid further action.,GovernmentImpersonation,PropertyTax
+Property Tax calling. Your property is showing as illegal. Pay bribe now.,GovernmentImpersonation,PropertyTax
+Municipal Corporation calling. We are going to demolish your property. Pay now to avoid.,GovernmentImpersonation,PropertyTax
+Property Tax: Your property tax is not paid. Pay a fine to avoid action.,GovernmentImpersonation,PropertyTax
+Municipal Corporation: We are sending a team to your house. Pay to avoid.,GovernmentImpersonation,PropertyTax
+Property Tax calling. Your property details need to be updated. Share Aadhar card details.,GovernmentImpersonation,PropertyTax
+Municipal Corporation calling. We are updating the property tax assessment. Pay a small fee.,GovernmentImpersonation,PropertyTax
+Property Tax: There is a dispute in your property records. Pay a bribe to fix it.,GovernmentImpersonation,PropertyTax
+Municipal Corporation: Your property is in violation of building codes. Pay to avoid demolition.,GovernmentImpersonation,PropertyTax
+Property Tax calling. We are offering a waiver. Pay to avail.,GovernmentImpersonation,PropertyTax
+Municipal Corporation calling. We have a warrant for your arrest. Pay bribe to avoid it.,GovernmentImpersonation,PropertyTax
+Property Tax: You are showing as a defaulter. Pay immediately.,GovernmentImpersonation,PropertyTax
+Municipal Corporation: Your account is on hold. Pay to release it.,GovernmentImpersonation,PropertyTax
+Property Tax calling. Your account has been compromised. Share OTP.,GovernmentImpersonation,PropertyTax
+Municipal Corporation calling. We are going to auction your property. Pay to stop.,GovernmentImpersonation,PropertyTax
+Property Tax: We are going to seize your property. Pay to avoid it.,GovernmentImpersonation,PropertyTax
+Municipal Corporation: You have an outstanding payment. Settle it now.,GovernmentImpersonation,PropertyTax
+Property Tax calling. Your account is under review. Share all details.,GovernmentImpersonation,PropertyTax
+Municipal Corporation calling. We will disconnect your services. Pay to avoid it.,GovernmentImpersonation,PropertyTax
+Property Tax: We are sending a recovery team to your house. Pay to avoid it.,GovernmentImpersonation,PropertyTax
+Municipal Corporation: Your property is showing as abandoned. Pay to avoid action.,GovernmentImpersonation,PropertyTax
+Property Tax calling. We are offering a tax discount. Share your bank details.,GovernmentImpersonation,PropertyTax
+Municipal Corporation calling. We will seal your property. Pay to stop it.,GovernmentImpersonation,PropertyTax
+Property Tax: We are going to attach your property. Pay to avoid it.,GovernmentImpersonation,PropertyTax
+Municipal Corporation: You have an illegal construction. Pay to avoid demolition.,GovernmentImpersonation,PropertyTax
+Property Tax calling. Your account is locked. Share your password.,GovernmentImpersonation,PropertyTax
+Municipal Corporation calling. We will take legal action. Pay to avoid it.,GovernmentImpersonation,PropertyTax
+Property Tax: We are going to inspect your property. Pay to avoid it.,GovernmentImpersonation,PropertyTax
+Municipal Corporation: You have violated the law. Pay to avoid action.,GovernmentImpersonation,PropertyTax
+Property Tax calling. We are offering a rebate. Share your credit card details.,GovernmentImpersonation,PropertyTax
+Municipal Corporation calling. We will issue a warrant for your arrest. Pay to avoid it.,GovernmentImpersonation,PropertyTax
+Property Tax: We are going to penalize you. Pay to avoid it.,GovernmentImpersonation,PropertyTax
+Municipal Corporation: You have an unauthorized structure. Pay to avoid demolition.,GovernmentImpersonation,PropertyTax
+Property Tax calling. Your account is hacked. Share your UPI PIN.,GovernmentImpersonation,PropertyTax
+Municipal Corporation calling. We will blacklist you. Pay to avoid it.,GovernmentImpersonation,PropertyTax
+Property Tax: We are going to report you to the police. Pay to avoid it.,GovernmentImpersonation,PropertyTax
+Municipal Corporation: You have an outstanding debt. Pay to avoid legal action.,GovernmentImpersonation,PropertyTax
+Property Tax calling. Your account is on hold. Share your CVV.,GovernmentImpersonation,PropertyTax
+Municipal Corporation calling. We will confiscate your property. Pay to stop it.,GovernmentImpersonation,PropertyTax
+Property Tax: We are going to seize your assets. Pay to avoid it.,GovernmentImpersonation,PropertyTax
+Municipal Corporation: You have an illegal business. Pay to avoid penalties.,GovernmentImpersonation,PropertyTax
+Property Tax: This is to remind you that your property tax is due. Please pay it by [Date].,Legitimate,Legitimate
+Municipal Corporation: We are conducting a survey about the cleanliness in your area. Would you like to participate?,Legitimate,Legitimate
+Property Tax: A new water connection has been approved for your property. The connection fee is [Amount].,Legitimate,Legitimate
+Municipal Corporation: A team will be visiting your area for garbage collection next week.,Legitimate,Legitimate
+Property Tax: Your property assessment has been updated. Please check the new value online.,Legitimate,Legitimate
+Municipal Corporation: There will be a road closure in your area due to construction.,Legitimate,Legitimate
+Property Tax: Your payment has been processed and a receipt has been sent to your email.,Legitimate,Legitimate
+Municipal Corporation: We are organizing a tree plantation drive in your locality. We encourage you to participate.,Legitimate,Legitimate
+Property Tax: You have a pending request for a building permit. Please submit the required documents.,Legitimate,Legitimate
+Municipal Corporation: We are conducting a cleanliness drive in your area. We request you to cooperate.,Legitimate,Legitimate
+Property Tax: Your property has been selected for an energy audit. The audit will be conducted by [Company].,Legitimate,Legitimate
+Municipal Corporation: There will be a power outage in your area due to maintenance work.,Legitimate,Legitimate
+Property Tax: Your property has been registered for a rainwater harvesting scheme. Please contact us for details.,Legitimate,Legitimate
+Municipal Corporation: We are organizing a health camp in your area. We encourage you to participate.,Legitimate,Legitimate
+Property Tax: Your property has been flagged for a potential fire hazard. Please take necessary precautions.,Legitimate,Legitimate
+Municipal Corporation: There will be a change in the garbage collection schedule due to a holiday.,Legitimate,Legitimate
+Property Tax: Your property has been registered for a new drainage system. Please contact us for details.,Legitimate,Legitimate
+Municipal Corporation: We are organizing a cultural event in your area. We encourage you to participate.,Legitimate,Legitimate
+Property Tax: Your property has been selected for a solar panel installation program. Please contact us for details.,Legitimate,Legitimate
+Municipal Corporation: There will be a change in the parking regulations in your area.,Legitimate,Legitimate
+Property Tax: We are calling to remind you about the upcoming property tax deadline.,Legitimate,Legitimate
+Municipal Corporation: We are conducting a survey on public transportation needs in your area.,Legitimate,Legitimate
+Property Tax: Your application for a property tax exemption has been approved.,Legitimate,Legitimate
+Municipal Corporation: We are planning a community meeting to discuss local issues.,Legitimate,Legitimate
+Property Tax: There is a change in the property tax payment procedure.,Legitimate,Legitimate
+Municipal Corporation: We are organizing a public awareness campaign about water conservation.,Legitimate,Legitimate
+Property Tax: Your property is eligible for a green building certification.,Legitimate,Legitimate
+Municipal Corporation: We are planning a public forum to discuss the upcoming budget.,Legitimate,Legitimate
+Property Tax: Your property has been selected for a historical landmark designation.,Legitimate,Legitimate
+Municipal Corporation: We are organizing a workshop on disaster preparedness.,Legitimate,Legitimate

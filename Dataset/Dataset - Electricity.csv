@@ -1,0 +1,102 @@
+text,category,sub-category
+This is UPPCL calling to inform you about a power outage in your area due to transformer failure. We expect power to be restored by 6 PM.,Legitimate,Legitimate
+UPPCL is calling to let you know that there will be a planned power shutdown in your area tomorrow from 10 AM to 4 PM for maintenance work.,Legitimate,Legitimate
+This is UPPCL calling to remind you that your electricity bill of ₹2500 is due on 2024-02-15. You can pay it online at www.uppclonline.com or at our office.,Legitimate,Legitimate
+UPPCL calling. Your bill payment for account number 1234567890 is overdue. Please pay immediately to avoid late fees.,Legitimate,Legitimate
+Thank you for calling UPPCL. How can I help you?,Legitimate,Legitimate
+"To verify your account, please provide your account number.",Legitimate,Legitimate
+"This is UPPCL calling. Your electricity bill is overdue, and we will disconnect your power within the hour if you don't pay immediately.",GovernmentImpersonation,electricity
+"UPPCL calling. We have received a complaint about your meter. If you don't pay a fine of ₹5000 right now, your power will be cut off.",GovernmentImpersonation,electricity
+UPPCL calling. Your electricity connection is showing as illegal. You must pay ₹10000 immediately to avoid disconnection and a police case.,GovernmentImpersonation,electricity
+UPPCL calling. Your bill is overdue. Please pay immediately by clicking on the link we've sent to your phone.,GovernmentImpersonation,electricity
+UPPCL calling. You can pay your bill by transferring the amount to this account number: 9876543210.,GovernmentImpersonation,electricity
+UPPCL calling. You can pay your bill by scanning this QR code.,GovernmentImpersonation,electricity
+UPPCL calling. We are offering a special discount on your bill. Pay ₹1000 over the phone to avail the discount.,GovernmentImpersonation,electricity
+UPPCL calling. We need to verify your account. Please provide your Aadhaar number and OTP over the phone.,GovernmentImpersonation,electricity
+UPPCL calling. Your account needs to be updated. Please provide your bank account details over the phone.,GovernmentImpersonation,electricity
+UPPCL calling. We need to replace your meter. Please provide your OTP over the phone to confirm the appointment.,GovernmentImpersonation,electricity
+UPPCL calling. Your meter needs to be replaced due to faulty reading. You must pay ₹2000 over the phone for the new meter.,GovernmentImpersonation,electricity
+UPPCL calling. We are offering a special discount on your bill. Pay ₹500 over the phone to avail the discount.,GovernmentImpersonation,electricity
+UPPCL calling. We are from a special department and can reduce your bill. Pay a fee of ₹300 over the phone.,GovernmentImpersonation,electricity
+"UPPCL calling. Due to a system error, your account is showing a negative balance. Please call us back at [fake number] to rectify the issue.",GovernmentImpersonation,electricity
+UPPCL calling. We are conducting a survey. What is your electricity consumption pattern?,Legitimate,Legitimate
+"UPPCL: Your electricity bill is ₹3500, pay before due date to avoid penalty. Ignore if already paid.",Legitimate,Legitimate
+UPPCL: Your electricity meter needs urgent maintenance. Please contact us at [fake number] immediately.,GovernmentImpersonation,electricity
+UPPCL calling. There is a problem with your smart meter. Give me remote access now.,GovernmentImpersonation,electricity
+"UPPCL calling,  aapka bill pending hai. Kya aap abhi bhugtan kar sakte hain?",GovernmentImpersonation,electricity
+"UPPCL calling, Sir, we will disconnect your power in 1 hour. Pay now.",GovernmentImpersonation,electricity
+UPPCL calling. There is heavy usage in your connection. Share OTP to confirm.,GovernmentImpersonation,electricity
+UPPCL: Your meter needs to be replaced. Give Aadhar number and OTP to our executive.,GovernmentImpersonation,electricity
+"UPPCL calling. Your meter has been flagged for non-payment. Pay immediately, or we disconnect",GovernmentImpersonation,electricity
+UPPCL calling. Pay the bill to this number through Google pay,GovernmentImpersonation,electricity
+UPPCL calling. Your meter is faulty. Replace it urgently. Pay now.,GovernmentImpersonation,electricity
+UPPCL calling. We are from the vigilance department. Pay to avoid penalties.,GovernmentImpersonation,electricity
+UPPCL calling. You have won a lucky draw. Share OTP to claim.,GovernmentImpersonation,electricity
+UPPCL calling. We are offering a cashback offer. Pay now to avail.,GovernmentImpersonation,electricity
+UPPCL calling. Your connection has been temporarily suspended. Pay now to restore.,GovernmentImpersonation,electricity
+UPPCL calling. We need to update your KYC. Share Aadhar details.,GovernmentImpersonation,electricity
+UPPCL calling. Your bill is unusually high. Click here to file a dispute.,GovernmentImpersonation,electricity
+UPPCL calling. We are doing a meter reading today. Share the current reading now.,GovernmentImpersonation,electricity
+UPPCL calling. You are eligible for a subsidy. Provide your bank details.,GovernmentImpersonation,electricity
+UPPCL calling. We are from the cyber cell. Your account has suspicious activity.,GovernmentImpersonation,electricity
+UPPCL calling. We are upgrading our system. Share your password to avoid disruption.,GovernmentImpersonation,electricity
+UPPCL calling. We need to verify your identity. Share a photo of your ID.,GovernmentImpersonation,electricity
+UPPCL calling. We are offering a special discount for senior citizens.,Legitimate,Legitimate
+UPPCL calling. Your meter is consuming too much power. Pay to upgrade.,GovernmentImpersonation,electricity
+UPPCL calling. We are conducting a safety audit. Please cooperate.,Legitimate,Legitimate
+UPPCL calling. Your bill is lower than usual. Pay the discounted amount now.,GovernmentImpersonation,electricity
+UPPCL calling. We are from the legal department. Pay to avoid legal action.,GovernmentImpersonation,electricity
+UPPCL calling. We need to install a new meter for faster billing.,Legitimate,Legitimate
+UPPCL calling. We are offering a prize for early bill payment.,GovernmentImpersonation,electricity
+UPPCL calling. Your account is under review. Share all your details.,GovernmentImpersonation,electricity
+UPPCL calling. We are from the consumer court. Pay to avoid a hearing.,GovernmentImpersonation,electricity
+UPPCL calling. We need to check your meter for tampering.,GovernmentImpersonation,electricity
+UPPCL calling. We are giving away free LED bulbs. Share your address.,GovernmentImpersonation,electricity
+UPPCL calling. Your bill is showing a large credit. Share your bank details to claim.,GovernmentImpersonation,electricity
+UPPCL calling. We are from the audit team. Verify your payment history.,GovernmentImpersonation,electricity
+UPPCL calling. We are installing smart meters in your area. Pay for installation.,GovernmentImpersonation,electricity
+UPPCL calling. We are offering a referral bonus. Share your friends' details.,GovernmentImpersonation,electricity
+UPPCL calling. Your account is locked. Share your password to unlock.,GovernmentImpersonation,electricity
+UPPCL calling. We are offering a discount for online bill payment.,Legitimate,Legitimate
+UPPCL calling. Your meter is emitting harmful radiation. Replace it immediately.,GovernmentImpersonation,electricity
+UPPCL calling. We are conducting a customer satisfaction survey. Please participate.,Legitimate,Legitimate
+UPPCL calling. Your bill is being processed. Pay a small fee to expedite.,GovernmentImpersonation,electricity
+UPPCL calling. We are from the anti-corruption department. Pay to avoid investigation.,GovernmentImpersonation,electricity
+UPPCL calling. We need to upgrade your meter for better performance.,GovernmentImpersonation,electricity
+UPPCL calling. We are offering a loyalty program. Share your Aadhar card to join.,GovernmentImpersonation,electricity
+UPPCL calling. Your account is compromised. Change your password immediately.,GovernmentImpersonation,electricity
+UPPCL calling. We are offering a discount for paying through UPI.,Legitimate,Legitimate
+UPPCL calling. Your meter is outdated. Replace it with a smart meter.,GovernmentImpersonation,electricity
+UPPCL calling. We are conducting a customer awareness campaign.,Legitimate,Legitimate
+UPPCL calling. Your bill is on hold. Pay a small fee to release it.,GovernmentImpersonation,electricity
+UPPCL calling. We are from the vigilance squad. Pay to avoid inspection.,GovernmentImpersonation,electricity
+UPPCL calling. We need to install a digital meter for accurate reading.,GovernmentImpersonation,electricity
+UPPCL calling. We are offering a solar panel subsidy. Share your details.,GovernmentImpersonation,electricity
+UPPCL calling. Your account is blocked. Share your OTP to unblock.,GovernmentImpersonation,electricity
+UPPCL calling. We are offering a discount for paying before the due date.,Legitimate,Legitimate
+UPPCL calling. Your meter is malfunctioning. Replace it for safety.,Legitimate,Legitimate
+UPPCL calling. We are conducting a feedback survey. Please share your opinion.,Legitimate,Legitimate
+UPPCL calling. Your bill is under review. Pay a small fee to finalize.,GovernmentImpersonation,electricity
+UPPCL calling. We are from the enforcement department. Pay to avoid penalty.,GovernmentImpersonation,electricity
+UPPCL calling. We need to upgrade your meter for smart grid integration.,GovernmentImpersonation,electricity
+UPPCL calling. We are offering a green energy incentive. Share your details.,GovernmentImpersonation,electricity
+UPPCL calling. Your account is suspended. Share your ID to reactivate.,GovernmentImpersonation,electricity
+UPPCL calling. We are offering a discount for using e-wallets.,GovernmentImpersonation,electricity
+UPPCL calling. Your meter is showing incorrect readings. Replace it urgently.,GovernmentImpersonation,electricity
+UPPCL calling. We are conducting a customer service training session.,Legitimate,Legitimate
+UPPCL calling. Your bill is delayed. Pay a small fee to avoid late charges.,GovernmentImpersonation,electricity
+UPPCL calling. We are from the anti-theft squad. Pay to avoid investigation.,GovernmentImpersonation,electricity
+UPPCL calling. We need to install a prepaid meter for better control.,GovernmentImpersonation,electricity
+UPPCL calling. We are offering a home automation discount. Share your details.,GovernmentImpersonation,electricity
+UPPCL calling. Your account is deactivated. Share your credit card details.,GovernmentImpersonation,electricity
+UPPCL calling. We are offering a discount for using net banking.,GovernmentImpersonation,electricity
+UPPCL calling. Your meter is vulnerable to hacking. Replace it immediately.,GovernmentImpersonation,electricity
+UPPCL calling. We are conducting a water conservation awareness campaign.,Legitimate,Legitimate
+UPPCL calling. Your bill is overdue. Pay a small fee to avoid legal notice.,GovernmentImpersonation,electricity
+UPPCL calling. We are from the tax department. Pay to avoid audit.,GovernmentImpersonation,electricity
+UPPCL calling. We need to install a high-efficiency meter for energy saving.,GovernmentImpersonation,electricity
+UPPCL calling. We are offering a tree planting incentive. Share your address.,GovernmentImpersonation,electricity
+UPPCL calling. Your account is flagged for review. Share your PAN card details.,GovernmentImpersonation,electricity
+UPPCL calling. We are offering a discount for using mobile wallets.,GovernmentImpersonation,electricity
+UPPCL calling. Your meter is showing signs of damage. Replace it immediately.,GovernmentImpersonation,electricity
+UPPCL calling. We are conducting a safety inspection of electrical appliances.,GovernmentImpersonation,electricity

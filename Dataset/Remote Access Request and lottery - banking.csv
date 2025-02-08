@@ -1,0 +1,909 @@
+text,category,sub-category
+Your account has been blocked due to suspicious activity. Reply with your OTP immediately.,BankingScam,Account Blocked
+Your ATM card has been deactivated. Call our helpline immediately to reactivate.,BankingScam,Account Blocked
+Please provide your Aadhaar number and bank details to complete your KYC update.,BankingScam,KYC Verification
+Someone is trying to withdraw money from your account. Share your UPI PIN to stop the transaction.,BankingScam,Fraudulent Transaction
+We have detected a fraudulent transaction. Transfer funds to the safe account provided.,BankingScam,Fraudulent Transaction
+"Congratulations, you are pre-approved for a loan. Please pay the processing fee to claim the loan.",BankingScam,Loan Offer
+Please send your PAN card details and Aadhaar number to verify your account.,BankingScam,KYC Verification
+Your credit card shows suspicious activity. Call now to verify transactions.,BankingScam,Credit Card Scam
+RBI alert: Your bank account may be compromised. Provide your OTP to secure it.,BankingScam,RBI Impersonation Scam
+Your account is frozen due to incomplete KYC. Submit bank details for activation.,BankingScam,Account Blocked
+Update your KYC by providing sensitive information to complete the process.,BankingScam,KYC Verification
+Alert: Suspicious login detected. Please share your card details to verify identity.,BankingScam,Fraudulent Transaction
+Emergency: Your account is under surveillance. Provide verification details immediately.,BankingScam,RBI Impersonation Scam
+Your Paytm account is flagged. Provide login credentials to resolve the issue.,BankingScam,Account Blocked
+ICICI customer: Confirm your recent transaction by sharing your OTP now.,BankingScam,Fraudulent Transaction
+Axis Bank: Your account is blocked due to high risk activity. Verify your details immediately.,BankingScam,Account Blocked
+Your credit card reward redemption request requires confirmation of your details.,BankingScam,Credit Card Scam
+We need to reverse a fraudulent transaction. Please provide your OTP to proceed.,BankingScam,Fraudulent Transaction
+PNB alert: Your account is frozen due to unusual activity. Provide full details to reactivate.,BankingScam,Account Blocked
+Verify your identity immediately to resolve a potential fraud incident on your account.,BankingScam,Fraudulent Transaction
+RBI calling: Ensure your account safety by providing your bank details and OTP now.,BankingScam,RBI Impersonation Scam
+ICICI notification: Incomplete KYC detected. Submit your PAN and Aadhaar for clearance.,BankingScam,KYC Verification
+HDFC fraud alert: Immediate action required—please confirm your account details.,BankingScam,Fraudulent Transaction
+Exclusive offer: Secure your loan by paying a small fee. Respond with your bank details.,BankingScam,Loan Offer
+"Google Pay alert: Unusual activity detected, please send your UPI PIN for verification.",BankingScam,Fraudulent Transaction
+Your account has been temporarily locked for security. Provide your details to unlock.,BankingScam,Account Blocked
+RBI message: Protect your account by immediately confirming your identity via OTP.,BankingScam,RBI Impersonation Scam
+Your HDFC account is on hold. Complete the KYC process by providing sensitive information.,BankingScam,KYC Verification
+Update required: Your account requires verification due to suspicious activity. Provide details now.,BankingScam,Fraudulent Transaction
+Alert from Axis: Suspicious login attempt detected. Provide your details to secure your account.,BankingScam,Fraudulent Transaction
+Urgent: Your bank details need verification to safeguard your account. Reply with your Aadhaar number.,BankingScam,KYC Verification
+Notice: There is an anomaly in your account transactions. Confirm your details using your OTP.,BankingScam,Fraudulent Transaction
+"Dear customer, your bank account is under verification. Share your PAN card details now.",BankingScam,KYC Verification
+Immediate action required: Alert from PNB - account suspended due to pending verification.,BankingScam,Account Blocked
+Fraud alert: Transfer your funds to our designated account to protect against unauthorized withdrawals.,BankingScam,Fraudulent Transaction
+ICICI Bank notice: Provide your full banking credentials to resolve the pending account issue.,BankingScam,Account Blocked
+Notification: Your credit card activity is under review. Submit your card details for verification.,BankingScam,Credit Card Scam
+Reminder: Update your KYC with new details to avoid account deactivation.,BankingScam,KYC Verification
+Security update: Your mobile number has been flagged. Verify your identity with OTP now.,BankingScam,Fraudulent Transaction
+Alert: Your credit card is compromised. Provide your CVV and other details to secure it.,BankingScam,Credit Card Scam
+PNB: Urgent verification needed. Enter your bank account details to restore access.,BankingScam,Account Blocked
+Bank alert: Your transaction requires immediate confirmation. Provide your info to proceed.,BankingScam,Fraudulent Transaction
+Warning: Unrecognized device access detected. Share your banking credentials to verify.,BankingScam,Fraudulent Transaction
+"Special loan offer: Low interest available, but first verify your banking details to qualify.",BankingScam,Loan Offer
+Your account is flagged for review. Confirm your identity with sensitive details now.,BankingScam,Fraudulent Transaction
+ICICI: Incomplete KYC alert. Provide necessary details to prevent account suspension.,BankingScam,KYC Verification
+Fraud notice: Your bank account is at risk. Respond with your credentials immediately.,BankingScam,Fraudulent Transaction
+RBI impersonation: We are calling to secure your account. Please send your secure OTP.,BankingScam,RBI Impersonation Scam
+Attention: Your loan application requires an upfront fee. Please send your details to process it.,BankingScam,Loan Offer
+Urgent reminder: Account compromised. Confirm your identity with your bank credentials now.,BankingScam,Fraudulent Transaction
+Thank you for calling SBI. How can we assist you today?,legitemate,legitemate
+We are calling to confirm your recent transaction. Please verify your customer ID.,legitemate,legitemate
+Your account balance is ₹5000. This is an automated message.,legitemate,legitemate
+SBI notification: Your account transaction of ₹1200 has been confirmed.,legitemate,legitemate
+ICICI update: Your KYC details have been successfully updated.,legitemate,legitemate
+"HDFC: Your requested transaction has been processed, thank you for confirming.",legitemate,legitemate
+Axis Bank: Thank you for contacting us. How can we assist you?,legitemate,legitemate
+PNB: We have received your inquiry about a recent transaction. Please visit your branch for more details.,legitemate,legitemate
+PhonePe alert: This is a notification confirming your recent payment of ₹800.,legitemate,legitemate
+Google Pay: Your transaction was completed successfully on 2025-02-07.,legitemate,legitemate
+RBI official call: This is a verification call. Please provide your account number if you initiated the call.,legitemate,legitemate
+SEBI notice: Your investment details have been updated per your request.,legitemate,legitemate
+IRDAI update: Your claim has been processed. Thank you for your cooperation.,legitemate,legitemate
+Thank you for visiting our branch. Your inquiry has been noted and will be addressed.,legitemate,legitemate
+SBI: Your recent payment has been confirmed by our system.,legitemate,legitemate
+ICICI: Your scheduled appointment with our advisor is confirmed.,legitemate,legitemate
+HDFC: Your transaction alert is a confirmation of your reported transaction.,legitemate,legitemate
+Axis: This message confirms your successful transfer.,legitemate,legitemate
+PNB: Your number has been registered for SMS alerts.,legitemate,legitemate
+Bank service: Your account enquiry has been successfully processed.,legitemate,legitemate
+SBI: Your online banking password reset has been requested and processed.,legitemate,legitemate
+ICICI: Your debit card has been shipped to your registered address.,legitemate,legitemate
+HDFC: Your standing instruction for monthly payments has been updated successfully.,legitemate,legitemate
+Axis Bank: Your contact details have been updated as per your request.,legitemate,legitemate
+PNB: Your cheque book request has been processed.,legitemate,legitemate
+SBI Alert: A scheduled maintenance window is in effect. No action is needed on your part.,legitemate,legitemate
+ICICI Notification: Your recent online purchase has been confirmed.,legitemate,legitemate
+HDFC Reminder: Your bill payment for this month has been received.,legitemate,legitemate
+Axis Bank: Your account statement for February 2025 is now available.,legitemate,legitemate
+PNB: Your financial advisory meeting is scheduled as per your selection.,legitemate,legitemate
+SBI: Your secure login attempt has been recorded successfully.,legitemate,legitemate
+ICICI: Your request for a credit limit increase has been processed.,legitemate,legitemate
+HDFC: Your fixed deposit has been renewed automatically.,legitemate,legitemate
+Axis Bank: Your funds transfer request has been completed.,legitemate,legitemate
+PNB: Your investment portfolio has been updated.,legitemate,legitemate
+SBI: Your customer query has been escalated and will be resolved shortly.,legitemate,legitemate
+ICICI: Your mobile banking app has been updated to the latest version.,legitemate,legitemate
+HDFC: Your online transaction of ₹300 has been verified.,legitemate,legitemate
+Axis Bank: Your card activation has been successfully completed.,legitemate,legitemate
+PNB: Your request for account information has been fulfilled.,legitemate,legitemate
+SBI: Your secure transaction is confirmed as per your instructions.,legitemate,legitemate
+ICICI: Your latest bank statement has been emailed to your registered address.,legitemate,legitemate
+HDFC: Your reward points have been credited to your account.,legitemate,legitemate
+Axis Bank: Your branch visit appointment is confirmed.,legitemate,legitemate
+PNB: Your periodic account review has been completed.,legitemate,legitemate
+SBI: Your online fund transfer has been successfully executed.,legitemate,legitemate
+ICICI: Your cheque deposit has been processed.,legitemate,legitemate
+HDFC: Your request for a duplicate passbook has been completed.,legitemate,legitemate
+Axis Bank: Your debit card PIN change has been updated as per your request.,legitemate,legitemate
+PNB: Your scheduled call with a banking advisor is confirmed.,legitemate,legitemate
+This is SBI calling. Your account has been blocked due to suspicious activity. Provide OTP immediately.,BankingScam,Account Blocked
+Alert from HDFC: Your account is frozen due to incomplete KYC. Send your Aadhaar details now.,BankingScam,KYC Scam
+ICICI alert: Suspicious transaction detected. Transfer funds to our safe account to prevent loss.,BankingScam,Fraudulent Transaction
+Axis Bank notice: Your ATM card has been deactivated. Call our number to reactivate it.,BankingScam,Account Blocked
+PNB warning: Unusual activity found. Provide your OTP to secure your account immediately.,BankingScam,Fraudulent Transaction
+SBI alert: Your account has been flagged for suspicious transactions. Verify by sending your UPI PIN.,BankingScam,Fraudulent Transaction
+HDFC alert: Your credit card reward points are pending. Provide card details for redemption.,BankingScam,Credit Card Scam
+ICICI message: KYC incomplete. Share your PAN card and Aadhaar information to update your account.,BankingScam,KYC Scam
+Axis Bank call: Immediate action required. Your account shows unusual transactions. Provide OTP now.,BankingScam,Fraudulent Transaction
+PNB notification: Your account is under review for suspicious activity. Confirm by sharing your bank details.,BankingScam,Account Blocked
+SBI warning: Fraudulent activity detected on your account. Transfer funds to our secure account to reverse charges.,BankingScam,Fraudulent Transaction
+HDFC scam call: Your account has been compromised. Provide your UPI PIN to secure your funds.,BankingScam,Fraudulent Transaction
+ICICI scam alert: Complete your KYC by sending your Aadhaar number and bank details immediately.,BankingScam,KYC Scam
+Axis message: Your credit card has been suspended. Provide your PAN and OTP for reactivation.,BankingScam,Credit Card Scam
+PNB alert: This is a security notification. Share your OTP to confirm a fraudulent transaction.,BankingScam,Fraudulent Transaction
+SBI call: Your account is temporarily blocked due to security concerns. Verify with your OTP now.,BankingScam,Account Blocked
+HDFC notice: Suspicious activity detected. Provide your Aadhaar details to update your KYC information.,BankingScam,KYC Scam
+ICICI scam call: Immediate action needed. Confirm your identity with your customer ID and OTP.,BankingScam,Fraudulent Transaction
+Axis warning: Your account shows multiple unauthorized transactions. Provide your bank details for verification.,BankingScam,Fraudulent Transaction
+PNB message: Urgent alert - your ATM card has been deactivated. Call the provided number for reactivation.,BankingScam,Account Blocked
+SBI scam alert: Verify your account now by sending your Aadhaar and PAN details to update KYC.,BankingScam,KYC Scam
+HDFC fraud alert: A suspicious transaction was detected. Please transfer funds to our safe account immediately.,BankingScam,Fraudulent Transaction
+ICICI call: Your credit card has been flagged. Share your card details to redeem reward points.,BankingScam,Credit Card Scam
+Axis notification: Unusual account activity detected. Provide OTP for immediate verification.,BankingScam,Fraudulent Transaction
+PNB scam call: Your account is under investigation. Confirm your details by sending your customer ID.,BankingScam,Account Blocked
+SBI warning: Your account is compromised. Share your UPI PIN to block unauthorized transactions.,BankingScam,Fraudulent Transaction
+HDFC alert: Pre-approved loan offer! Pay processing fee to receive funds instantly.,BankingScam,Loan Offer Scam
+ICICI scam message: You are eligible for a special loan. Provide your bank details to proceed.,BankingScam,Loan Offer Scam
+Axis loan scam: Congratulations! You are pre-approved for a loan. Send processing fee for disbursement.,BankingScam,Loan Offer Scam
+PNB scam alert: Special government loan available. Pay a small registration fee to avail benefits.,BankingScam,Loan Offer Scam
+SBI credit scam: You are eligible for a credit card with high limit. Provide your Aadhaar and PAN details.,BankingScam,Credit Card Scam
+HDFC call: Detected unusual credit card activity. Verify transactions by providing your card details.,BankingScam,Credit Card Scam
+ICICI fraud notification: Your account shows unauthorized access. Send OTP to secure it immediately.,BankingScam,Fraudulent Transaction
+Axis scam alert: Suspicious login attempt detected. Confirm with your UPI PIN to secure your account.,BankingScam,Fraudulent Transaction
+PNB warning: Your account has been frozen due to multiple suspicious activities. Share your OTP now.,BankingScam,Account Blocked
+SBI alert: We are calling from RBI. Your account is flagged for suspicious transactions. Follow our instructions.,BankingScam,RBI Impersonation Scam
+HDFC scam call: This is RBI. Your account is under investigation. Provide bank details and OTP for verification.,BankingScam,RBI Impersonation Scam
+ICICI message: Urgent security alert from RBI. Your account is compromised. Share your personal details immediately.,BankingScam,RBI Impersonation Scam
+Axis alert: RBI notification. Your account is flagged for unusual activities. Verify immediately with your OTP.,BankingScam,RBI Impersonation Scam
+PNB scam alert: This is RBI. Confirm your identity by sending your bank account details and OTP.,BankingScam,RBI Impersonation Scam
+SBI fraud alert: Your account is being monitored for suspicious transactions. Provide your PAN details for verification.,BankingScam,Fraudulent Transaction
+HDFC notice: Suspicious transaction detected. Share your OTP to secure your account immediately.,BankingScam,Fraudulent Transaction
+ICICI scam call: Your KYC update is pending. Provide your Aadhaar number to complete the process.,BankingScam,KYC Scam
+Axis warning: Unverified transaction detected. Share your bank details to confirm your identity.,BankingScam,Fraudulent Transaction
+PNB alert: Account blocked due to security concerns. Provide your UPI PIN for verification.,BankingScam,Account Blocked
+SBI call: Your credit card is under review. Send your card details to confirm suspicious transactions.,BankingScam,Credit Card Scam
+HDFC scam alert: Fraudulent transaction detected. Transfer funds to a designated account to secure your money.,BankingScam,Fraudulent Transaction
+ICICI warning: Your account is compromised. Provide your OTP to verify recent suspicious activity.,BankingScam,Fraudulent Transaction
+Axis bank alert: Immediate action required. Update your KYC details by providing your Aadhaar and PAN.,BankingScam,KYC Scam
+PNB scam call: Special loan offer! Provide processing fee and bank details to claim your pre-approved loan.,BankingScam,Loan Offer Scam
+Thank you for calling SBI. Please provide your customer ID to verify your account.,legitimate,legitimate
+"HDFC automated message: Your account balance is ₹10,000.",legitimate,legitimate
+ICICI customer service: How may we assist you with your banking needs?,legitimate,legitimate
+"Axis Bank: We are calling to confirm your recent transaction of ₹2,000 at a local store.",legitimate,legitimate
+PNB: Your account has been verified. No further action is needed at this time.,legitimate,legitimate
+"SBI: Automated balance inquiry - your current balance is ₹15,500.",legitimate,legitimate
+HDFC: Thank you for reaching out. How can we help you today?,legitimate,legitimate
+ICICI: Your recent payment of ₹500 to a merchant has been confirmed.,legitimate,legitimate
+Axis Bank: Please note your account statement is available on our website.,legitimate,legitimate
+PNB: Thank you for calling. Your customer service query is being processed.,legitimate,legitimate
+SBI: Your account has been successfully updated with your recent information.,legitimate,legitimate
+HDFC: We are calling to confirm a transaction you authorized. Thank you for your prompt response.,legitimate,legitimate
+ICICI: Your loan application has been approved. Kindly check your email for further details.,legitimate,legitimate
+"Axis Bank: Your credit card payment of ₹1,000 has been processed successfully.",legitimate,legitimate
+PNB: Thank you for using our services. Your account is secure and up-to-date.,legitimate,legitimate
+"SBI: For your convenience, your account balance is now accessible online.",legitimate,legitimate
+HDFC: Your recent transaction of ₹750 has been verified. Thank you for banking with us.,legitimate,legitimate
+ICICI: We are calling to confirm your identity. Please enter your customer ID on our secure line.,legitimate,legitimate
+"Axis Bank: Your automated balance inquiry confirms a balance of ₹8,200.",legitimate,legitimate
+PNB: Thank you for your inquiry. Your account information is secure.,legitimate,legitimate
+SBI: Your account verification call was initiated by you. Please proceed with your query.,legitimate,legitimate
+HDFC: Your mobile banking activation is complete. Enjoy seamless banking services.,legitimate,legitimate
+ICICI: Your scheduled maintenance will be completed by tonight. Please check your account later.,legitimate,legitimate
+Axis Bank: We are calling regarding your query on recent bank charges. Thank you for contacting us.,legitimate,legitimate
+PNB: Your request for account balance information has been processed. Thank you for your call.,legitimate,legitimate
+SBI: Your customer service request has been logged successfully. A representative will contact you shortly.,legitimate,legitimate
+"HDFC: Your secure transaction of ₹3,500 has been confirmed.",legitimate,legitimate
+"ICICI: We have updated your account with your recent deposit of ₹5,000. Thank you for banking with us.",legitimate,legitimate
+Axis Bank: Your call for transaction confirmation has been received. Please hold for a representative.,legitimate,legitimate
+PNB: Your recent online transfer has been processed. Thank you for choosing our digital services.,legitimate,legitimate
+SBI: Your account details have been successfully verified through our secure system.,legitimate,legitimate
+"HDFC: Your payment of ₹1,200 has been confirmed. We appreciate your prompt action.",legitimate,legitimate
+"ICICI: Your recent deposit of ₹2,500 has been credited to your account.",legitimate,legitimate
+Axis Bank: Your banking enquiry has been recorded. We will call you back shortly.,legitimate,legitimate
+PNB: Your account information has been updated as per your request.,legitimate,legitimate
+SBI: Your secure customer service call is complete. Thank you for banking with us.,legitimate,legitimate
+HDFC: Your recent mobile banking registration has been successfully activated.,legitimate,legitimate
+ICICI: Your request to change your account password has been processed securely.,legitimate,legitimate
+"Axis Bank: Your automated alert confirms a recent deposit of ₹7,000 into your account.",legitimate,legitimate
+PNB: Your query regarding interest rates has been addressed by our team.,legitimate,legitimate
+SBI: Your banking transaction from today has been successfully verified.,legitimate,legitimate
+HDFC: Your secure online banking session is now active.,legitimate,legitimate
+ICICI: Your bank statement is ready for download on our official website.,legitimate,legitimate
+Axis Bank: Your request for account maintenance details has been fulfilled.,legitimate,legitimate
+PNB: Your inquiry about loan options has been forwarded to our financial advisor.,legitimate,legitimate
+"SBI: Your account is secure. For any further assistance, please visit our branch.",legitimate,legitimate
+HDFC: Your credit card payment has been received and processed successfully.,legitimate,legitimate
+ICICI: Your funds transfer request has been completed without any issues.,legitimate,legitimate
+Axis Bank: Your recent bill payment has been recorded successfully.,legitimate,legitimate
+PNB: Your customer support call has been completed. Thank you for using our services.,legitimate,legitimate
+This is SBI calling. Your account has been blocked due to suspicious activity. Provide OTP immediately.,BankingScam,Account Blocked
+HDFC alert: Your account is blocked because of unusual activity. Verify your identity with your OTP now.,BankingScam,Account Blocked
+"ICICI notice: Due to security concerns, your account has been blocked. Please confirm with your OTP.",BankingScam,Account Blocked
+Axis Bank warning: Your account is blocked for security reasons. Send your OTP to reactivate it.,BankingScam,Account Blocked
+PNB alert: Immediate action required! Your account is blocked. Provide OTP to unlock your account.,BankingScam,Account Blocked
+SBI security message: Your account has been blocked. Contact us with your OTP to resolve the issue.,BankingScam,Account Blocked
+HDFC notification: Your account is blocked due to suspicious login attempts. Provide OTP to verify.,BankingScam,Account Blocked
+ICICI alert: Account blocked due to irregular activity. Submit your OTP for immediate unblocking.,BankingScam,Account Blocked
+Axis warning: Your account has been blocked. Verify with your OTP to secure your funds.,BankingScam,Account Blocked
+PNB message: Security alert! Your account is blocked. Provide OTP now to restore access.,BankingScam,Account Blocked
+SBI notice: Your account is blocked due to security protocols. Input your OTP to proceed.,BankingScam,Account Blocked
+"HDFC call: Due to unauthorized access, your account has been blocked. Provide OTP immediately.",BankingScam,Account Blocked
+ICICI warning: Your account is blocked following suspicious transactions. Confirm with OTP.,BankingScam,Account Blocked
+Axis alert: Immediate action needed; your account is blocked. Please verify using your OTP.,BankingScam,Account Blocked
+PNB security notice: Your account has been blocked for protection. Send OTP to confirm identity.,BankingScam,Account Blocked
+SBI alert: Account blocked due to multiple failed login attempts. Provide OTP for verification.,BankingScam,Account Blocked
+HDFC notice: Your account is blocked for safety. Verify identity by sending your OTP.,BankingScam,Account Blocked
+ICICI call: Security breach detected; your account is blocked. Confirm with your OTP promptly.,BankingScam,Account Blocked
+Axis Bank notification: Your account has been blocked. Provide your OTP to unlock access.,BankingScam,Account Blocked
+"PNB alert: For your protection, your account is blocked. Verify with OTP to continue banking.",BankingScam,Account Blocked
+"SBI warning: Suspicious activity detected, account blocked. Immediate OTP required.",BankingScam,Account Blocked
+HDFC message: Your account is blocked due to potential fraud. Please send your OTP to verify.,BankingScam,Account Blocked
+ICICI notice: Account blocked as a safety measure. Input OTP to regain access.,BankingScam,Account Blocked
+Axis alert: Your account is blocked. Confirm your identity with your OTP immediately.,BankingScam,Account Blocked
+"PNB call: For security reasons, your account has been blocked. Submit OTP to proceed.",BankingScam,Account Blocked
+SBI alert: Your KYC is incomplete. Send your Aadhaar and PAN details to update your account.,BankingScam,KYC Scam
+HDFC message: Complete your KYC now by providing your Aadhaar number and bank details.,BankingScam,KYC Scam
+ICICI call: Your KYC verification is pending. Provide your Aadhaar and PAN to update your records.,BankingScam,KYC Scam
+Axis Bank alert: Urgent! Complete your KYC by sharing your Aadhaar details immediately.,BankingScam,KYC Scam
+PNB notice: Incomplete KYC detected. Submit your Aadhaar and bank details to secure your account.,BankingScam,KYC Scam
+SBI warning: Your KYC is not updated. Provide your Aadhaar number and PAN details promptly.,BankingScam,KYC Scam
+HDFC alert: KYC incomplete. Verify your identity by sending your Aadhaar and bank account information.,BankingScam,KYC Scam
+ICICI notification: Complete your KYC update by providing your Aadhaar and PAN details.,BankingScam,KYC Scam
+Axis message: Urgent KYC update required. Please share your Aadhaar number and bank details now.,BankingScam,KYC Scam
+PNB call: Your KYC is pending. Provide your Aadhaar and PAN information to complete verification.,BankingScam,KYC Scam
+SBI notice: KYC incomplete. Update your details by sending your Aadhaar and bank information.,BankingScam,KYC Scam
+HDFC security message: Incomplete KYC detected. Provide your Aadhaar and PAN details immediately.,BankingScam,KYC Scam
+ICICI alert: Your account requires KYC update. Share your Aadhaar and bank details now.,BankingScam,KYC Scam
+Axis warning: KYC verification pending. Input your Aadhaar number and PAN to update your record.,BankingScam,KYC Scam
+PNB alert: Complete your KYC now. Provide your Aadhaar and bank account details for verification.,BankingScam,KYC Scam
+SBI call: Your KYC is pending update. Please send your Aadhaar and PAN details immediately.,BankingScam,KYC Scam
+HDFC notification: Urgent KYC update needed. Provide your Aadhaar number and bank info to secure your account.,BankingScam,KYC Scam
+ICICI message: KYC update required. Share your Aadhaar and PAN details at the earliest.,BankingScam,KYC Scam
+Axis alert: Your KYC status is incomplete. Provide your Aadhaar number and bank details now.,BankingScam,KYC Scam
+PNB warning: Incomplete KYC detected. Please update your Aadhaar and PAN details immediately.,BankingScam,KYC Scam
+SBI alert: Immediate KYC update required. Provide your Aadhaar and bank details to avoid account suspension.,BankingScam,KYC Scam
+HDFC notice: Your KYC needs updating. Share your Aadhaar and PAN information to secure your account.,BankingScam,KYC Scam
+ICICI call: KYC incomplete. Provide your Aadhaar and bank details to update your record now.,BankingScam,KYC Scam
+Axis message: Update your KYC details immediately by providing your Aadhaar number and PAN.,BankingScam,KYC Scam
+PNB alert: Your KYC is pending. Send your Aadhaar and bank details to complete the verification process.,BankingScam,KYC Scam
+SBI alert: Suspicious transaction detected. Transfer funds to our secure account immediately.,BankingScam,Fraudulent Transaction
+HDFC warning: Fraudulent transaction found. Please transfer money to the safe account to secure your funds.,BankingScam,Fraudulent Transaction
+ICICI message: Unauthorized transaction detected. Send funds to our secure account to avoid losses.,BankingScam,Fraudulent Transaction
+Axis alert: Fraud alert! A suspicious transaction occurred. Transfer funds to the verified account now.,BankingScam,Fraudulent Transaction
+PNB call: Alert! Fraudulent transaction detected. Move funds to our safe account immediately.,BankingScam,Fraudulent Transaction
+SBI notice: Unusual transaction found. Transfer money to secure your account from further fraud.,BankingScam,Fraudulent Transaction
+HDFC alert: Suspicious transaction detected on your account. Transfer funds to our designated safe account.,BankingScam,Fraudulent Transaction
+ICICI warning: Fraudulent activity detected. Please move your money to our secure account immediately.,BankingScam,Fraudulent Transaction
+Axis notification: Alert! Unauthorized transaction detected. Transfer funds to our safe account now.,BankingScam,Fraudulent Transaction
+PNB alert: Suspicious activity detected. Transfer funds to our verified account immediately to secure your money.,BankingScam,Fraudulent Transaction
+SBI call: Fraudulent transaction noticed. Send funds to our secure account to protect your assets.,BankingScam,Fraudulent Transaction
+HDFC message: Alert! Unusual transaction detected. Transfer funds to our designated safe account now.,BankingScam,Fraudulent Transaction
+ICICI alert: Unauthorized transaction detected. Move funds to our secure account to avoid loss.,BankingScam,Fraudulent Transaction
+Axis warning: Suspicious transaction found. Transfer money to our safe account immediately.,BankingScam,Fraudulent Transaction
+PNB notification: Fraud alert! Transfer funds to our verified safe account immediately.,BankingScam,Fraudulent Transaction
+SBI alert: Unauthorized transaction detected. Please transfer funds to the safe account to secure your account.,BankingScam,Fraudulent Transaction
+HDFC call: Suspicious transaction found. Move money to our secure account to prevent fraud.,BankingScam,Fraudulent Transaction
+ICICI message: Fraudulent activity detected. Transfer funds to our verified account immediately.,BankingScam,Fraudulent Transaction
+Axis alert: Unauthorized transaction detected on your account. Transfer funds to our safe account now.,BankingScam,Fraudulent Transaction
+PNB warning: Suspicious transaction identified. Transfer funds immediately to our secure account.,BankingScam,Fraudulent Transaction
+SBI notice: Fraudulent transaction detected. Transfer your funds to our designated safe account.,BankingScam,Fraudulent Transaction
+HDFC alert: Unusual transaction detected. Secure your funds by transferring to our safe account now.,BankingScam,Fraudulent Transaction
+ICICI call: Alert! Fraudulent activity detected. Transfer money to our secure account immediately.,BankingScam,Fraudulent Transaction
+Axis notification: Unauthorized transaction detected. Please transfer funds to the verified safe account.,BankingScam,Fraudulent Transaction
+PNB alert: Suspicious transaction observed. Move funds to our secure account immediately.,BankingScam,Fraudulent Transaction
+SBI loan alert: You are pre-approved for a loan. Pay a processing fee to receive the funds.,BankingScam,Loan Offer Scam
+HDFC call: Congratulations! Secure a special loan by paying a small processing fee.,BankingScam,Loan Offer Scam
+ICICI message: Pre-approved loan available. Provide your bank details and processing fee to claim it.,BankingScam,Loan Offer Scam
+Axis loan notice: Special loan offer! Pay a nominal fee to disburse your pre-approved loan.,BankingScam,Loan Offer Scam
+PNB alert: You are eligible for a government-backed loan. Pay a processing fee to avail it.,BankingScam,Loan Offer Scam
+SBI notification: Loan offer! Pay a small fee to unlock your pre-approved loan amount.,BankingScam,Loan Offer Scam
+HDFC alert: Congratulations! You qualify for a special loan. Submit processing fee to receive funds.,BankingScam,Loan Offer Scam
+ICICI call: Special loan offer available. Provide your bank details and processing fee to claim funds.,BankingScam,Loan Offer Scam
+Axis loan alert: Pre-approved loan offer! Pay the processing fee to receive your funds instantly.,BankingScam,Loan Offer Scam
+PNB notice: Secure your loan now. Pay a nominal fee to access your pre-approved loan.,BankingScam,Loan Offer Scam
+SBI loan call: You are eligible for a special loan. Provide processing fee details to claim your funds.,BankingScam,Loan Offer Scam
+HDFC loan alert: Pre-approved loan available. Submit a processing fee to receive your loan amount.,BankingScam,Loan Offer Scam
+ICICI loan message: Special loan offer! Provide your bank account details and fee to access funds.,BankingScam,Loan Offer Scam
+Axis loan notification: Your pre-approved loan is ready. Pay a small fee for processing to receive it.,BankingScam,Loan Offer Scam
+PNB loan call: Secure your loan offer now by paying a processing fee and sharing your bank details.,BankingScam,Loan Offer Scam
+SBI alert: Pre-approved loan available. Provide processing fee and bank details to claim funds.,BankingScam,Loan Offer Scam
+HDFC message: Congratulations! You have a special loan offer. Pay a processing fee to unlock it.,BankingScam,Loan Offer Scam
+ICICI notification: Special loan offer available. Submit your bank details and fee to receive funds.,BankingScam,Loan Offer Scam
+Axis loan alert: You are pre-approved for a loan. Pay a nominal fee to disburse the funds.,BankingScam,Loan Offer Scam
+PNB loan message: Secure your pre-approved loan by paying the processing fee and providing bank details.,BankingScam,Loan Offer Scam
+SBI loan notice: Special loan offer! Provide processing fee to claim your pre-approved loan.,BankingScam,Loan Offer Scam
+HDFC credit alert: You are eligible for a high-limit credit card. Provide your Aadhaar and PAN to apply.,BankingScam,Credit Card Scam
+HDFC card message: Exclusive offer! Apply for a high-limit credit card by sending your personal details.,BankingScam,Credit Card Scam
+ICICI call: Credit card offer available. Provide your Aadhaar number and PAN details to apply.,BankingScam,Credit Card Scam
+Axis Bank credit alert: Special credit card offer! Submit your details to secure a high limit card.,BankingScam,Credit Card Scam
+PNB notice: Eligible for a credit card upgrade. Provide your Aadhaar and PAN details now.,BankingScam,Credit Card Scam
+SBI alert: High-limit credit card offer! Submit your Aadhaar and PAN information to apply.,BankingScam,Credit Card Scam
+HDFC notification: Exclusive credit card offer available. Provide your details to claim a high limit card.,BankingScam,Credit Card Scam
+ICICI message: Your credit card application is pending. Provide Aadhaar and PAN details to apply.,BankingScam,Credit Card Scam
+Axis card alert: High-limit credit card offer! Send your Aadhaar and PAN to secure your card.,BankingScam,Credit Card Scam
+PNB credit call: Exclusive credit card upgrade offer! Provide your details for a high limit card.,BankingScam,Credit Card Scam
+SBI credit notice: Eligible for a high-limit credit card. Provide your Aadhaar and PAN for verification.,BankingScam,Credit Card Scam
+HDFC alert: Special credit card offer! Submit your Aadhaar and PAN details to secure a high limit card.,BankingScam,Credit Card Scam
+ICICI call: High-limit credit card offer available. Provide your Aadhaar and PAN to apply now.,BankingScam,Credit Card Scam
+Axis Bank notice: Credit card upgrade offer! Provide your personal details for a high limit card.,BankingScam,Credit Card Scam
+PNB message: Eligible for a credit card with enhanced limit. Provide Aadhaar and PAN details to apply.,BankingScam,Credit Card Scam
+SBI alert: High-limit credit card offer! Submit your Aadhaar and PAN information for immediate processing.,BankingScam,Credit Card Scam
+HDFC call: Exclusive credit card offer available. Provide your Aadhaar and PAN details to secure your card.,BankingScam,Credit Card Scam
+ICICI notification: Apply for a high-limit credit card by sending your Aadhaar and PAN details.,BankingScam,Credit Card Scam
+Axis alert: Special credit card upgrade offer! Provide your Aadhaar and PAN to apply now.,BankingScam,Credit Card Scam
+PNB call: High-limit credit card offer! Submit your personal details to secure a premium card.,BankingScam,Credit Card Scam
+SBI message: Credit card application pending. Provide your Aadhaar and PAN for a high-limit card.,BankingScam,Credit Card Scam
+HDFC alert: Secure a high-limit credit card by submitting your Aadhaar and PAN details.,BankingScam,Credit Card Scam
+ICICI call: High-limit credit card offer available. Provide your details to complete the application.,BankingScam,Credit Card Scam
+Axis notification: Exclusive credit card upgrade! Send your Aadhaar and PAN details for verification.,BankingScam,Credit Card Scam
+PNB alert: Eligible for a high-limit credit card. Provide your Aadhaar and PAN information to apply.,BankingScam,Credit Card Scam
+SBI alert: This is the RBI calling. Your account is flagged for suspicious activity. Provide OTP to verify.,BankingScam,RBI Impersonation Scam
+HDFC call: RBI notification. Your account is under investigation. Share your bank details and OTP.,BankingScam,RBI Impersonation Scam
+ICICI message: Alert from RBI. Your account is compromised. Provide your personal details immediately.,BankingScam,RBI Impersonation Scam
+Axis warning: RBI alert! Your account is flagged for irregular activity. Confirm with your OTP now.,BankingScam,RBI Impersonation Scam
+PNB notice: This is RBI. Your account is under review for suspicious transactions. Provide bank details.,BankingScam,RBI Impersonation Scam
+SBI alert: RBI notification. Your account has been flagged. Provide OTP to secure your funds.,BankingScam,RBI Impersonation Scam
+HDFC warning: This is RBI. Your account is under investigation. Send your bank details and OTP immediately.,BankingScam,RBI Impersonation Scam
+ICICI call: RBI alert! Your account is compromised. Provide your OTP and bank details for verification.,BankingScam,RBI Impersonation Scam
+Axis message: Alert from RBI. Your account is flagged for suspicious transactions. Confirm with OTP.,BankingScam,RBI Impersonation Scam
+PNB call: This is RBI. Your account is under scrutiny. Provide your bank details and OTP to verify.,BankingScam,RBI Impersonation Scam
+SBI notice: RBI alert! Your account has been flagged. Provide your OTP to secure your account.,BankingScam,RBI Impersonation Scam
+HDFC alert: This is an RBI notification. Your account is under investigation. Submit your OTP now.,BankingScam,RBI Impersonation Scam
+ICICI warning: RBI call! Your account is compromised. Provide bank details and OTP to verify identity.,BankingScam,RBI Impersonation Scam
+Axis alert: RBI notification. Your account has suspicious activity. Provide your OTP to confirm.,BankingScam,RBI Impersonation Scam
+PNB message: This is RBI. Your account is flagged for irregular activity. Provide OTP for verification.,BankingScam,RBI Impersonation Scam
+SBI call: RBI alert! Your account is under review. Provide your OTP and bank details immediately.,BankingScam,RBI Impersonation Scam
+HDFC notice: This is RBI calling. Your account is flagged. Confirm with your OTP and bank details.,BankingScam,RBI Impersonation Scam
+ICICI alert: RBI notification. Suspicious activity detected. Provide your OTP and bank details now.,BankingScam,RBI Impersonation Scam
+Axis warning: RBI call! Your account is compromised. Submit your OTP to secure your account.,BankingScam,RBI Impersonation Scam
+PNB alert: This is RBI. Your account is flagged for suspicious activity. Provide your bank details and OTP.,BankingScam,RBI Impersonation Scam
+SBI message: RBI alert! Your account is under investigation. Confirm with your OTP immediately.,BankingScam,RBI Impersonation Scam
+HDFC call: This is an RBI notification. Your account is flagged. Provide your OTP and bank details now.,BankingScam,RBI Impersonation Scam
+ICICI notice: RBI alert! Suspicious activity on your account. Provide OTP and verify immediately.,BankingScam,RBI Impersonation Scam
+Axis alert: This is RBI calling. Your account is under review. Provide your bank details and OTP.,BankingScam,RBI Impersonation Scam
+PNB call: RBI notification. Your account is flagged for suspicious transactions. Provide OTP to verify.,BankingScam,RBI Impersonation Scam
+"SBI automated message: Your current account balance is ₹12,345.",legitimate,legitimate
+"HDFC automated alert: Your account balance is ₹8,900.",legitimate,legitimate
+"ICICI automated notice: Balance inquiry - your balance is ₹15,200.",legitimate,legitimate
+"Axis Bank automated message: Your available balance is ₹7,650.",legitimate,legitimate
+"PNB automated alert: Current balance: ₹10,500.",legitimate,legitimate
+"SBI automated notification: Your balance is ₹9,780.",legitimate,legitimate
+"HDFC automated message: Account balance stands at ₹14,000.",legitimate,legitimate
+"ICICI alert: Your balance is ₹11,230 as per our records.",legitimate,legitimate
+"Axis Bank automated alert: Your account balance is ₹6,450.",legitimate,legitimate
+"PNB notification: Your current balance is ₹8,250.",legitimate,legitimate
+"SBI automated update: Your account balance is ₹12,000.",legitimate,legitimate
+"HDFC alert: Balance inquiry shows ₹10,750 in your account.",legitimate,legitimate
+"ICICI automated message: Your current balance is ₹9,500.",legitimate,legitimate
+"Axis automated alert: Available balance is ₹7,890.",legitimate,legitimate
+"PNB automated notification: Your account balance is ₹13,200.",legitimate,legitimate
+"SBI automated message: Your current balance is ₹11,450.",legitimate,legitimate
+"HDFC automated alert: Your account balance stands at ₹8,300.",legitimate,legitimate
+"ICICI automated update: Balance inquiry shows ₹10,950.",legitimate,legitimate
+"Axis Bank notification: Your balance is ₹7,120.",legitimate,legitimate
+"PNB automated message: Your current balance is ₹9,680.",legitimate,legitimate
+"SBI automated alert: Balance inquiry - ₹12,750 in your account.",legitimate,legitimate
+"HDFC automated notification: Your account balance is ₹8,820.",legitimate,legitimate
+"ICICI message: Automated update - your balance is ₹10,000.",legitimate,legitimate
+"Axis automated alert: Your account shows a balance of ₹7,550.",legitimate,legitimate
+"PNB notification: Current balance is ₹9,400.",legitimate,legitimate
+"SBI automated update: Your balance is ₹11,900.",legitimate,legitimate
+"HDFC alert: Account balance of ₹8,600 detected.",legitimate,legitimate
+"ICICI automated message: Your available balance is ₹10,350.",legitimate,legitimate
+"Axis notification: Automated balance inquiry reveals ₹7,300.",legitimate,legitimate
+"PNB alert: Your current balance is ₹9,050.",legitimate,legitimate
+SBI: Thank you for calling. Please provide your customer ID for account verification.,legitimate,legitimate
+HDFC: Your account verification call is confirmed. Kindly share your customer ID.,legitimate,legitimate
+"ICICI: To verify your account, please confirm your registered mobile number.",legitimate,legitimate
+"Axis Bank: For account verification, please enter your customer ID on our secure line.",legitimate,legitimate
+PNB: Thank you for contacting us. Your account verification is in process.,legitimate,legitimate
+SBI: Account verification successful. Please continue with your query.,legitimate,legitimate
+HDFC: Your identity has been verified. Thank you for confirming your details.,legitimate,legitimate
+ICICI: We have verified your account. Please proceed with your transaction.,legitimate,legitimate
+Axis Bank: Your account verification is complete. How may we assist you further?,legitimate,legitimate
+PNB: Verification successful. Your account is now active.,legitimate,legitimate
+SBI: Your account has been verified. Thank you for your cooperation.,legitimate,legitimate
+HDFC: Account verification complete. Please let us know your requirements.,legitimate,legitimate
+ICICI: Verified. Your account details match our records.,legitimate,legitimate
+Axis Bank: Your account verification is successful. How can we help you today?,legitimate,legitimate
+PNB: Verification complete. Your account is secure.,legitimate,legitimate
+SBI: Thank you for verifying your account with us.,legitimate,legitimate
+HDFC: Your identity has been confirmed. Account verification successful.,legitimate,legitimate
+ICICI: Thank you for confirming your details. Your account is verified.,legitimate,legitimate
+Axis Bank: Verification complete. Your account details have been confirmed.,legitimate,legitimate
+PNB: Your account has been successfully verified. Thank you.,legitimate,legitimate
+SBI: Account verification successful. Please proceed with your request.,legitimate,legitimate
+HDFC: Your identity has been verified. How can we help you today?,legitimate,legitimate
+ICICI: Verification complete. Your account is secure.,legitimate,legitimate
+Axis Bank: Thank you for verifying your account with us.,legitimate,legitimate
+PNB: Your account verification is complete. How may we assist you?,legitimate,legitimate
+"SBI: We are calling to confirm your recent transaction of ₹1,000.",legitimate,legitimate
+"HDFC: Your payment of ₹2,500 has been confirmed. Thank you for banking with us.",legitimate,legitimate
+ICICI: Transaction confirmation: ₹750 payment to a local store has been verified.,legitimate,legitimate
+"Axis Bank: We confirm your recent payment of ₹1,200. Thank you.",legitimate,legitimate
+"PNB: Your transaction of ₹3,000 has been successfully confirmed.",legitimate,legitimate
+SBI: Confirmation received for your payment of ₹500.,legitimate,legitimate
+"HDFC: Your transaction of ₹2,000 has been verified. Thank you.",legitimate,legitimate
+"ICICI: We confirm the payment of ₹1,500 from your account.",legitimate,legitimate
+Axis Bank: Transaction confirmed: ₹900 payment has been processed.,legitimate,legitimate
+"PNB: Your recent transaction of ₹1,800 has been verified.",legitimate,legitimate
+"SBI: Confirmation: ₹2,250 payment successfully processed.",legitimate,legitimate
+"HDFC: Your transaction of ₹1,200 has been confirmed.",legitimate,legitimate
+"ICICI: Payment confirmation: ₹1,000 has been successfully debited.",legitimate,legitimate
+"Axis Bank: We confirm your recent transaction of ₹2,800.",legitimate,legitimate
+PNB: Your payment of ₹750 has been verified.,legitimate,legitimate
+"SBI: Transaction confirmed for your payment of ₹1,600.",legitimate,legitimate
+"HDFC: Confirmation received for your payment of ₹2,100.",legitimate,legitimate
+ICICI: Your transaction of ₹950 has been confirmed.,legitimate,legitimate
+"Axis Bank: Payment confirmation: ₹1,400 processed successfully.",legitimate,legitimate
+"PNB: We confirm your recent transaction of ₹2,500.",legitimate,legitimate
+"SBI: Your payment of ₹1,100 has been confirmed.",legitimate,legitimate
+"HDFC: Transaction confirmation: ₹1,900 successfully processed.",legitimate,legitimate
+"ICICI: Your recent payment of ₹1,350 has been confirmed.",legitimate,legitimate
+"Axis Bank: Confirmation: ₹2,000 payment processed successfully.",legitimate,legitimate
+"PNB: Your transaction of ₹1,750 has been confirmed.",legitimate,legitimate
+"SBI: Payment confirmation: ₹1,300 successfully processed.",legitimate,legitimate
+"HDFC: Your payment of ₹2,600 has been confirmed.",legitimate,legitimate
+"ICICI: Transaction confirmed: ₹1,050 payment verified.",legitimate,legitimate
+"Axis Bank: We confirm your transaction of ₹1,800.",legitimate,legitimate
+"PNB: Your payment of ₹1,900 has been confirmed.",legitimate,legitimate
+SBI: Thank you for calling. How may we assist you today?,legitimate,legitimate
+HDFC: Welcome to customer service. How can we help you?,legitimate,legitimate
+ICICI: Thank you for contacting us. Please let us know your query.,legitimate,legitimate
+Axis Bank: Customer service on standby. How may we assist you?,legitimate,legitimate
+PNB: Welcome to our customer service. How can we help you today?,legitimate,legitimate
+SBI: Thank you for reaching out. Please state your inquiry.,legitimate,legitimate
+HDFC: Our customer service is here to help. What do you need?,legitimate,legitimate
+ICICI: How can we assist you today? Please provide your query.,legitimate,legitimate
+Axis Bank: Thank you for calling. How may we help you with your banking needs?,legitimate,legitimate
+PNB: Our customer service team is ready to assist. Please let us know your query.,legitimate,legitimate
+SBI: Thank you for contacting customer support. How can we help you?,legitimate,legitimate
+HDFC: Welcome to our customer service hotline. What can we do for you today?,legitimate,legitimate
+ICICI: Your inquiry is important. How may we assist you?,legitimate,legitimate
+Axis Bank: Thank you for calling. Please describe your issue.,legitimate,legitimate
+PNB: Our customer support is at your service. How can we help you?,legitimate,legitimate
+SBI: We are here to help. What can we assist you with today?,legitimate,legitimate
+HDFC: Thank you for calling customer support. Please share your query.,legitimate,legitimate
+ICICI: Our support team is ready. How may we help you?,legitimate,legitimate
+Axis Bank: Thank you for contacting customer service. How can we assist?,legitimate,legitimate
+PNB: We appreciate your call. Please let us know your query.,legitimate,legitimate
+SBI: Your inquiry is important to us. How may we assist you today?,legitimate,legitimate
+HDFC: Customer service is here to help. Please provide your query.,legitimate,legitimate
+ICICI: Thank you for reaching out. How can we help you with your banking needs?,legitimate,legitimate
+Axis Bank: Our support team is available. Please state your query.,legitimate,legitimate
+PNB: Thank you for contacting us. How may we assist you today?,legitimate,legitimate
+SBI: Your account details have been updated successfully. Thank you for banking with us.,legitimate,legitimate
+HDFC: Your account statement is now available on our online portal.,legitimate,legitimate
+ICICI: Your recent deposit has been credited. Check your account for details.,legitimate,legitimate
+Axis Bank: Your scheduled maintenance is complete. Thank you for your patience.,legitimate,legitimate
+PNB: Your account information has been updated as per your request.,legitimate,legitimate
+SBI: We have updated your account with your latest transaction details.,legitimate,legitimate
+HDFC: Your account statement is ready for review on our website.,legitimate,legitimate
+ICICI: Your recent transaction details have been updated successfully.,legitimate,legitimate
+Axis Bank: Your account has been updated with the latest activity.,legitimate,legitimate
+PNB: Thank you for banking with us. Your account details have been refreshed.,legitimate,legitimate
+SBI: Your online banking information has been updated successfully.,legitimate,legitimate
+HDFC: Your account information is current. Check your latest statement online.,legitimate,legitimate
+ICICI: Your account update is complete. Thank you for using our services.,legitimate,legitimate
+Axis Bank: Your recent activity has been recorded. Your account details are updated.,legitimate,legitimate
+PNB: Your account information has been successfully updated. Thank you.,legitimate,legitimate
+SBI: Your account statement is now accessible online.,legitimate,legitimate
+HDFC: Your account details have been refreshed. Please check your online statement.,legitimate,legitimate
+ICICI: Your account update is complete. Review your latest transactions online.,legitimate,legitimate
+Axis Bank: Your recent account activity has been updated. Thank you for your patience.,legitimate,legitimate
+PNB: Your account information is updated as per your request.,legitimate,legitimate
+SBI: Your online account details have been refreshed successfully.,legitimate,legitimate
+HDFC: Your account statement is now available. Please check our portal.,legitimate,legitimate
+ICICI: Your recent account update is complete. Thank you for banking with us.,legitimate,legitimate
+Axis Bank: Your account details have been updated. Check your statement online.,legitimate,legitimate
+PNB: Your account has been refreshed with the latest transaction details.,legitimate,legitimate
+Urgent: Your account has been temporarily locked due to multiple failed login attempts. Please call our helpline immediately.,BankingScam,Account Locked
+Alert: Multiple failed login attempts detected. Your account is locked. Confirm your identity by texting your OTP to 12345.,BankingScam,Account Locked
+Warning: Your account is locked due to suspicious activity from an unknown device. Provide your secure PIN now.,BankingScam,Account Locked
+Critical: Account temporarily locked. Immediate action required. Call our secure number and verify your identity with your OTP.,BankingScam,Account Locked
+Notice: Your account appears locked due to multiple login attempts. Reply with your account number to unlock.,BankingScam,Account Locked
+Alert: Your account is locked pending verification. Send your PIN and account details to our secure helpline.,BankingScam,Account Locked
+Urgent: Your account has been locked. Verify your identity by calling our customer support with your secret PIN.,BankingScam,Account Locked
+Warning: Unusual login detected. Your account is locked. Provide your OTP for immediate verification.,BankingScam,Account Locked
+"Notice: Due to security protocols, your account is temporarily locked. Confirm by replying with your customer credentials.",BankingScam,Account Locked
+Alert: Your account has been locked due to suspicious access. Please verify via SMS by sending your OTP.,BankingScam,Account Locked
+"Important: Please re-verify your banking details. Reply with your username, password, and PIN to secure your account.",BankingScam,Phishing Scam
+Alert: Your account requires immediate re-verification. Send your login credentials and security answers to our support team.,BankingScam,Phishing Scam
+"Urgent: Update your account information by replying with your full credentials, including password and secret answers.",BankingScam,Phishing Scam
+"Warning: Suspicious activity detected. To secure your account, reply with your complete login details immediately.",BankingScam,Phishing Scam
+"Notice: Account verification needed. Please send your username, password, and OTP to confirm your identity.",BankingScam,Phishing Scam
+Important: Your account is at risk. Provide your banking login details and security PIN to secure your funds.,BankingScam,Phishing Scam
+Critical: Verify your account by sending your complete login credentials. Immediate action is required.,BankingScam,Phishing Scam
+"Alert: Your secure login needs re-validation. Reply with your account credentials, including password and PIN.",BankingScam,Phishing Scam
+Urgent: Confirm your account details. Send your login information and OTP immediately to avoid suspension.,BankingScam,Phishing Scam
+"Notice: For security purposes, reply with your full login details to verify your account now.",BankingScam,Phishing Scam
+"Important: Due to new regulatory requirements, update your account details by sending your personal and banking info immediately.",BankingScam,Regulatory Scam
+"Alert: Regulatory update required. Provide your Aadhaar, PAN, and bank account number for immediate verification.",BankingScam,Regulatory Scam
+Notice: Your account must comply with new regulations. Send your KYC details now to avoid suspension.,BankingScam,Regulatory Scam
+Critical: Regulatory compliance alert. Update your profile with your full personal details to secure your account.,BankingScam,Regulatory Scam
+Urgent: New government regulations require immediate update of your KYC. Send your Aadhaar and PAN details today.,BankingScam,Regulatory Scam
+"Alert: In order to comply with recent banking regulations, please update your account information by providing your identification details.",BankingScam,Regulatory Scam
+"Important: Regulatory check pending. Provide your full KYC details, including address and ID proof, to avoid account restrictions.",BankingScam,Regulatory Scam
+Notice: Your account is subject to new regulatory standards. Submit your identification documents immediately.,BankingScam,Regulatory Scam
+Critical: Update required for regulatory compliance. Send your complete KYC details without delay.,BankingScam,Regulatory Scam
+"Alert: New regulations mandate immediate verification of your identity. Provide your Aadhaar, PAN, and bank details now.",BankingScam,Regulatory Scam
+Notice: Unsolicited verification required. Reply with your account number and registered mobile number to confirm your identity.,BankingScam,Unsolicited Verification Scam
+"Alert: For security reasons, we need to verify your account. Please send your customer ID and registered email.",BankingScam,Unsolicited Verification Scam
+Important: Your account verification is pending. Reply with your account details and security code now.,BankingScam,Unsolicited Verification Scam
+Urgent: Confirm your identity by replying with your account number and secret PIN immediately.,BankingScam,Unsolicited Verification Scam
+Notice: Unsolicited verification alert. Provide your customer ID and OTP to verify your account.,BankingScam,Unsolicited Verification Scam
+"Alert: For immediate account verification, reply with your account number and full name.",BankingScam,Unsolicited Verification Scam
+Important: Your account requires verification. Send your customer ID and contact details to confirm.,BankingScam,Unsolicited Verification Scam
+Notice: Verify your identity now by replying with your account number and registered phone number.,BankingScam,Unsolicited Verification Scam
+Alert: Unsolicited verification call. Confirm your account details by sending your customer ID and OTP.,BankingScam,Unsolicited Verification Scam
+Urgent: Your account must be verified. Reply with your full account details and registered email.,BankingScam,Unsolicited Verification Scam
+"Alert: This is a secure bank message. For immediate security, call our hotline and provide your OTP and account password.",BankingScam,Hybrid Scam
+Important: Your account is flagged for suspicious activity. Call the provided number and verify your identity with both your OTP and login credentials.,BankingScam,Hybrid Scam
+"Notice: Security update required. Contact our support center immediately and confirm your details, including OTP and password.",BankingScam,Hybrid Scam
+"Urgent: To secure your account, call our customer service with your OTP and full login credentials.",BankingScam,Hybrid Scam
+Critical: Your account may be at risk. Call our secure line and provide both your OTP and account details for verification.,BankingScam,Hybrid Scam
+Alert: Immediate action needed. Verify your identity by calling us with your OTP and confidential login info.,BankingScam,Hybrid Scam
+Notice: Security breach detected. Contact our verified hotline with your OTP and complete credentials.,BankingScam,Hybrid Scam
+Important: Your account requires urgent verification. Call our number with your OTP and account password now.,BankingScam,Hybrid Scam
+"Urgent: To prevent unauthorized access, call our security desk with both your OTP and full login details.",BankingScam,Hybrid Scam
+Alert: Verify your account now by calling our hotline and providing your OTP along with your confidential details.,BankingScam,Hybrid Scam
+"Warning: Suspicious activity detected. Reply with your account number, IFSC code, and branch details for verification.",BankingScam,Information Phishing
+Alert: Confirm your identity by sending your full bank account information including account number and branch code.,BankingScam,Information Phishing
+"Important: Provide your complete account details, including account number and branch information, to secure your funds.",BankingScam,Information Phishing
+"Notice: Your account needs verification. Reply with your bank account number, branch details, and registered email.",BankingScam,Information Phishing
+"Warning: To verify your identity, send your account number, IFSC code, and branch address immediately.",BankingScam,Information Phishing
+Alert: Confirm your bank account details by replying with your account number and branch information.,BankingScam,Information Phishing
+"Important: For verification, please send your complete account details including branch code and IFSC.",BankingScam,Information Phishing
+"Notice: Your account verification requires your bank details. Reply with account number, branch code, and contact info.",BankingScam,Information Phishing
+"Alert: Provide your bank account details, including IFSC and branch address, for immediate verification.",BankingScam,Information Phishing
+"Warning: To secure your account, reply with your full bank details, including account number and branch info.",BankingScam,Information Phishing
+Alert: Your account has been blocked due to unusual activity. Confirm by sending your OTP immediately.,BankingScam,Account Blocked
+Important: We have detected irregular transactions. Your account is blocked. Provide your OTP to restore access.,BankingScam,Account Blocked
+Notice: Your account is blocked pending verification. Reply with your OTP and customer ID to unblock.,BankingScam,Account Blocked
+Warning: Account blocked due to multiple security alerts. Confirm your identity by sending your OTP now.,BankingScam,Account Blocked
+"Urgent: Your account is currently blocked. To reactivate, reply with your OTP immediately.",BankingScam,Account Blocked
+Alert: Suspicious transactions led to account block. Provide your OTP to verify your identity.,BankingScam,Account Blocked
+Notice: Your account has been blocked for security reasons. Confirm with your OTP to regain access.,BankingScam,Account Blocked
+"Warning: Due to suspicious activity, your account is blocked. Reply with your OTP for immediate unblocking.",BankingScam,Account Blocked
+Critical: Account block in effect. Provide your OTP to confirm your identity and unlock your account.,BankingScam,Account Blocked
+Alert: Your account is blocked. Send your OTP promptly to restore your banking services.,BankingScam,Account Blocked
+Urgent: Your KYC is outdated. Reply with your Aadhaar and PAN details to update your records.,BankingScam,KYC Scam
+Alert: KYC update required immediately. Provide your Aadhaar number and address details via reply.,BankingScam,KYC Scam
+Notice: Your KYC details are incomplete. Send your Aadhaar and PAN information to avoid account suspension.,BankingScam,KYC Scam
+"Important: KYC verification pending. Reply with your Aadhaar, PAN, and bank account number now.",BankingScam,KYC Scam
+Warning: Your KYC status is incomplete. Provide your Aadhaar and full address for immediate update.,BankingScam,KYC Scam
+Alert: Incomplete KYC detected. Update your details by sending your Aadhaar and identification number.,BankingScam,KYC Scam
+Notice: Your account requires KYC update. Provide your Aadhaar and PAN details as soon as possible.,BankingScam,KYC Scam
+Important: KYC verification needed. Reply with your Aadhaar number and address to update your profile.,BankingScam,KYC Scam
+"Alert: Your KYC is pending update. Provide your Aadhaar, PAN, and contact information to secure your account.",BankingScam,KYC Scam
+Urgent: Complete your KYC process now. Send your Aadhaar and other required details immediately.,BankingScam,KYC Scam
+Warning: A suspicious transaction was detected on your account. Transfer funds to our verified safe account immediately.,BankingScam,Fraudulent Transaction
+Alert: Unapproved transaction detected. Immediately transfer the disputed amount to our secure account.,BankingScam,Fraudulent Transaction
+"Notice: Fraudulent activity noticed. To secure your funds, move the transaction amount to a safe holding account.",BankingScam,Fraudulent Transaction
+Important: Your account shows an unauthorized transaction. Transfer the funds to our safe account to protect your assets.,BankingScam,Fraudulent Transaction
+Alert: Suspicious transaction identified. Immediately transfer the disputed funds to our designated safe account.,BankingScam,Fraudulent Transaction
+Notice: Fraud alert! An unrecognized transaction occurred. Transfer funds to a secure account to avoid further loss.,BankingScam,Fraudulent Transaction
+Urgent: Unapproved funds movement detected. Transfer the amount to our secure account immediately to reverse the transaction.,BankingScam,Fraudulent Transaction
+Warning: Your account was accessed for an unauthorized transaction. Move funds to our safe account for verification.,BankingScam,Fraudulent Transaction
+Alert: Fraudulent transaction detected. Transfer the suspicious amount to our verified safe account without delay.,BankingScam,Fraudulent Transaction
+"Notice: Unusual transaction detected. For security, transfer funds to our designated safe account immediately.",BankingScam,Fraudulent Transaction
+Congratulations: You are pre-approved for a loan. Just send a processing fee to claim your funds.,BankingScam,Loan Offer Scam
+Alert: Special loan offer available. Provide your bank details and processing fee to secure the funds.,BankingScam,Loan Offer Scam
+Important: Loan pre-approval! Reply with your bank account details and pay the processing fee to claim your loan.,BankingScam,Loan Offer Scam
+Notice: Secure your pre-approved loan by sending a small fee. Provide your bank details for disbursement.,BankingScam,Loan Offer Scam
+Alert: Exclusive loan offer! Confirm your eligibility by paying a processing fee and sharing your bank details.,BankingScam,Loan Offer Scam
+"Congratulations: You qualify for a special loan. To proceed, pay the processing fee and provide your account details.",BankingScam,Loan Offer Scam
+Urgent: Loan offer available! Send your processing fee and bank information to unlock your funds.,BankingScam,Loan Offer Scam
+Notice: Pre-approved loan alert. Provide your bank details and fee to claim your special loan offer.,BankingScam,Loan Offer Scam
+Alert: Special loan offer! Confirm your eligibility by sending a small processing fee and bank account details.,BankingScam,Loan Offer Scam
+"Important: Pre-approved loan available. To receive funds, pay the processing fee and share your bank details now.",BankingScam,Loan Offer Scam
+Alert: Exclusive credit card offer available. Send your Aadhaar and PAN details to apply for a high-limit card.,BankingScam,Credit Card Scam
+Important: Pre-approved credit card offer! Reply with your personal details to secure a high credit limit.,BankingScam,Credit Card Scam
+Notice: You are eligible for a premium credit card. Provide your Aadhaar and PAN details for verification.,BankingScam,Credit Card Scam
+Alert: High-limit credit card offer! Confirm your eligibility by sending your identification details immediately.,BankingScam,Credit Card Scam
+Warning: Secure a premium credit card by providing your Aadhaar and PAN. Limited time offer.,BankingScam,Credit Card Scam
+Important: Credit card upgrade available! Reply with your personal details to receive a high-limit card.,BankingScam,Credit Card Scam
+Notice: Exclusive offer for a credit card with enhanced benefits. Provide your Aadhaar and PAN for application.,BankingScam,Credit Card Scam
+Alert: You qualify for a high-limit credit card. Confirm by sending your personal and identification details.,BankingScam,Credit Card Scam
+Important: Secure a premium credit card now. Reply with your Aadhaar and PAN to apply immediately.,BankingScam,Credit Card Scam
+Notice: High-limit credit card offer available. Provide your personal details and secure your application now.,BankingScam,Credit Card Scam
+Alert: This is RBI. Your account is under investigation for suspicious activity. Provide your OTP immediately.,BankingScam,RBI Impersonation Scam
+Important: RBI alert! Your account has been flagged. Confirm with your bank details and OTP.,BankingScam,RBI Impersonation Scam
+Notice: This is a security call from RBI. Your account is compromised. Provide your OTP and customer ID.,BankingScam,RBI Impersonation Scam
+Urgent: RBI notification. Your account is under review. Reply with your OTP and account details immediately.,BankingScam,RBI Impersonation Scam
+Alert: RBI security alert! Your account is flagged for suspicious transactions. Provide your OTP to secure it.,BankingScam,RBI Impersonation Scam
+Important: This is an RBI call. Your account is under scrutiny. Send your OTP and bank details immediately.,BankingScam,RBI Impersonation Scam
+Notice: RBI verification needed. Your account is flagged. Provide your OTP and registered mobile number for confirmation.,BankingScam,RBI Impersonation Scam
+Alert: RBI notification. Your account is being monitored. Confirm with your OTP and customer ID without delay.,BankingScam,RBI Impersonation Scam
+Urgent: This is RBI. Your account is under investigation. Provide your OTP and account number to secure it.,BankingScam,RBI Impersonation Scam
+Notice: RBI alert! Your account is flagged. Send your OTP and verify your identity immediately.,BankingScam,RBI Impersonation Scam
+Urgent: Suspicious login detected on your account. Click the link provided to verify your identity immediately.,BankingScam,Miscellaneous Scam
+Alert: Your bank account security is at risk. Download our 'secure app' and enter your credentials for verification.,BankingScam,Miscellaneous Scam
+Important: Verify your account now. Visit our temporary website and input your login details to confirm your identity.,BankingScam,Miscellaneous Scam
+Notice: Your account security is compromised. Text your full account credentials to our short-code number for immediate action.,BankingScam,Miscellaneous Scam
+Warning: Unusual activity detected. Update your account immediately by calling the number on your screen and providing your password.,BankingScam,Miscellaneous Scam
+Alert: Your bank account is at risk. Reply to this message with your complete account login information to secure your funds.,BankingScam,Miscellaneous Scam
+"Important: For your security, confirm your identity by following the link provided and entering your confidential details.",BankingScam,Miscellaneous Scam
+Notice: Your account has been flagged for suspicious behavior. Verify immediately by calling our dedicated number and providing sensitive details.,BankingScam,Miscellaneous Scam
+Urgent: Your bank account may be under cyber attack. Click the provided link and enter your login information for verification.,BankingScam,Miscellaneous Scam
+Alert: Confirm your identity now. Reply with your full banking credentials to secure your account before it is locked.,BankingScam,Miscellaneous Scam
+Important: Your account security update is pending. Call our helpline and provide your login details for immediate verification.,BankingScam,Miscellaneous Scam
+Notice: This is an urgent security message. Reply with your account details and password to confirm your identity.,BankingScam,Miscellaneous Scam
+Warning: A security breach is suspected. Update your account by sending your complete login credentials to our secure server.,BankingScam,Miscellaneous Scam
+Alert: Your online banking session has been compromised. Reply with your credentials to regain control of your account.,BankingScam,Miscellaneous Scam
+Important: Immediate action required. Text your account number and password to our customer service for urgent verification.,BankingScam,Miscellaneous Scam
+"Notice: For security purposes, reply with your login details and security question answers to verify your account.",BankingScam,Miscellaneous Scam
+Urgent: Account alert! Provide your full online banking credentials immediately to avoid suspension.,BankingScam,Miscellaneous Scam
+Alert: Your account has suspicious activity. Verify by replying with your customer ID and account password.,BankingScam,Miscellaneous Scam
+Important: A security check is needed. Send your login information and secret answer to confirm your identity.,BankingScam,Miscellaneous Scam
+Notice: Unverified login detected. Confirm your identity by texting your username and password to our service number.,BankingScam,Miscellaneous Scam
+"Warning: Your account is at risk. Reply with your complete login details, including password and security code, for verification.",BankingScam,Miscellaneous Scam
+Alert: Confirm your banking details now. Provide your login credentials to our secure hotline immediately.,BankingScam,Miscellaneous Scam
+Important: Your account is experiencing irregular access. Send your full login details for a security review.,BankingScam,Miscellaneous Scam
+Notice: Security alert. Reply with your online banking credentials to secure your account from potential fraud.,BankingScam,Miscellaneous Scam
+Urgent: Your account requires immediate attention. Provide your complete login information to verify your identity.,BankingScam,Miscellaneous Scam
+"Alert: For immediate account protection, reply with your user ID and password to verify your account activity.",BankingScam,Miscellaneous Scam
+Important: Confirm your identity now. Send your complete banking login details to our secure service number.,BankingScam,Miscellaneous Scam
+Notice: Account security check. Provide your full login credentials immediately to avoid unauthorized access.,BankingScam,Miscellaneous Scam
+Warning: Your account is at risk of unauthorized access. Reply with your full banking credentials for immediate security verification.,BankingScam,Miscellaneous Scam
+Alert: Unusual account activity detected. Confirm your identity by sending your complete login details to our secure line.,BankingScam,Miscellaneous Scam
+"SBI: Your account balance is ₹12,345. Thank you for using our digital banking services.",legitimate,legitimate
+"HDFC: Your account balance as of today is ₹8,900. No action is required.",legitimate,legitimate
+ICICI: Your transaction of ₹500 at the local store has been successfully processed.,legitimate,legitimate
+Axis Bank: Thank you for contacting customer service. Your account has been verified.,legitimate,legitimate
+"PNB: Your recent deposit of ₹2,000 has been credited to your account. Please check your statement.",legitimate,legitimate
+"SBI: Automated message: Your current balance is ₹10,500.",legitimate,legitimate
+"HDFC: Your secure transaction of ₹1,200 has been completed successfully.",legitimate,legitimate
+ICICI: Your online banking login was successful. No further verification is needed.,legitimate,legitimate
+Axis Bank: Thank you for updating your account information. Your details have been verified.,legitimate,legitimate
+PNB: Your request for account statement has been processed. Please check your registered email.,legitimate,legitimate
+SBI: Your scheduled maintenance is complete. Your online banking services are fully operational.,legitimate,legitimate
+HDFC: Your recent transaction of ₹750 has been confirmed. Thank you for banking with us.,legitimate,legitimate
+ICICI: Your loan application has been approved. Details have been sent to your registered email.,legitimate,legitimate
+"Axis Bank: Your credit card payment of ₹1,000 has been received and processed.",legitimate,legitimate
+PNB: Your account verification call was initiated by you and has been successfully completed.,legitimate,legitimate
+"SBI: Thank you for contacting us. Your balance inquiry shows ₹11,250 in your account.",legitimate,legitimate
+HDFC: Your secure session is active. Please continue to enjoy our digital banking services.,legitimate,legitimate
+"ICICI: Your recent payment of ₹2,300 has been confirmed. Please review your transaction history online.",legitimate,legitimate
+Axis Bank: Your account details have been updated. No further action is required from your end.,legitimate,legitimate
+PNB: Your secure customer service call was successful. How can we further assist you?,legitimate,legitimate
+"SBI: Your recent ATM withdrawal of ₹2,000 has been processed. Thank you for banking with us.",legitimate,legitimate
+"HDFC: We confirm your recent online purchase of ₹1,500. Your account has been debited accordingly.",legitimate,legitimate
+ICICI: Your account statement is now available for download on our secure portal.,legitimate,legitimate
+Axis Bank: Your last transaction has been successfully verified. Thank you for choosing our services.,legitimate,legitimate
+PNB: Your inquiry regarding interest rates has been processed. Please visit our website for details.,legitimate,legitimate
+"SBI: Your recent balance update shows ₹13,000 in your account. No action is required.",legitimate,legitimate
+HDFC: Your online banking session is secure. All transactions have been processed correctly.,legitimate,legitimate
+"ICICI: Your fund transfer of ₹3,200 has been successfully completed. Thank you for banking with us.",legitimate,legitimate
+Axis Bank: Your scheduled maintenance has been completed. Your account is now updated.,legitimate,legitimate
+PNB: Your digital banking services are active. Your recent deposit has been credited to your account.,legitimate,legitimate
+SBI: Your customer service request regarding account details has been logged. A representative will contact you shortly.,legitimate,legitimate
+HDFC: Your secure banking query has been received. Please check your email for further instructions.,legitimate,legitimate
+ICICI: Your account security update is complete. Thank you for confirming your details online.,legitimate,legitimate
+Axis Bank: Your customer service interaction has been successful. Your query has been recorded.,legitimate,legitimate
+PNB: Your inquiry has been processed. Please review your account details on our official website.,legitimate,legitimate
+SBI: Thank you for updating your information. Your account has been verified and updated.,legitimate,legitimate
+HDFC: Your recent fund transfer has been processed. Your account reflects the updated balance.,legitimate,legitimate
+ICICI: Your secure payment of ₹900 has been confirmed. No further verification is required.,legitimate,legitimate
+Axis Bank: Your account details have been confirmed. Thank you for using our secure banking services.,legitimate,legitimate
+PNB: Your recent online transaction has been successfully verified. Please check your account statement.,legitimate,legitimate
+SBI: Your scheduled service maintenance is complete. Your account functions normally.,legitimate,legitimate
+HDFC: Your automated balance inquiry shows an updated balance. Thank you for using our online services.,legitimate,legitimate
+"ICICI: Your recent deposit of ₹2,750 has been credited. Please review your transaction history.",legitimate,legitimate
+Axis Bank: Your account verification was successful. No further action is required.,legitimate,legitimate
+PNB: Your secure login was successful. Thank you for using our online banking services.,legitimate,legitimate
+SBI: Your account update is complete. Please check your latest statement online.,legitimate,legitimate
+HDFC: Your credit card payment has been processed. Your account reflects the updated status.,legitimate,legitimate
+ICICI: Your customer service request has been recorded. A representative will contact you soon.,legitimate,legitimate
+Axis Bank: Your recent online inquiry was successful. Your account details are up-to-date.,legitimate,legitimate
+"PNB: Your secure transaction of ₹1,400 has been completed. Thank you for banking with us.",legitimate,legitimate
+SBI: Your online statement is now available. Please log in to your account to review the details.,legitimate,legitimate
+"HDFC: Your transaction of ₹2,200 has been confirmed. Thank you for using our secure banking platform.",legitimate,legitimate
+ICICI: Your account details have been updated following your recent inquiry.,legitimate,legitimate
+Axis Bank: Your recent deposit has been credited successfully. No further action is required.,legitimate,legitimate
+PNB: Your secure online service is active. Your account has been updated with the latest transactions.,legitimate,legitimate
+SBI: Your digital banking profile has been verified. Thank you for updating your information.,legitimate,legitimate
+HDFC: Your recent inquiry regarding transaction history has been resolved. Check your account for details.,legitimate,legitimate
+"ICICI: Your payment of ₹1,600 has been processed. Your account reflects the updated balance.",legitimate,legitimate
+Axis Bank: Your online banking access is confirmed. Thank you for using our secure services.,legitimate,legitimate
+PNB: Your scheduled update is complete. Please log in to review your updated account information.,legitimate,legitimate
+SBI: Your recent fund transfer has been confirmed and reflected in your account balance.,legitimate,legitimate
+HDFC: Your online transaction has been verified. Thank you for choosing our digital banking services.,legitimate,legitimate
+ICICI: Your account security settings have been updated successfully. No further action is required.,legitimate,legitimate
+Axis Bank: Your customer request for account details has been processed. Please check your email for confirmation.,legitimate,legitimate
+PNB: Your secure inquiry regarding loan details has been received. A representative will contact you shortly.,legitimate,legitimate
+SBI: Your online banking experience remains secure. Your recent transactions are up-to-date.,legitimate,legitimate
+HDFC: Your recent payment of ₹850 has been confirmed and processed successfully.,legitimate,legitimate
+ICICI: Your account verification process was initiated by you and has been completed.,legitimate,legitimate
+Axis Bank: Your updated account statement is available online. Thank you for banking with us.,legitimate,legitimate
+PNB: Your secure login was verified. Your account details remain unchanged.,legitimate,legitimate
+SBI: Your account balance is up-to-date. Thank you for using our automated banking services.,legitimate,legitimate
+"HDFC: Your recent online payment of ₹1,250 has been confirmed. No further action is needed.",legitimate,legitimate
+ICICI: Your online inquiry has been processed. Your account details have been verified.,legitimate,legitimate
+Axis Bank: Your scheduled service update is complete. Your online banking remains secure.,legitimate,legitimate
+PNB: Your account statement has been refreshed. Please log in to review the latest transactions.,legitimate,legitimate
+SBI: Your customer request for balance information has been processed successfully.,legitimate,legitimate
+"HDFC: Your secure transaction of ₹2,050 has been completed. Your account is up-to-date.",legitimate,legitimate
+ICICI: Your online banking session was verified. No further verification is required.,legitimate,legitimate
+Axis Bank: Your recent inquiry regarding account security has been addressed. Please review your settings online.,legitimate,legitimate
+PNB: Your account services remain active. Your recent online activity has been logged successfully.,legitimate,legitimate
+SBI: Your customer service query has been resolved. A confirmation email has been sent to your registered address.,legitimate,legitimate
+HDFC: Your account details have been verified and updated. Thank you for using our secure banking platform.,legitimate,legitimate
+ICICI: Your secure online transaction has been completed. Your account balance is now updated.,legitimate,legitimate
+Axis Bank: Your scheduled maintenance is complete. Thank you for your patience during the update process.,legitimate,legitimate
+PNB: Your online banking profile has been updated. Please review your latest account statement.,legitimate,legitimate
+SBI: Your account information has been updated in our records. Thank you for using our online services.,legitimate,legitimate
+"HDFC: Your recent payment of ₹1,700 has been processed successfully. Your account reflects the update.",legitimate,legitimate
+ICICI: Your secure online inquiry regarding account balance has been confirmed.,legitimate,legitimate
+Axis Bank: Your account verification process was successful. No additional action is needed.,legitimate,legitimate
+PNB: Your recent online transaction has been verified and your account updated accordingly.,legitimate,legitimate
+SBI: Your digital banking profile has been refreshed. Thank you for your continued trust in our services.,legitimate,legitimate
+HDFC: Your customer service request regarding transaction details has been processed. Please review your statement.,legitimate,legitimate
+ICICI: Your secure login has been confirmed. Your online banking session is active.,legitimate,legitimate
+Axis Bank: Your account details have been successfully updated. No further verification is required.,legitimate,legitimate
+PNB: Your recent payment has been processed. Thank you for using our secure online banking platform.,legitimate,legitimate
+SBI: Your automated balance inquiry confirms your account balance is accurate.,legitimate,legitimate
+HDFC: Your recent secure transaction has been recorded. Your account remains in good standing.,legitimate,legitimate
+ICICI: Your online inquiry regarding account details has been completed successfully.,legitimate,legitimate
+Axis Bank: Your scheduled system update is complete. Your account details are now current.,legitimate,legitimate
+PNB: Your digital banking statement is now available. Please log in to review your account activity.,legitimate,legitimate
+SBI: Your recent customer service call was successful. Your query has been logged.,legitimate,legitimate
+"HDFC: Your secure transaction of ₹2,100 has been confirmed. Thank you for banking with us.",legitimate,legitimate
+ICICI: Your account update is complete. No further action is required from your side.,legitimate,legitimate
+Axis Bank: Your online banking login was verified successfully. Your account remains secure.,legitimate,legitimate
+PNB: Your secure online service confirms your account is active. Thank you for your continued trust.,legitimate,legitimate
+SBI: Your online statement shows all transactions are up-to-date. Thank you for choosing our services.,legitimate,legitimate
+HDFC: Your account balance inquiry has been processed. Your current balance is accurate.,legitimate,legitimate
+ICICI: Your digital banking profile has been successfully verified and updated.,legitimate,legitimate
+Axis Bank: Your scheduled maintenance is complete. Your online account is fully updated.,legitimate,legitimate
+PNB: Your secure online banking system confirms all recent transactions are correct.,legitimate,legitimate
+SBI: Your customer service request has been resolved. Please review your updated account details online.,legitimate,legitimate
+HDFC: Your account has been securely updated following your recent inquiry.,legitimate,legitimate
+ICICI: Your recent payment has been processed and confirmed. Thank you for banking with us.,legitimate,legitimate
+Axis Bank: Your account information is current. No further updates are necessary.,legitimate,legitimate
+PNB: Your secure online transaction history has been refreshed. Thank you for using our digital services.,legitimate,legitimate
+SBI: Your account is secure and up-to-date. Thank you for using our trusted online banking platform.,legitimate,legitimate
+HDFC: Your recent online fund transfer has been confirmed. Your account reflects the updated balance.,legitimate,legitimate
+ICICI: Your secure customer service request has been processed. Please check your email for details.,legitimate,legitimate
+Axis Bank: Your account verification call was initiated by you and has been completed successfully.,legitimate,legitimate
+PNB: Your digital banking inquiry regarding account details has been resolved. Thank you for contacting us.,legitimate,legitimate
+SBI: Your online banking profile has been updated. Your recent transactions are visible on our portal.,legitimate,legitimate
+"HDFC: Your secure payment of ₹1,050 has been confirmed. Your account remains in good standing.",legitimate,legitimate
+ICICI: Your account details have been successfully verified. Thank you for using our online services.,legitimate,legitimate
+Axis Bank: Your recent customer service interaction has been successful. Please review your email for confirmation.,legitimate,legitimate
+"PNB: Your secure transaction of ₹1,750 has been processed. Your account balance is updated accordingly.",legitimate,legitimate
+SBI: Your account inquiry was successful. Your latest statement is now available on our official website.,legitimate,legitimate
+"HDFC: Your recent online transaction of ₹2,400 has been confirmed. Thank you for banking with us.",legitimate,legitimate
+ICICI: Your secure online login was successful. Your account remains fully operational.,legitimate,legitimate
+Axis Bank: Your scheduled account update is complete. Your digital banking services remain active.,legitimate,legitimate
+PNB: Your account has been verified and updated. Thank you for using our secure online platform.,legitimate,legitimate
+SBI: Your online banking query has been resolved. Please check your updated account details.,legitimate,legitimate
+"HDFC: Your secure payment of ₹1,300 has been processed successfully. Your account is updated.",legitimate,legitimate
+ICICI: Your digital banking session is active. Your recent transactions have been recorded.,legitimate,legitimate
+Axis Bank: Your account inquiry confirms your details are current. Thank you for using our services.,legitimate,legitimate
+PNB: Your secure online banking services remain active. Your account information is up-to-date.,legitimate,legitimate
+SBI: Your recent transaction history has been updated. Thank you for choosing our digital banking services.,legitimate,legitimate
+HDFC: Your online banking session has been verified. Your account remains secure.,legitimate,legitimate
+ICICI: Your secure account update is complete. Please review your latest statement on our website.,legitimate,legitimate
+Axis Bank: Your recent customer service call has been successfully recorded. No further action is needed.,legitimate,legitimate
+PNB: Your online banking details have been updated. Thank you for your continued trust in our services.,legitimate,legitimate
+SBI: Your account balance remains secure. Please check your statement for the latest updates.,legitimate,legitimate
+HDFC: Your secure online inquiry regarding recent transactions has been completed.,legitimate,legitimate
+ICICI: Your account has been updated successfully. Thank you for using our digital banking platform.,legitimate,legitimate
+Axis Bank: Your recent inquiry regarding account security has been confirmed. No further action is required.,legitimate,legitimate
+PNB: Your digital banking services are active and secure. Thank you for banking with us.,legitimate,legitimate
+Live Call from SBI: Your account has been blocked due to suspicious activity. Please provide your OTP immediately. [Case 1],BankingScam,Account Blocked
+Live Call from HDFC: Suspicious transaction detected. Verify and secure your funds immediately. [Case 2],BankingScam,Fraudulent Transaction
+Live Call from ICICI: Your KYC is incomplete. Kindly provide your Aadhaar and PAN details to update your records. [Case 3],BankingScam,KYC Verification
+Live Call from Axis: You are pre-approved for a loan. Please pay the processing fee to claim your funds. [Case 4],BankingScam,Loan Offer
+Live Call from PNB: Unusual activity noticed on your credit card. Verify your card details immediately. [Case 5],BankingScam,Credit Card Scam
+Live Call: This is the Reserve Bank speaking on behalf of Kotak. Urgent verification is needed. Reply with your OTP. [Case 6],BankingScam,RBI Impersonation Scam
+Live Call from SBI: Your account has been blocked due to suspicious activity. Please provide your OTP immediately. [Case 7],BankingScam,Account Blocked
+Live Call from HDFC: Suspicious transaction detected. Verify and secure your funds immediately. [Case 8],BankingScam,Fraudulent Transaction
+Live Call from ICICI: Your KYC is incomplete. Kindly provide your Aadhaar and PAN details to update your records. [Case 9],BankingScam,KYC Verification
+Live Call from Axis: You are pre-approved for a loan. Please pay the processing fee to claim your funds. [Case 10],BankingScam,Loan Offer
+Live Call from PNB: Unusual activity noticed on your credit card. Verify your card details immediately. [Case 11],BankingScam,Credit Card Scam
+Live Call: This is the Reserve Bank speaking on behalf of Kotak. Urgent verification is needed. Reply with your OTP. [Case 12],BankingScam,RBI Impersonation Scam
+Live Call from SBI: Your account has been blocked due to suspicious activity. Please provide your OTP immediately. [Case 13],BankingScam,Account Blocked
+Live Call from HDFC: Suspicious transaction detected. Verify and secure your funds immediately. [Case 14],BankingScam,Fraudulent Transaction
+Live Call from ICICI: Your KYC is incomplete. Kindly provide your Aadhaar and PAN details to update your records. [Case 15],BankingScam,KYC Verification
+Live Call from Axis: You are pre-approved for a loan. Please pay the processing fee to claim your funds. [Case 16],BankingScam,Loan Offer
+Live Call from PNB: Unusual activity noticed on your credit card. Verify your card details immediately. [Case 17],BankingScam,Credit Card Scam
+Live Call: This is the Reserve Bank speaking on behalf of Kotak. Urgent verification is needed. Reply with your OTP. [Case 18],BankingScam,RBI Impersonation Scam
+Live Call from SBI: Your account has been blocked due to suspicious activity. Please provide your OTP immediately. [Case 19],BankingScam,Account Blocked
+Live Call from HDFC: Suspicious transaction detected. Verify and secure your funds immediately. [Case 20],BankingScam,Fraudulent Transaction
+Live Call from ICICI: Your KYC is incomplete. Kindly provide your Aadhaar and PAN details to update your records. [Case 21],BankingScam,KYC Verification
+Live Call from Axis: You are pre-approved for a loan. Please pay the processing fee to claim your funds. [Case 22],BankingScam,Loan Offer
+Live Call from PNB: Unusual activity noticed on your credit card. Verify your card details immediately. [Case 23],BankingScam,Credit Card Scam
+Live Call: This is the Reserve Bank speaking on behalf of Kotak. Urgent verification is needed. Reply with your OTP. [Case 24],BankingScam,RBI Impersonation Scam
+Live Call from SBI: Your account has been blocked due to suspicious activity. Please provide your OTP immediately. [Case 25],BankingScam,Account Blocked
+Live Call from HDFC: Suspicious transaction detected. Verify and secure your funds immediately. [Case 26],BankingScam,Fraudulent Transaction
+Live Call from ICICI: Your KYC is incomplete. Kindly provide your Aadhaar and PAN details to update your records. [Case 27],BankingScam,KYC Verification
+Live Call from Axis: You are pre-approved for a loan. Please pay the processing fee to claim your funds. [Case 28],BankingScam,Loan Offer
+Live Call from PNB: Unusual activity noticed on your credit card. Verify your card details immediately. [Case 29],BankingScam,Credit Card Scam
+Live Call: This is the Reserve Bank speaking on behalf of Kotak. Urgent verification is needed. Reply with your OTP. [Case 30],BankingScam,RBI Impersonation Scam
+Live Call from SBI: Your account has been blocked due to suspicious activity. Please provide your OTP immediately. [Case 31],BankingScam,Account Blocked
+Live Call from HDFC: Suspicious transaction detected. Verify and secure your funds immediately. [Case 32],BankingScam,Fraudulent Transaction
+Live Call from ICICI: Your KYC is incomplete. Kindly provide your Aadhaar and PAN details to update your records. [Case 33],BankingScam,KYC Verification
+Live Call from Axis: You are pre-approved for a loan. Please pay the processing fee to claim your funds. [Case 34],BankingScam,Loan Offer
+Live Call from PNB: Unusual activity noticed on your credit card. Verify your card details immediately. [Case 35],BankingScam,Credit Card Scam
+Live Call: This is the Reserve Bank speaking on behalf of Kotak. Urgent verification is needed. Reply with your OTP. [Case 36],BankingScam,RBI Impersonation Scam
+Live Call from SBI: Your account has been blocked due to suspicious activity. Please provide your OTP immediately. [Case 37],BankingScam,Account Blocked
+Live Call from HDFC: Suspicious transaction detected. Verify and secure your funds immediately. [Case 38],BankingScam,Fraudulent Transaction
+Live Call from ICICI: Your KYC is incomplete. Kindly provide your Aadhaar and PAN details to update your records. [Case 39],BankingScam,KYC Verification
+Live Call from Axis: You are pre-approved for a loan. Please pay the processing fee to claim your funds. [Case 40],BankingScam,Loan Offer
+Live Call from PNB: Unusual activity noticed on your credit card. Verify your card details immediately. [Case 41],BankingScam,Credit Card Scam
+Live Call: This is the Reserve Bank speaking on behalf of Kotak. Urgent verification is needed. Reply with your OTP. [Case 42],BankingScam,RBI Impersonation Scam
+Live Call from SBI: Your account has been blocked due to suspicious activity. Please provide your OTP immediately. [Case 43],BankingScam,Account Blocked
+Live Call from HDFC: Suspicious transaction detected. Verify and secure your funds immediately. [Case 44],BankingScam,Fraudulent Transaction
+Live Call from ICICI: Your KYC is incomplete. Kindly provide your Aadhaar and PAN details to update your records. [Case 45],BankingScam,KYC Verification
+Live Call from Axis: You are pre-approved for a loan. Please pay the processing fee to claim your funds. [Case 46],BankingScam,Loan Offer
+Live Call from PNB: Unusual activity noticed on your credit card. Verify your card details immediately. [Case 47],BankingScam,Credit Card Scam
+Live Call: This is the Reserve Bank speaking on behalf of Kotak. Urgent verification is needed. Reply with your OTP. [Case 48],BankingScam,RBI Impersonation Scam
+Live Call from SBI: Your account has been blocked due to suspicious activity. Please provide your OTP immediately. [Case 49],BankingScam,Account Blocked
+Live Call from HDFC: Suspicious transaction detected. Verify and secure your funds immediately. [Case 50],BankingScam,Fraudulent Transaction
+Live Call from ICICI: Your KYC is incomplete. Kindly provide your Aadhaar and PAN details to update your records. [Case 51],BankingScam,KYC Verification
+Live Call from Axis: You are pre-approved for a loan. Please pay the processing fee to claim your funds. [Case 52],BankingScam,Loan Offer
+Live Call from PNB: Unusual activity noticed on your credit card. Verify your card details immediately. [Case 53],BankingScam,Credit Card Scam
+Live Call: This is the Reserve Bank speaking on behalf of Kotak. Urgent verification is needed. Reply with your OTP. [Case 54],BankingScam,RBI Impersonation Scam
+Live Call from SBI: Your account has been blocked due to suspicious activity. Please provide your OTP immediately. [Case 55],BankingScam,Account Blocked
+Live Call from HDFC: Suspicious transaction detected. Verify and secure your funds immediately. [Case 56],BankingScam,Fraudulent Transaction
+Live Call from ICICI: Your KYC is incomplete. Kindly provide your Aadhaar and PAN details to update your records. [Case 57],BankingScam,KYC Verification
+Live Call from Axis: You are pre-approved for a loan. Please pay the processing fee to claim your funds. [Case 58],BankingScam,Loan Offer
+Live Call from PNB: Unusual activity noticed on your credit card. Verify your card details immediately. [Case 59],BankingScam,Credit Card Scam
+Live Call: This is the Reserve Bank speaking on behalf of Kotak. Urgent verification is needed. Reply with your OTP. [Case 60],BankingScam,RBI Impersonation Scam
+Live Call from SBI: Your account has been blocked due to suspicious activity. Please provide your OTP immediately. [Case 61],BankingScam,Account Blocked
+Live Call from HDFC: Suspicious transaction detected. Verify and secure your funds immediately. [Case 62],BankingScam,Fraudulent Transaction
+Live Call from ICICI: Your KYC is incomplete. Kindly provide your Aadhaar and PAN details to update your records. [Case 63],BankingScam,KYC Verification
+Live Call from Axis: You are pre-approved for a loan. Please pay the processing fee to claim your funds. [Case 64],BankingScam,Loan Offer
+Live Call from PNB: Unusual activity noticed on your credit card. Verify your card details immediately. [Case 65],BankingScam,Credit Card Scam
+Live Call: This is the Reserve Bank speaking on behalf of Kotak. Urgent verification is needed. Reply with your OTP. [Case 66],BankingScam,RBI Impersonation Scam
+Live Call from SBI: Your account has been blocked due to suspicious activity. Please provide your OTP immediately. [Case 67],BankingScam,Account Blocked
+Live Call from HDFC: Suspicious transaction detected. Verify and secure your funds immediately. [Case 68],BankingScam,Fraudulent Transaction
+Live Call from ICICI: Your KYC is incomplete. Kindly provide your Aadhaar and PAN details to update your records. [Case 69],BankingScam,KYC Verification
+Live Call from Axis: You are pre-approved for a loan. Please pay the processing fee to claim your funds. [Case 70],BankingScam,Loan Offer
+Live Call from PNB: Unusual activity noticed on your credit card. Verify your card details immediately. [Case 71],BankingScam,Credit Card Scam
+Live Call: This is the Reserve Bank speaking on behalf of Kotak. Urgent verification is needed. Reply with your OTP. [Case 72],BankingScam,RBI Impersonation Scam
+Live Call from SBI: Your account has been blocked due to suspicious activity. Please provide your OTP immediately. [Case 73],BankingScam,Account Blocked
+Live Call from HDFC: Suspicious transaction detected. Verify and secure your funds immediately. [Case 74],BankingScam,Fraudulent Transaction
+Live Call from ICICI: Your KYC is incomplete. Kindly provide your Aadhaar and PAN details to update your records. [Case 75],BankingScam,KYC Verification
+Live Call from Axis: You are pre-approved for a loan. Please pay the processing fee to claim your funds. [Case 76],BankingScam,Loan Offer
+Live Call from PNB: Unusual activity noticed on your credit card. Verify your card details immediately. [Case 77],BankingScam,Credit Card Scam
+Live Call: This is the Reserve Bank speaking on behalf of Kotak. Urgent verification is needed. Reply with your OTP. [Case 78],BankingScam,RBI Impersonation Scam
+Live Call from SBI: Your account has been blocked due to suspicious activity. Please provide your OTP immediately. [Case 79],BankingScam,Account Blocked
+Live Call from HDFC: Suspicious transaction detected. Verify and secure your funds immediately. [Case 80],BankingScam,Fraudulent Transaction
+Live Call from ICICI: Your KYC is incomplete. Kindly provide your Aadhaar and PAN details to update your records. [Case 81],BankingScam,KYC Verification
+Live Call from Axis: You are pre-approved for a loan. Please pay the processing fee to claim your funds. [Case 82],BankingScam,Loan Offer
+Live Call from PNB: Unusual activity noticed on your credit card. Verify your card details immediately. [Case 83],BankingScam,Credit Card Scam
+Live Call: This is the Reserve Bank speaking on behalf of Kotak. Urgent verification is needed. Reply with your OTP. [Case 84],BankingScam,RBI Impersonation Scam
+Live Call from SBI: Your account has been blocked due to suspicious activity. Please provide your OTP immediately. [Case 85],BankingScam,Account Blocked
+Live Call from HDFC: Suspicious transaction detected. Verify and secure your funds immediately. [Case 86],BankingScam,Fraudulent Transaction
+Live Call from ICICI: Your KYC is incomplete. Kindly provide your Aadhaar and PAN details to update your records. [Case 87],BankingScam,KYC Verification
+Live Call from Axis: You are pre-approved for a loan. Please pay the processing fee to claim your funds. [Case 88],BankingScam,Loan Offer
+Live Call from PNB: Unusual activity noticed on your credit card. Verify your card details immediately. [Case 89],BankingScam,Credit Card Scam
+Live Call: This is the Reserve Bank speaking on behalf of Kotak. Urgent verification is needed. Reply with your OTP. [Case 90],BankingScam,RBI Impersonation Scam
+Live Call from SBI: Your account has been blocked due to suspicious activity. Please provide your OTP immediately. [Case 91],BankingScam,Account Blocked
+Live Call from HDFC: Suspicious transaction detected. Verify and secure your funds immediately. [Case 92],BankingScam,Fraudulent Transaction
+Live Call from ICICI: Your KYC is incomplete. Kindly provide your Aadhaar and PAN details to update your records. [Case 93],BankingScam,KYC Verification
+Live Call from Axis: You are pre-approved for a loan. Please pay the processing fee to claim your funds. [Case 94],BankingScam,Loan Offer
+Live Call from PNB: Unusual activity noticed on your credit card. Verify your card details immediately. [Case 95],BankingScam,Credit Card Scam
+Live Call: This is the Reserve Bank speaking on behalf of Kotak. Urgent verification is needed. Reply with your OTP. [Case 96],BankingScam,RBI Impersonation Scam
+Live Call from SBI: Your account has been blocked due to suspicious activity. Please provide your OTP immediately. [Case 97],BankingScam,Account Blocked
+Live Call from HDFC: Suspicious transaction detected. Verify and secure your funds immediately. [Case 98],BankingScam,Fraudulent Transaction
+Live Call from ICICI: Your KYC is incomplete. Kindly provide your Aadhaar and PAN details to update your records. [Case 99],BankingScam,KYC Verification
+Live Call from Axis: You are pre-approved for a loan. Please pay the processing fee to claim your funds. [Case 100],BankingScam,Loan Offer
+Live Call from PNB: Unusual activity noticed on your credit card. Verify your card details immediately. [Case 101],BankingScam,Credit Card Scam
+Live Call: This is the Reserve Bank speaking on behalf of Kotak. Urgent verification is needed. Reply with your OTP. [Case 102],BankingScam,RBI Impersonation Scam
+Live Call from SBI: Your account has been blocked due to suspicious activity. Please provide your OTP immediately. [Case 103],BankingScam,Account Blocked
+Live Call from HDFC: Suspicious transaction detected. Verify and secure your funds immediately. [Case 104],BankingScam,Fraudulent Transaction
+Live Call from ICICI: Your KYC is incomplete. Kindly provide your Aadhaar and PAN details to update your records. [Case 105],BankingScam,KYC Verification
+Live Call from Axis: You are pre-approved for a loan. Please pay the processing fee to claim your funds. [Case 106],BankingScam,Loan Offer
+Live Call from PNB: Unusual activity noticed on your credit card. Verify your card details immediately. [Case 107],BankingScam,Credit Card Scam
+Live Call: This is the Reserve Bank speaking on behalf of Kotak. Urgent verification is needed. Reply with your OTP. [Case 108],BankingScam,RBI Impersonation Scam
+Live Call from SBI: Your account has been blocked due to suspicious activity. Please provide your OTP immediately. [Case 109],BankingScam,Account Blocked
+Live Call from HDFC: Suspicious transaction detected. Verify and secure your funds immediately. [Case 110],BankingScam,Fraudulent Transaction
+Live Call from ICICI: Your KYC is incomplete. Kindly provide your Aadhaar and PAN details to update your records. [Case 111],BankingScam,KYC Verification
+Live Call from Axis: You are pre-approved for a loan. Please pay the processing fee to claim your funds. [Case 112],BankingScam,Loan Offer
+Live Call from PNB: Unusual activity noticed on your credit card. Verify your card details immediately. [Case 113],BankingScam,Credit Card Scam
+Live Call: This is the Reserve Bank speaking on behalf of Kotak. Urgent verification is needed. Reply with your OTP. [Case 114],BankingScam,RBI Impersonation Scam
+Live Call from SBI: Your account has been blocked due to suspicious activity. Please provide your OTP immediately. [Case 115],BankingScam,Account Blocked
+Live Call from HDFC: Suspicious transaction detected. Verify and secure your funds immediately. [Case 116],BankingScam,Fraudulent Transaction
+Live Call from ICICI: Your KYC is incomplete. Kindly provide your Aadhaar and PAN details to update your records. [Case 117],BankingScam,KYC Verification
+Live Call from Axis: You are pre-approved for a loan. Please pay the processing fee to claim your funds. [Case 118],BankingScam,Loan Offer
+Live Call from PNB: Unusual activity noticed on your credit card. Verify your card details immediately. [Case 119],BankingScam,Credit Card Scam
+Live Call: This is the Reserve Bank speaking on behalf of Kotak. Urgent verification is needed. Reply with your OTP. [Case 120],BankingScam,RBI Impersonation Scam
+Live Call from SBI: Your account has been blocked due to suspicious activity. Please provide your OTP immediately. [Case 121],BankingScam,Account Blocked
+Live Call from HDFC: Suspicious transaction detected. Verify and secure your funds immediately. [Case 122],BankingScam,Fraudulent Transaction
+Live Call from ICICI: Your KYC is incomplete. Kindly provide your Aadhaar and PAN details to update your records. [Case 123],BankingScam,KYC Verification
+Live Call from Axis: You are pre-approved for a loan. Please pay the processing fee to claim your funds. [Case 124],BankingScam,Loan Offer
+Live Call from PNB: Unusual activity noticed on your credit card. Verify your card details immediately. [Case 125],BankingScam,Credit Card Scam
+Live Call: This is the Reserve Bank speaking on behalf of Kotak. Urgent verification is needed. Reply with your OTP. [Case 126],BankingScam,RBI Impersonation Scam
+Live Call from SBI: Your account has been blocked due to suspicious activity. Please provide your OTP immediately. [Case 127],BankingScam,Account Blocked
+Live Call from HDFC: Suspicious transaction detected. Verify and secure your funds immediately. [Case 128],BankingScam,Fraudulent Transaction
+Live Call from ICICI: Your KYC is incomplete. Kindly provide your Aadhaar and PAN details to update your records. [Case 129],BankingScam,KYC Verification
+Live Call from Axis: You are pre-approved for a loan. Please pay the processing fee to claim your funds. [Case 130],BankingScam,Loan Offer
+Live Call from PNB: Unusual activity noticed on your credit card. Verify your card details immediately. [Case 131],BankingScam,Credit Card Scam
+Live Call: This is the Reserve Bank speaking on behalf of Kotak. Urgent verification is needed. Reply with your OTP. [Case 132],BankingScam,RBI Impersonation Scam

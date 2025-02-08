@@ -1,0 +1,89 @@
+text,category,sub-category
+This is [Officer's Name] from the Cyber Crime Cell. We are following up on the complaint you filed regarding online fraud.,Legitimate,Legitimate
+"We are investigating a case of online harassment, and your information may be relevant. Can you please confirm your email address?",Legitimate,Legitimate
+We need some additional information about the fraudulent transaction you reported. Can you please provide the transaction ID and the date of the transaction?,Legitimate,Legitimate
+We are investigating a case of online harassment. Did you receive any threatening messages from [email address/phone number]?,Legitimate,Legitimate
+This is [Officer's Name] from the Cyber Crime Cell. Your case number is [case number]. You can contact us at [official phone number] for updates.,Legitimate,Legitimate
+We have made an arrest in connection with the online fraud you reported. We will contact you with further details.,Legitimate,Legitimate
+We would like to invite you to the Cyber Crime Cell to record your statement in person. Please come to [address] on [date] at [time].,Legitimate,Legitimate
+This is Inspector Sharma from the Cyber Crime Cell. A case has been registered against you for illegal transactions. You must pay ₹5000 immediately to avoid arrest.,GovernmentImpersonation,police
+"We have a warrant for your arrest. To avoid being taken into custody, you must pay a fine of ₹10000 over the phone.",GovernmentImpersonation,police
+We are investigating a case involving your bank account. You are a suspect. You must cooperate immediately.,GovernmentImpersonation,police
+"This is the Cyber Crime Cell. To settle the case against you, you must transfer ₹20000 to this account number: 9876543210.",GovernmentImpersonation,police
+We can close the investigation if you pay a fee of ₹10000 over the phone.,GovernmentImpersonation,police
+We need to verify your identity. Please provide your Aadhaar number and OTP over the phone.,GovernmentImpersonation,police
+"Your bank account has been compromised. Please provide your bank account details, including your password, over the phone to secure it.",GovernmentImpersonation,police
+We need to access your social media account to investigate a case. Please provide your username and password over the phone.,GovernmentImpersonation,police
+We need to verify your identity. Please provide your UPI PIN over the phone.,GovernmentImpersonation,police
+Your computer has been infected with a virus. Please install AnyDesk or TeamViewer over the phone so we can help you fix it.,GovernmentImpersonation,police
+We need to monitor your device to ensure your safety. Please install [remote access software] over the phone.,GovernmentImpersonation,police
+"Your bank account has been compromised. To protect your funds, you must transfer them to a 'safe' account over the phone. The account number is [fake account number].",GovernmentImpersonation,police
+"We have information about your online activity. If you don't pay ₹50000 over the phone, we will share this information with your family/employer.",GovernmentImpersonation,police
+We have access to your private photos/videos. Pay ₹100000 over the phone to prevent us from sharing them.,GovernmentImpersonation,police
+You have violated cyber laws. You must pay a fine of ₹25000 over the phone to avoid further action.,GovernmentImpersonation,police
+Cyber Crime Cell calling. Your social media account has been used for illegal activities. Pay fine now.,GovernmentImpersonation,police
+Police calling. A complaint has been lodged against your number. Provide OTP to verify.,GovernmentImpersonation,police
+Cyber Police: Your bank account is linked to a cyber crime. Transfer all funds to our account now.,GovernmentImpersonation,police
+Cyber Crime Cell: Your device is compromised. Install this software to fix it.,GovernmentImpersonation,police
+"Police calling. Sir, we need your cooperation in a case. Pay us to avoid trouble",GovernmentImpersonation,police
+Cyber Police: We have a warrant for your arrest. Settle the case by paying online.,GovernmentImpersonation,police
+Cyber Crime Cell calling. Your KYC is not updated. Give bank details to update.,GovernmentImpersonation,police
+Police calling. We have a tip about your involvement in a crime. Give us money to clear.,GovernmentImpersonation,police
+Cyber Crime Cell calling. We are tracking your online activity. Pay us or face consequences.,GovernmentImpersonation,police
+Police calling. Your Aadhar card has been misused. Share all details.,GovernmentImpersonation,police
+Cyber Police: Your email has been hacked. Pay us to recover it.,GovernmentImpersonation,police
+Police calling. We are investigating a money laundering case. Pay us to stay out of it.,GovernmentImpersonation,police
+Cyber Crime Cell calling. Someone has filed a complaint against you. Settle it now.,GovernmentImpersonation,police
+Police calling. You are under surveillance. Give information to avoid arrest.,GovernmentImpersonation,police
+Cyber Police: Your internet activity is suspicious. Pay us to avoid action.,GovernmentImpersonation,police
+Police calling. We have a witness against you. Pay to make it disappear.,GovernmentImpersonation,police
+Cyber Crime Cell calling. Your personal data has been leaked. Pay us to protect it.,GovernmentImpersonation,police
+Police calling. You are a suspect in a cyber fraud case. Pay us to clear your name.,GovernmentImpersonation,police
+Cyber Police: Your device is infected with malware. Pay us to remove it.,GovernmentImpersonation,police
+Police calling. We have evidence of your involvement in a crime. Pay us to make it disappear.,GovernmentImpersonation,police
+Cyber Crime Cell calling. Your online transactions are being monitored. Pay us to stop.,GovernmentImpersonation,police
+Police calling. We have a warrant for your property. Pay us to avoid seizure.,GovernmentImpersonation,police
+Cyber Police: Your IP address has been flagged for illegal activities. Pay us to avoid further action.,GovernmentImpersonation,police
+Police calling. We are conducting a raid on your house. Pay us to avoid it.,GovernmentImpersonation,police
+Cyber Crime Cell calling. Your social media account has been hacked. Pay us to restore it.,GovernmentImpersonation,police
+Police calling. We have information about your illegal activities. Pay us to keep it secret.,GovernmentImpersonation,police
+Cyber Police: Your online identity has been stolen. Pay us to recover it.,GovernmentImpersonation,police
+Police calling. We are investigating a case of extortion. Pay us to avoid being implicated.,GovernmentImpersonation,police
+Cyber Crime Cell calling. Your online reputation is at risk. Pay us to protect it.,GovernmentImpersonation,police
+Police calling. We have a witness who can testify against you. Pay us to silence them.,GovernmentImpersonation,police
+Cyber Police: Your online accounts are vulnerable to hacking. Pay us to secure them.,GovernmentImpersonation,police
+Police calling. We are conducting a sting operation. Pay us to avoid being caught.,GovernmentImpersonation,police
+Cyber Crime Cell calling. Your online privacy has been compromised. Pay us to restore it.,GovernmentImpersonation,police
+Police calling. We have information about your past crimes. Pay us to keep it buried.,GovernmentImpersonation,police
+Cyber Police: Your online activity is under investigation. Pay us to avoid charges.,GovernmentImpersonation,police
+Police calling. We are about to arrest someone close to you. Pay us to protect them.,GovernmentImersonation,police
+Cyber Crime Cell calling. Your online safety is at risk. Pay us to ensure it.,GovernmentImpersonation,police
+Police calling. We have evidence of your involvement in a conspiracy. Pay us to make it disappear.,GovernmentImpersonation,police
+Cyber Police: Your online presence is being monitored. Pay us to avoid scrutiny.,GovernmentImpersonation,police
+Police calling. We are planning a major operation. Pay us to avoid being targeted.,GovernmentImpersonation,police
+Cyber Crime Cell calling. Your online data is being sold on the dark web. Pay us to remove it.,GovernmentImpersonation,police
+Police calling. We have a list of your accomplices. Pay us to protect them.,GovernmentImpersonation,police
+Cyber Police: Your online activity is being tracked by hackers. Pay us to secure your accounts.,GovernmentImpersonation,police
+Police calling. We are conducting a secret investigation. Pay us to stay off our radar.,GovernmentImpersonation,police
+Cyber Crime Cell calling. Your online identity is being used for fraud. Pay us to stop it.,GovernmentImpersonation,police
+Police calling. We have information about your secret life. Pay us to keep it confidential.,GovernmentImpersonation,police
+Cyber Police: Your online information is being used to blackmail you. Pay us to prevent it.,GovernmentImpersonation,police
+Police calling. We are about to expose your wrongdoings. Pay us to keep it quiet.,GovernmentImpersonation,police
+Cyber Crime Cell calling. Your online activity is attracting unwanted attention. Pay us to make it stop.,GovernmentImpersonation,police
+Police calling. We have evidence of your corruption. Pay us to make it disappear.,GovernmentImpersonation,police
+Cyber Police: Your online accounts are being targeted by cybercriminals. Pay us to protect them.,GovernmentImpersonation,police
+Police calling. We are planning a major crackdown. Pay us to avoid being caught in the crossfire.,GovernmentImpersonation,police
+Cyber Crime Cell calling. Your online data is being sold to the highest bidder. Pay us to remove it.,GovernmentImpersonation,police
+Police calling. We have a list of your enemies. Pay us to protect you from them.,GovernmentImpersonation,police
+Cyber Police: Your online activity is being monitored by foreign governments. Pay us to secure your accounts.,GovernmentImpersonation,police
+Police calling. We are conducting a covert operation. Pay us to stay out of our way.,GovernmentImpersonation,police
+Cyber Crime Cell calling. Your online identity is being used to commit crimes. Pay us to stop it.,GovernmentImpersonation,police
+Police calling. We have information about your secret desires. Pay us to keep it confidential.,GovernmentImpersonation,police
+Cyber Police: Your online information is being used to extort you. Pay us to prevent it.,GovernmentImpersonation,police
+Police calling. We are about to reveal your true identity. Pay us to keep it a secret.,GovernmentImpersonation,police
+Cyber Crime Cell calling. Your online activity is attracting dangerous individuals. Pay us to make it stop.,GovernmentImpersonation,police
+Police calling. We have evidence of your hidden assets. Pay us to make it disappear.,GovernmentImpersonation,police
+Cyber Police: Your online accounts are being targeted by spies. Pay us to protect them.,GovernmentImpersonation,police
+Police calling. We are planning a major sting operation. Pay us to avoid being implicated.,GovernmentImpersonation,police
+Cyber Crime Cell calling. Your online data is being used to manipulate you. Pay us to remove it.,GovernmentImpersonation,police
+Police calling. We have a list of your secret admirers. Pay us to protect you from them.,GovernmentImpersonation,police

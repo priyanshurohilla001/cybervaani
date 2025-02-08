@@ -1,0 +1,71 @@
+text,category,sub-category
+Thank you for calling UIDAI. How can I help you?,Legitimate,Legitimate
+Your Aadhaar update request has been received. You will be notified of the status shortly.,Legitimate,Legitimate
+Your Aadhaar has been successfully linked to your bank account.,Legitimate,Legitimate
+This is a reminder about your Aadhaar enrollment/update appointment at [location] on [date] at [time].,Legitimate,Legitimate
+This is UIDAI calling. We need to verify your Aadhaar number. Please provide your Aadhaar number and the OTP you just received over the phone.,GovernmentImpersonation,aadhaar
+"Your Aadhaar card has been blocked. To unblock it, please provide your Aadhaar number and OTP over the phone.",GovernmentImpersonation,aadhaar
+We are conducting an Aadhaar verification. Please provide your Aadhaar number and the OTP over the phone.,GovernmentImpersonation,aadhaar
+Your Aadhaar card will be deactivated if you don't update your details immediately. Please provide your Aadhaar number and OTP over the phone.,GovernmentImpersonation,aadhaar
+"We have detected suspicious activity on your Aadhaar card. To prevent deactivation, please provide your Aadhaar number and OTP over the phone.",GovernmentImpersonation,aadhaar
+Your Aadhaar card has been misused for fraudulent transactions. You must pay ₹5000 over the phone to resolve the issue.,GovernmentImpersonation,aadhaar
+We have received a complaint about your Aadhaar card. You must pay a fine over the phone to avoid legal action.,GovernmentImpersonation,aadhaar
+We are calling to help you link your Aadhaar card to your bank account. Please provide your bank account details and OTP over the phone.,GovernmentImpersonation,aadhaar
+Your Aadhaar card needs to be linked to your bank account. Please provide your Aadhaar number and OTP over the phone.,GovernmentImpersonation,aadhaar
+"Your Aadhaar details need to be updated. Please provide your Aadhaar number, date of birth, and other personal information over the phone.",GovernmentImpersonation,aadhaar
+We need to update your address on your Aadhaar card. Please provide your current address over the phone.,GovernmentImpersonation,aadhaar
+Your Aadhaar card is required to replace your meter. Please provide your Aadhaar number and OTP over the phone for the new meter.,GovernmentImpersonation,aadhaar
+UIDAI: Your Aadhaar is expiring soon. Update now with OTP.,GovernmentImpersonation,aadhaar
+Aadhaar: Your Aadhaar has been misused. Pay a fine to avoid legal action.,GovernmentImpersonation,aadhaar
+UIDAI calling. We need to verify your bio-metric data. Share your OTP now.,GovernmentImpersonation,aadhaar
+Aadhaar: Your Aadhaar is not linked to your bank. Give bank details to link now.,GovernmentImpersonation,aadhaar
+UIDAI calling. Your Aadhaar is not updated. Pay a small amount to update.,GovernmentImpersonation,aadhaar
+Aadhaar: Your Aadhaar is under review. Share Aadhar card details now,GovernmentImpersonation,aadhaar
+UIDAI calling. Your Aadhaar is not secure. Share OTP to secure now.,GovernmentImpersonation,aadhaar
+Aadhaar: Your Aadhaar is blocked. Pay a fee to unblock.,GovernmentImpersonation,aadhaar
+UIDAI calling. We are offering a free Aadhaar update service. Share your details.,GovernmentImpersonation,aadhaar
+Aadhaar: Your Aadhaar is linked to illegal activities. Pay to clear yourself.,GovernmentImpersonation,aadhaar
+UIDAI calling. Your Aadhaar is not verified. Share your information now to verify.,GovernmentImpersonation,aadhaar
+Aadhaar: Your Aadhaar is being used for fraud. Pay us to protect you.,GovernmentImpersonation,aadhaar
+UIDAI calling. We are conducting a survey. Share your Aadhaar details.,GovernmentImpersonation,aadhaar
+Aadhaar: Your Aadhaar is required to get a government subsidy. Share your bank details.,GovernmentImpersonation,aadhaar
+UIDAI calling. Your Aadhaar is not registered. Share your details now to register.,GovernmentImpersonation,aadhaar
+Aadhaar: Your Aadhaar is expiring soon. Pay us to renew it.,GovernmentImpersonation,aadhaar
+UIDAI calling. We are offering a free Aadhaar card upgrade. Share your OTP.,GovernmentImpersonation,aadhaar
+Aadhaar: Your Aadhaar is under attack by hackers. Pay us to secure it.,GovernmentImpersonation,aadhaar
+UIDAI calling. We are updating our system. Share your Aadhaar password.,GovernmentImpersonation,aadhaar
+Aadhaar: Your Aadhaar is being used to open fake accounts. Pay us to stop it.,GovernmentImpersonation,aadhaar
+UIDAI calling. We are giving away free Aadhaar cards. Share your details.,GovernmentImpersonation,aadhaar
+Aadhaar: Your Aadhaar is required for a new government scheme. Share your bank details.,GovernmentImpersonation,aadhaar
+UIDAI calling. Your Aadhaar is not linked to your mobile number. Share your OTP,GovernmentImpersonation,aadhaar
+Aadhaar: Your Aadhaar is being used for money laundering. Pay us to clear your name.,GovernmentImpersonation,aadhaar
+UIDAI calling. We are offering a free Aadhaar card correction service. Share your details.,GovernmentImpersonation,aadhaar
+Aadhaar: Your Aadhaar is being targeted by identity thieves. Pay us to protect you.,GovernmentImpersonation,aadhaar
+UIDAI calling. We are updating our security protocols. Share your Aadhaar PIN.,GovernmentImpersonation,aadhaar
+Aadhaar: Your Aadhaar is being used to commit cybercrimes. Pay us to stop it.,GovernmentImpersonation,aadhaar
+UIDAI calling. We are giving away free Aadhaar-enabled devices. Share your address.,GovernmentImpersonation,aadhaar
+Aadhaar: Your Aadhaar is required to claim a government pension. Share your bank details.,GovernmentImpersonation,aadhaar
+UIDAI calling. Your Aadhaar is not verified with your voter ID. Share your OTP,GovernmentImpersonation,aadhaar
+Aadhaar: Your Aadhaar is being used to finance terrorism. Pay us to clear your name.,GovernmentImpersonation,aadhaar
+UIDAI calling. We are offering a free Aadhaar card insurance policy. Share your details.,GovernmentImpersonation,aadhaar
+Aadhaar: Your Aadhaar is being targeted by international criminals. Pay us to protect you.,GovernmentImpersonation,aadhaar
+UIDAI calling. We are updating our authentication system. Share your Aadhaar password.,GovernmentImpersonation,aadhaar
+Aadhaar: Your Aadhaar is being used to facilitate drug trafficking. Pay us to stop it.,GovernmentImpersonation,aadhaar
+UIDAI calling. We are giving away free Aadhaar-based healthcare services. Share your address.,GovernmentImpersonation,aadhaar
+Aadhaar: Your Aadhaar is required to access a new government loan. Share your bank details.,GovernmentImpersonation,aadhaar
+UIDAI calling. Your Aadhaar is not linked to your ration card. Share your OTP,GovernmentImpersonation,aadhaar
+Aadhaar: Your Aadhaar is being used to support organized crime. Pay us to clear your name.,GovernmentImpersonation,aadhaar
+UIDAI calling. We are offering a free Aadhaar card security audit. Share your details.,GovernmentImpersonation,aadhaar
+Aadhaar: Your Aadhaar is being targeted by rogue nations. Pay us to protect you.,GovernmentImpersonation,aadhaar
+UIDAI calling. We are updating our encryption protocols. Share your Aadhaar PIN.,GovernmentImpersonation,aadhaar
+Aadhaar: Your Aadhaar is being used to promote hate speech. Pay us to stop it.,GovernmentImpersonation,aadhaar
+UIDAI calling. We are giving away free Aadhaar-linked financial services. Share your address.,GovernmentImpersonation,aadhaar
+Aadhaar: Your Aadhaar is required to receive a new government grant. Share your bank details.,GovernmentImpersonation,aadhaar
+UIDAI calling. Your Aadhaar is not verified with your driving license. Share your OTP,GovernmentImpersonation,aadhaar
+Aadhaar: Your Aadhaar is being used to fund terrorism. Pay us to clear your name.,GovernmentImpersonation,aadhaar
+UIDAI calling. We are offering a free Aadhaar card data backup service. Share your details.,GovernmentImpersonation,aadhaar
+Aadhaar: Your Aadhaar is being targeted by terrorist organizations. Pay us to protect you.,GovernmentImpersonation,aadhaar
+UIDAI calling. We are updating our biometric recognition system. Share your Aadhaar password.,GovernmentImpersonation,aadhaar
+Aadhaar: Your Aadhaar is being used to plan attacks on your country. Pay us to stop it.,GovernmentImpersonation,aadhaar
+UIDAI calling. We are giving away free Aadhaar-based insurance policies. Share your address.,GovernmentImpersonation,aadhaar
+Aadhaar: Your Aadhaar is required to apply for a new government job. Share your bank details.,GovernmentImpersonation,aadhaar

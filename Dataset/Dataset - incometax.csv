@@ -1,0 +1,76 @@
+text,category,sub-category
+This is the Income Tax Department. We are calling to inform you that your tax refund of ₹5000 has been processed and will be credited to your bank account.,Legitimate,Legitimate
+We have initiated a tax refund for you. You can check the status on the Income Tax e-filing portal.,Legitimate,Legitimate
+This is a reminder from the Income Tax Department that the deadline for filing your income tax return is approaching. Please file your return by 2025-03-31.,Legitimate,Legitimate
+This is the Income Tax Department. We are calling to remind you to file your income tax return for the assessment year 2024-2025.,Legitimate,Legitimate
+Thank you for calling the Income Tax Department. How can I help you?,Legitimate,Legitimate
+"To verify your identity, please provide your PAN number.",GovernmentImpersonation,incometax
+This is the Income Tax Department. We are calling regarding your recently filed tax return. We have a few questions about deductions claimed.,Legitimate,Legitimate
+This is the Income Tax Department. You have an outstanding tax liability of ₹10000. You must pay it immediately to avoid penalties and legal action.,GovernmentImpersonation,incometax
+We have sent you a notice regarding unpaid taxes. You must pay the amount over the phone to avoid further action.,GovernmentImpersonation,incometax
+Your PAN card has been flagged for tax evasion. You must pay a fine of ₹20000 immediately to resolve the issue.,GovernmentImpersonation,incometax
+"You are eligible for a tax refund of ₹7000. To process the refund, please provide your bank account details over the phone, including your account number, IFSC code, and OTP.",GovernmentImpersonation,incometax
+We have initiated a tax refund for you. Please click on the link we've sent to your phone to update your bank details.,GovernmentImpersonation,incometax
+We are calling to help you claim your tax refund. Please provide your UPI PIN over the phone to receive the refund.,GovernmentImpersonation,incometax
+"We need to verify your identity. Please provide your PAN number, Aadhaar number, and date of birth over the phone.",GovernmentImpersonation,incometax
+Your tax records need to be updated. Please provide your bank account details over the phone.,GovernmentImpersonation,incometax
+We need to verify your income. Please provide details of your investments over the phone.,GovernmentImpersonation,incometax
+Your bank account will be frozen if you don't pay your outstanding taxes immediately.,GovernmentImpersonation,incometax
+We will initiate legal action against you if you don't cooperate with us over the phone.,GovernmentImpersonation,incometax
+We have issued a warrant for your arrest. You must pay a fine over the phone to avoid arrest.,GovernmentImpersonation,incometax
+You have underreported your income. You must pay a penalty of ₹15000 over the phone.,GovernmentImpersonation,incometax
+We have found discrepancies in your tax filings. You must pay a penalty over the phone to avoid further investigation.,GovernmentImpersonation,incometax
+Income Tax Department: Your tax return is under scrutiny. Pay now to avoid further action.,GovernmentImpersonation,incometax
+Income Tax: We have detected a mismatch in your income. Share OTP to verify.,GovernmentImpersonation,incometax
+Income Tax Department calling. We need your cooperation to avoid tax fraud charges. Pay us.,GovernmentImpersonation,incometax
+Income Tax: We are auditing your accounts. Pay a fee to avoid a thorough investigation.,GovernmentImpersonation,incometax
+Income Tax Department calling. There is a problem with your PAN. Give us your bank details,GovernmentImpersonation,incometax
+Income Tax: We have found some discrepancies in your ITR. Pay the tax immediately.,GovernmentImpersonation,incometax
+Income Tax Department calling. Your refund is stuck. Share your bank details.,GovernmentImpersonation,incometax
+Income Tax: We are offering tax advice. Pay a fee to avail the service.,GovernmentImpersonation,incometax
+Income Tax Department calling. We have a tip about your hidden income. Settle it now,GovernmentImpersonation,incometax
+Income Tax: We are sending a notice to your home. Pay us to stop it.,GovernmentImpersonation,incometax
+Income Tax Department calling. We are offering a tax amnesty scheme. Pay now to avail it.,GovernmentImpersonation,incometax
+Income Tax: Your tax liability is increasing daily. Pay us to freeze it.,GovernmentImpersonation,incometax
+Income Tax Department calling. We have detected a major tax evasion. Confess and pay now.,GovernmentImpersonation,incometax
+Income Tax: We are tracking your financial transactions. Pay us to avoid scrutiny.,GovernmentImpersonation,incometax
+Income Tax Department calling. Your account is under investigation. Share your details,GovernmentImpersonation,incometax
+Income Tax: We are offering a special tax deduction. Pay a fee to claim it.,GovernmentImpersonation,incometax
+Income Tax Department calling. We have a warrant for your arrest. Pay us to cancel it.,GovernmentImpersonation,incometax
+Income Tax: We are freezing your assets. Pay us to unfreeze them.,GovernmentImpersonation,incometax
+Income Tax Department calling. We are offering a tax refund. Share your OTP.,GovernmentImpersonation,incometax
+Income Tax: We are sending a team to your house. Pay us to avoid the visit.,GovernmentImpersonation,incometax
+Income Tax Department calling. We have detected a major discrepancy in your tax filings. Pay now.,GovernmentImpersonation,incometax
+Income Tax: We are offering a tax reduction scheme. Pay a fee to enroll.,GovernmentImpersonation,incometax
+Income Tax Department calling. We have a witness against you for tax fraud. Settle the case.,GovernmentImpersonation,incometax
+Income Tax: We are seizing your property. Pay us to stop it.,GovernmentImpersonation,incometax
+Income Tax Department calling. We are offering a tax holiday scheme. Share your details.,GovernmentImpersonation,incometax
+Income Tax: Your bank account is linked to a tax evasion scheme. Pay us to avoid trouble.,GovernmentImpersonation,incometax
+Income Tax Department calling. We have a team ready to raid your business. Pay us to call them off.,GovernmentImpersonation,incometax
+Income Tax: We are selling your assets to recover unpaid taxes. Pay us to stop the auction.,GovernmentImpersonation,incometax
+Income Tax Department calling. We are offering a tax planning service. Pay a fee.,GovernmentImpersonation,incometax
+Income Tax: Your PAN card is blocked due to unpaid taxes. Pay to unblock it.,GovernmentImpersonation,incometax
+Income Tax Department calling. We have a tip about your offshore accounts. Settle it now.,GovernmentImpersonation,incometax
+Income Tax: We are sending a notice to your employer. Pay us to stop it.,GovernmentImpersonation,incometax
+Income Tax Department calling. We are offering a tax refund. Share your credit card details,GovernmentImpersonation,incometax
+Income Tax: Your tax returns are being reviewed by a special team. Pay to avoid scrutiny.,GovernmentImpersonation,incometax
+Income Tax Department calling. We have detected a major discrepancy in your income. Pay now to avoid legal action.,GovernmentImpersonation,incometax
+Income Tax: We are offering a tax exemption scheme. Pay a fee to qualify.,GovernmentImpersonation,incometax
+Income Tax Department calling. We have a witness who can testify against you for tax evasion. Settle the case.,GovernmentImpersonation,incometax
+Income Tax: We are confiscating your assets to recover unpaid taxes. Pay us to stop the seizure.,GovernmentImpersonation,incometax
+Income Tax Department calling. We are offering a tax planning service. Share your financial information.,GovernmentImpersonation,incometax
+Income Tax: Your PAN card is deactivated due to suspicious activity. Pay to reactivate it.,GovernmentImpersonation,incometax
+Income Tax Department calling. We have a tip about your secret investments. Settle it now.,GovernmentImpersonation,incometax
+Income Tax: We are sending a notice to your family. Pay us to stop it.,GovernmentImpersonation,incometax
+Income Tax Department calling. We are offering a tax refund. Share your UPI PIN.,GovernmentImpersonation,incometax
+Income Tax: Your tax filings are under investigation by a special task force. Pay to avoid scrutiny.,GovernmentImpersonation,incometax
+Income Tax Department calling. We have detected a major discrepancy in your assets. Pay now to avoid legal consequences.,GovernmentImpersonation,incometax
+Income Tax: We are offering a tax incentive scheme. Pay a fee to participate.,GovernmentImpersonation,incometax
+Income Tax Department calling. We have a witness who can testify against you for financial crimes. Settle the case.,GovernmentImpersonation,incometax
+Income Tax: We are seizing your bank accounts to recover unpaid taxes. Pay us to stop the freeze.,GovernmentImpersonation,incometax
+Income Tax Department calling. We are offering a tax advisory service. Share your investment portfolio.,GovernmentImpersonation,incometax
+Income Tax: Your PAN card is suspended due to suspicious transactions. Pay to reinstate it.,GovernmentImpersonation,incometax
+Income Tax Department calling. We have a tip about your hidden wealth. Settle it now or face jail time.,GovernmentImpersonation,incometax
+Income Tax: We are sending a notice to your business partners. Pay us to stop it.,GovernmentImpersonation,incometax
+Income Tax Department calling. We are offering a tax refund. Share your credit card CVV.,GovernmentImpersonation,incometax
+Income Tax: Your tax affairs are being scrutinized by a special investigation team. Pay to avoid scrutiny.,GovernmentImpersonation,incometax
