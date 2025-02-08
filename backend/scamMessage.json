@@ -1,0 +1,247 @@
+{
+  "languages": [
+    {
+      "code": "en-US",
+      "name": "English",
+      "englishName": "English",
+      "scamMessages": {
+        "GovernmentImpersonation": {
+          "duringCall": "Government impersonator detected. Do not share details. Ask for official ID.",
+          "afterCall": "Verify by calling your government helpline (e.g., 1800-123-4567)."
+        },
+        "RemoteAccessRequest": {
+          "duringCall": "Tech support scam detected. Do not allow remote access.",
+          "afterCall": "Call your provider's official number to confirm the call."
+        },
+        "LotteryScam": {
+          "duringCall": "Lottery scam detected. No prize requires fees or personal info.",
+          "afterCall": "Verify by contacting the official lottery agency."
+        },
+        "EcommerceScam": {
+          "duringCall": "E-commerce scam detected. Do not share OTP or card details.",
+          "afterCall": "Verify by calling the platform’s official support."
+        },
+        "BankingScam": {
+          "duringCall": "Banking scam detected. Do not share OTP or account details.",
+          "afterCall": "Call your bank’s helpline immediately to secure your account."
+        }
+      }
+    },
+    {
+      "code": "hi-IN",
+      "name": "हिंदी",
+      "englishName": "Hindi",
+      "scamMessages": {
+        "GovernmentImpersonation": {
+          "duringCall": "सरकारी प्रतिनिधि का नकली कॉल मिला। कोई जानकारी साझा न करें। आधिकारिक आईडी पूछें।",
+          "afterCall": "सत्यापन के लिए सरकारी हेल्पलाइन (जैसे 1800-123-4567) पर कॉल करें।"
+        },
+        "RemoteAccessRequest": {
+          "duringCall": "टेक सपोर्ट स्कैम। रिमोट एक्सेस न दें।",
+          "afterCall": "सत्यापन के लिए सेवा प्रदाता के आधिकारिक नंबर पर कॉल करें।"
+        },
+        "LotteryScam": {
+          "duringCall": "लॉटरी स्कैम। कोई पुरस्कार फीस या जानकारी नहीं मांगता।",
+          "afterCall": "सत्यापन के लिए आधिकारिक लॉटरी एजेंसी से संपर्क करें।"
+        },
+        "EcommerceScam": {
+          "duringCall": "ई-कॉमर्स स्कैम। OTP या कार्ड विवरण न दें।",
+          "afterCall": "सत्यापन के लिए आधिकारिक ग्राहक सहायता से संपर्क करें।"
+        },
+        "BankingScam": {
+          "duringCall": "बैंकिंग स्कैम। OTP या खाता विवरण न दें।",
+          "afterCall": "तुरंत बैंक हेल्पलाइन पर कॉल करके सत्यापित करें।"
+        }
+      }
+    },
+    {
+      "code": "ta-IN",
+      "name": "தமிழ்",
+      "englishName": "Tamil",
+      "scamMessages": {
+        "GovernmentImpersonation": {
+          "duringCall": "அரசு பிரதிநிதி போலி அழைப்பு கண்டறியப்பட்டது. தகவல் பகிர வேண்டாம். அதிகாரப்பூர்வ ID கேளுங்கள்.",
+          "afterCall": "சரிபார்க்க, அரசு உதவி மையத்தை (எ.கா., 1800-123-4567) அழையுங்கள்."
+        },
+        "RemoteAccessRequest": {
+          "duringCall": "டெக் ஆதரவு மோசடி. ரிமோட் அணுகலை அனுமதிக்க வேண்டாம்.",
+          "afterCall": "சரிபார்க்க, சேவை வழங்குநரின் அதிகாரப்பூர்வ எண்ணை அழையுங்கள்."
+        },
+        "LotteryScam": {
+          "duringCall": "லாட்டரி மோசடி. வெகுமதி பெறுவதற்கு கட்டணம் அல்லது தகவல் கேட்காது.",
+          "afterCall": "சரிபார்க்க, அதிகாரப்பூர்வ லாட்டரி முகவரியை தொடர்பு கொள்ளுங்கள்."
+        },
+        "EcommerceScam": {
+          "duringCall": "இ-காமர்ஸ் மோசடி. OTP அல்லது கார்டு விவரங்களை பகிர வேண்டாம்.",
+          "afterCall": "சரிபார்க்க, அதிகாரப்பூர்வ ஆதரவை தொடர்பு கொள்ளுங்கள்."
+        },
+        "BankingScam": {
+          "duringCall": "வங்கி மோசடி. OTP அல்லது கணக்கு விவரங்களை பகிர வேண்டாம்.",
+          "afterCall": "உடனடியாக வங்கி உதவி மையத்தை அழைத்து சரிபாரிக்கவும்."
+        }
+      }
+    },
+    {
+      "code": "te-IN",
+      "name": "తెలుగు",
+      "englishName": "Telugu",
+      "scamMessages": {
+        "GovernmentImpersonation": {
+          "duringCall": "అధికారిని అనుకరించే స్కామ్ గుర్తించబడింది. వివరాలు ఇవ్వకండి. అధికారిక ID అడగండి.",
+          "afterCall": "సత్యపరిశీలన కోసం ప్రభుత్వ హెల్ప్‌లైన్ (ఉదా: 1800-123-4567) ని కాల్ చేయండి."
+        },
+        "RemoteAccessRequest": {
+          "duringCall": "టెక్ సపోర్ట్ స్కామ్ గుర్తించబడింది. రిమోట్ యాక్సెస్ ఇవ్వకండి.",
+          "afterCall": "సరైన వివరాల కోసం సర్వీస్ నెంబర్ ని కాల్ చేయండి."
+        },
+        "LotteryScam": {
+          "duringCall": "లాటరీ స్కామ్ గుర్తించబడింది. బహుమతి కోసం ఫీజు లేదా వివరాలు అవసరం కాదు.",
+          "afterCall": "అధికారిక లాటరీ ఏజెన్సీని సంప్రదించండి."
+        },
+        "EcommerceScam": {
+          "duringCall": "ఈ-కామర్స్ స్కామ్ గుర్తించబడింది. OTP లేదా కార్డ్ వివరాలు ఇవ్వకండి.",
+          "afterCall": "అధికారిక సపోర్ట్ ద్వారా ధృవీకరించండి."
+        },
+        "BankingScam": {
+          "duringCall": "బ్యాంకింగ్ స్కామ్ గుర్తించబడింది. OTP లేదా ఖాతా వివరాలు ఇవ్వకండి.",
+          "afterCall": "తక్షణమే బ్యాంక్ హెల్ప్‌లైన్ ని కాల్ చేసి ధృవీకరించండి."
+        }
+      }
+    },
+    {
+      "code": "kn-IN",
+      "name": "ಕನ್ನಡ",
+      "englishName": "Kannada",
+      "scamMessages": {
+        "GovernmentImpersonation": {
+          "duringCall": "ಸರ್ಕಾರಿ ಪ್ರತಿನಿಧಿಯ ಮೋಸದ ಕರೆ. ವಿವರಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಬೇಡಿ. ಅಧಿಕೃತ ID ಕೇಳಿ.",
+          "afterCall": "ಧೃವೀಕರಿಸಲು ಸರ್ಕಾರದ ಹೆಲ್ಪ್‌ಲೈನ್ (ಉದಾ: 1800-123-4567) ಗೆ ಕರೆ ಮಾಡಿ."
+        },
+        "RemoteAccessRequest": {
+          "duringCall": "ಟೆಕ್ ಸಪೋರ್ಟ್ ಮೋಸ ಗುರುತಿಸಲಾಗಿದೆ. ರಿಮೋಟ್ ಪ್ರವೇಶ ಕೊಡಬೇಡಿ.",
+          "afterCall": "ಸರಿ ಪರಿಶೀಲಿಸಲು ಅಧಿಕೃತ ಸಂಖ್ಯೆಯನ್ನು ಸಂಪರ್ಕಿಸಿ."
+        },
+        "LotteryScam": {
+          "duringCall": "ಲಾಟರಿ ಮೋಸ ಗುರುತಿಸಲಾಗಿದೆ. ಬಹುಮಾನಕ್ಕಾಗಿ ಶುಲ್ಕ ಅಥವಾ ವಿವರಗಳನ್ನು ಕೇಳುವುದಿಲ್ಲ.",
+          "afterCall": "ಅಧಿಕೃತ ಲಾಟರಿ ಏಜೆನ್ಸಿಯನ್ನು ಸಂಪರ್ಕಿಸಿ."
+        },
+        "EcommerceScam": {
+          "duringCall": "ಇ-ಕಾಮರ್ಸ್ ಮೋಸ ಗುರುತಿಸಲಾಗಿದೆ. OTP ಅಥವಾ ಕಾರ್ಡ್ ವಿವರಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಬೇಡಿ.",
+          "afterCall": "ವಿಶ್ವಾಸಾರ್ಹ ಬೆಂಬಲದೊಂದಿಗೆ ಪರಿಶೀಲಿಸಿ."
+        },
+        "BankingScam": {
+          "duringCall": "ಬ್ಯಾಂಕಿಂಗ್ ಮೋಸ ಗುರುತಿಸಲಾಗಿದೆ. OTP ಅಥವಾ ಖಾತೆ ವಿವರಗಳನ್ನು ನೀಡಬೇಡಿ.",
+          "afterCall": "ತಕ್ಷಣ ನಿಮ್ಮ ಬ್ಯಾಂಕ್ ಹೆಲ್ಪ್‌ಲೈನ್ ಗೆ ಕರೆ ಮಾಡಿ ಪರಿಶೀಲಿಸಿ."
+        }
+      }
+    },
+    {
+      "code": "ml-IN",
+      "name": "മലയാളം",
+      "englishName": "Malayalam",
+      "scamMessages": {
+        "GovernmentImpersonation": {
+          "duringCall": "സർക്കാർ പ്രതിനിധി വ്യാജ കോളാണ്. വിവരങ്ങൾ പങ്കുവെക്കരുത്. ഔദ്യോഗിക ID ചോദിക്കുക.",
+          "afterCall": "സത്യപരിശോധനയ്ക്കായി സർക്കാർ ഹെൽപ്ലൈൻ (ഉദാ: 1800-123-4567) വിളിക്കുക."
+        },
+        "RemoteAccessRequest": {
+          "duringCall": "ടെക്ക് സപ്പോർട്ട് സ്കാം കണ്ടെത്തി. റിമോട്ട് ആക്‌സസ് അനുവദിക്കരുത്.",
+          "afterCall": "അധികാരിക നമ്പറിൽ വിളിച്ച് പരിശോധിക്കുക."
+        },
+        "LotteryScam": {
+          "duringCall": "ലോട്ടറി സ്കാം കണ്ടെത്തി. സമ്മാനത്തിന് ഫീസ് അല്ലെങ്കിൽ വിവരങ്ങൾ ആവശ്യമില്ല.",
+          "afterCall": "അധികാരിക ലോട്ടറി ഏജൻസിയെ ബന്ധപ്പെടുക."
+        },
+        "EcommerceScam": {
+          "duringCall": "ഇ-കോമേഴ്‌സ് സ്കാം കണ്ടെത്തി. OTP അല്ലെങ്കിൽ കാർഡ് വിവരങ്ങൾ നല്‍കരുത്.",
+          "afterCall": "അധികാരിക പിന്തുണയുമായി പരിശോധിക്കുക."
+        },
+        "BankingScam": {
+          "duringCall": "ബാങ്കിംഗ് സ്കാം കണ്ടെത്തി. OTP അല്ലെങ്കിൽ അക്കൗണ്ട് വിവരങ്ങൾ നല്‍കരുത്.",
+          "afterCall": "തടഞ്ഞതോന്നും, ഉടൻ ബാങ്ക് ഹെൽപ്ലൈനിൽ വിളിച്ച് പരിശോധിക്കുക."
+        }
+      }
+    },
+    {
+      "code": "mr-IN",
+      "name": "मराठी",
+      "englishName": "Marathi",
+      "scamMessages": {
+        "GovernmentImpersonation": {
+          "duringCall": "सरकारी प्रतिनिधीची नकली कॉल ओळखली. माहिती शेअर करू नका. अधिकृत ID विचारा.",
+          "afterCall": "तपासणीसाठी सरकारी हेल्पलाइन (उदा. 1800-123-4567) वर कॉल करा."
+        },
+        "RemoteAccessRequest": {
+          "duringCall": "टेक सपोर्ट स्कॅम ओळखली. रिमोट प्रवेश देऊ नका.",
+          "afterCall": "तपासण्यासाठी अधिकृत नंबरवर कॉल करा."
+        },
+        "LotteryScam": {
+          "duringCall": "लॉटरी स्कॅम ओळखली. बक्षीसासाठी फी किंवा माहिती मागत नाही.",
+          "afterCall": "अधिकृत लॉटरी एजन्सीशी संपर्क करा."
+        },
+        "EcommerceScam": {
+          "duringCall": "ई-कॉमर्स स्कॅम ओळखली. OTP किंवा कार्ड माहिती शेअर करू नका.",
+          "afterCall": "अधिकृत ग्राहक समर्थनाशी संपर्क करून तपासणी करा."
+        },
+        "BankingScam": {
+          "duringCall": "बँकिंग स्कॅम ओळखली. OTP किंवा खात्याची माहिती शेअर करू नका.",
+          "afterCall": "तुरळातच बँक हेल्पलाइनवर कॉल करा."
+        }
+      }
+    },
+    {
+      "code": "gu-IN",
+      "name": "ગુજરાતી",
+      "englishName": "Gujarati",
+      "scamMessages": {
+        "GovernmentImpersonation": {
+          "duringCall": "સરકારી પ્રતિનિધીનું ભ્રામક કોલ ઓળખાયું. વિગતો શેર ન કરો. અધિકૃત ID માંગો.",
+          "afterCall": "સત્યાપન માટે સરકારી હેલ્પલાઇન (જેમ કે 1800-123-4567) પર કોલ કરો."
+        },
+        "RemoteAccessRequest": {
+          "duringCall": "ટેક સપોર્ટ સ્કેમ ઓળખાઈ છે. રિમોટ ઍક્સેસ ન આપો.",
+          "afterCall": "સત્યાપન માટે સત્તાવાર નંબર પર કોલ કરો."
+        },
+        "LotteryScam": {
+          "duringCall": "લોટરી સ્કેમ ઓળખાઈ છે. ઇનામ માટે ફી કે વિગતો માંગતી નથી.",
+          "afterCall": "સત્યાપન માટે સત્તાવાર લોટરી એજન્સી સંપર્ક કરો."
+        },
+        "EcommerceScam": {
+          "duringCall": "ઈ-કોમર્સ સ્કેમ ઓળખાઈ છે. OTP અથવા કાર્ડ વિગતો શેર ન કરો.",
+          "afterCall": "સત્તાવાર સપોર્ટ સાથે તપાસ કરો."
+        },
+        "BankingScam": {
+          "duringCall": "બેન્કિંગ સ્કેમ ઓળખાઈ છે. OTP અથવા ખાતા વિગતો શેર ન કરો.",
+          "afterCall": "તત્કાળ બેન્ક હેલ્પલાઇન પર કોલ કરી તપાસ કરો."
+        }
+      }
+    },
+    {
+      "code": "pa-IN",
+      "name": "ਪੰਜਾਬੀ",
+      "englishName": "Punjabi",
+      "scamMessages": {
+        "GovernmentImpersonation": {
+          "duringCall": "ਸਰਕਾਰੀ ਪ੍ਰਤੀਨਿਧੀ ਦਾ ਨਕਲੀ ਕਾਲ ਪਛਾਣਿਆ ਗਿਆ। ਜਾਣਕਾਰੀ ਸਾਂਝੀ ਨਾ ਕਰੋ। ਅਧਿਕਾਰਿਕ ID ਮੰਗੋ।",
+          "afterCall": "ਸत्यਾਪਣ ਲਈ ਸਰਕਾਰੀ ਹੈਲਪਲਾਈਨ (ਜਿਵੇਂ 1800-123-4567) ਨੂੰ ਕਾਲ ਕਰੋ।"
+        },
+        "RemoteAccessRequest": {
+          "duringCall": "ਟੈਕ ਸਪੋਰਟ ਸਕੈਮ ਪਛਾਣੀ ਗਈ। ਰਿਮੋਟ ਐਕਸੈਸ ਨਾ ਦਿਓ।",
+          "afterCall": "ਸत्यਾਪਣ ਲਈ ਸੱਤਾਵਾਰ ਨੰਬਰ 'ਤੇ ਕਾਲ ਕਰੋ।"
+        },
+        "LotteryScam": {
+          "duringCall": "ਲਾਟਰੀ ਸਕੈਮ ਪਛਾਣੀ ਗਈ। ਇਨਾਮ ਲਈ ਫੀ ਜਾਂ ਜਾਣਕਾਰੀ ਨਹੀਂ ਮੰਗੀ ਜਾਂਦੀ।",
+          "afterCall": "ਸत्यਾਪਣ ਲਈ ਅਧਿਕਾਰਿਕ ਲਾਟਰੀ ਏਜੰਸੀ ਨਾਲ ਸੰਪਰਕ ਕਰੋ।"
+        },
+        "EcommerceScam": {
+          "duringCall": "ਈ-ਕਾਮਰਸ ਸਕੈਮ ਪਛਾਣੀ ਗਈ। OTP ਜਾਂ ਕਾਰਡ ਜਾਣਕਾਰੀ ਸਾਂਝੀ ਨਾ ਕਰੋ।",
+          "afterCall": "ਸੱਤਾਵਾਰ ਸਹਾਇਤਾ ਨਾਲ ਪੁਸ਼ਟੀ ਕਰੋ।"
+        },
+        "BankingScam": {
+          "duringCall": "ਬੈਂਕਿੰਗ ਸਕੈਮ ਪਛਾਣੀ ਗਈ। OTP ਜਾਂ ਖਾਤਾ ਜਾਣਕਾਰੀ ਨਾ ਦਿਓ।",
+          "afterCall": "ਫੌਰਨ ਆਪਣੇ ਬੈਂਕ ਹੈਲਪਲਾਈਨ 'ਤੇ ਕਾਲ ਕਰਕੇ ਪੁਸ਼ਟੀ ਕਰੋ।"
+        }
+      }
+    }
+  ]
+}
