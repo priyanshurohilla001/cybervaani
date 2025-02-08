@@ -45,9 +45,8 @@ Follow these steps to set up CyberVaani on your local machine.
 1. **Node.js** (v16 or higher)
 2. **Python** (v3.8 or higher)
 3. **Expo CLI** (for React Native)
-4. **Docker** (for backend deployment)
-5. **Google Cloud Account** (for Speech-to-Text API)
-6. **Hugging Face Account** (for model deployment)
+4. **Google Cloud Account** (for Speech-to-Text API)
+5. **Hugging Face Account** (for model deployment)
 
 ---
 
@@ -56,7 +55,7 @@ Follow these steps to set up CyberVaani on your local machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-repo/cybervaani.git
+git clone https://github.com/priyanshurohilla001/cybervaani.git
 cd cybervaani
 ```
 
@@ -79,7 +78,7 @@ Start the backend server:
 npm start
 ```
 
-The backend will run on `http://localhost:5000`.
+The backend will run on `http://localhost:3000`.
 
 ---
 
@@ -94,15 +93,7 @@ cd ../frontend
 npm install
 ```
 
-#### b. Configure Socket.io Client
-
-Update the Socket.io server URL in `frontend/src/config.ts` to point to your backend:
-
-```typescript
-export const SOCKET_URL = "http://localhost:5000";
-```
-
-#### c. Run the Frontend
+#### b. Run the Frontend
 
 Start the Expo development server:
 
